@@ -1,0 +1,2001 @@
+age,bmi,activity_level,yoga_experience,flexibility_score,strength_score,sleep_hours,session_duration_min,fitness_experience,goal_label,_synthetic
+22.0,23.27,2,3,3.0,1.0,6.5,45.0,0,Strength,True
+54.0,32.43,3,1,3.0,3.0,4.5,60.0,0,Stress Reduction,True
+48.0,24.69,3,0,2.0,4.0,7.7,20.0,3,Flexibility,True
+38.0,31.72,1,2,1.0,3.0,5.8,90.0,1,Weight Management,True
+38.0,25.0,3,2,1.0,5.0,7.3,60.0,1,General Fitness,True
+58.0,24.15,1,0,2.0,4.0,7.2,60.0,1,Flexibility,True
+22.0,20.22,0,0,4.0,1.0,4.2,45.0,2,Stress Reduction,True
+50.0,29.05,3,0,1.0,3.0,7.1,30.0,2,Strength,True
+27.0,30.45,3,0,1.0,2.0,7.8,45.0,2,Flexibility,True
+22.0,18.15,1,2,2.0,1.0,8.0,60.0,3,General Fitness,True
+42.0,25.55,1,0,5.0,5.0,7.2,90.0,1,General Fitness,True
+63.0,25.87,1,2,5.0,2.0,4.0,90.0,3,Stress Reduction,True
+52.0,35.7,0,0,3.0,1.0,8.9,20.0,3,Weight Management,True
+53.0,23.16,3,3,1.0,2.0,7.6,20.0,2,Strength,True
+51.0,40.69,0,2,1.0,5.0,5.2,90.0,0,Weight Management,True
+54.0,23.25,2,1,5.0,3.0,5.8,30.0,1,Stress Reduction,True
+42.0,24.2,0,1,3.0,5.0,7.3,45.0,2,General Fitness,True
+24.0,16.92,2,0,1.0,3.0,8.0,20.0,1,Flexibility,True
+57.0,20.88,3,0,5.0,1.0,6.3,20.0,1,Strength,True
+39.0,31.23,2,2,3.0,2.0,8.2,45.0,1,Strength,True
+41.0,32.4,2,0,2.0,1.0,4.3,60.0,0,Flexibility,True
+35.0,27.19,3,2,3.0,3.0,5.4,60.0,0,Flexibility,True
+26.0,34.6,3,1,2.0,2.0,4.0,90.0,3,Flexibility,True
+61.0,25.72,3,0,5.0,5.0,5.7,20.0,0,Stress Reduction,True
+54.0,28.59,0,2,4.0,2.0,9.3,30.0,3,Weight Management,True
+48.0,20.05,2,2,1.0,2.0,10.0,45.0,1,Strength,True
+36.0,32.72,3,2,4.0,5.0,7.4,45.0,3,Mobility,True
+56.0,22.6,1,0,1.0,3.0,6.0,20.0,1,Flexibility,True
+43.0,19.89,2,2,3.0,1.0,6.7,45.0,3,Strength,True
+38.0,16.72,0,3,4.0,3.0,7.7,90.0,2,Mobility,True
+39.0,37.27,3,1,1.0,2.0,4.7,20.0,3,Flexibility,True
+28.0,29.03,2,3,4.0,4.0,6.1,90.0,0,Mobility,True
+22.0,20.99,2,2,2.0,3.0,9.2,45.0,3,General Fitness,True
+44.0,32.09,3,1,4.0,4.0,5.4,45.0,1,Stress Reduction,True
+59.0,31.49,0,3,3.0,5.0,5.9,60.0,1,Weight Management,True
+20.0,37.68,1,3,1.0,4.0,7.0,60.0,0,Weight Management,True
+58.0,15.25,3,0,4.0,2.0,7.4,60.0,3,Strength,True
+56.0,23.51,0,3,2.0,2.0,6.1,20.0,2,Stress Reduction,True
+31.0,21.53,3,0,5.0,3.0,7.1,30.0,3,General Fitness,True
+47.0,13.02,1,0,5.0,3.0,7.9,90.0,2,Stress Reduction,True
+25.0,32.27,2,0,1.0,2.0,9.9,20.0,0,Flexibility,True
+53.0,21.47,2,1,4.0,5.0,6.8,60.0,1,General Fitness,True
+50.0,27.76,2,3,2.0,5.0,6.9,45.0,1,General Fitness,True
+34.0,44.37,3,2,4.0,2.0,9.3,20.0,0,Strength,True
+21.0,19.48,1,2,3.0,4.0,6.2,20.0,3,Mobility,True
+63.0,24.1,0,0,2.0,5.0,5.0,90.0,3,Flexibility,True
+38.0,31.66,1,2,4.0,1.0,7.4,20.0,2,Weight Management,True
+59.0,34.67,2,1,2.0,2.0,8.6,20.0,2,Flexibility,True
+49.0,24.83,3,1,5.0,4.0,7.5,20.0,2,General Fitness,True
+54.0,21.37,3,1,5.0,3.0,6.9,60.0,2,Flexibility,True
+53.0,31.85,1,0,1.0,4.0,4.8,90.0,0,Flexibility,True
+27.0,28.2,3,3,4.0,3.0,6.9,20.0,2,Mobility,True
+35.0,12.74,0,2,5.0,1.0,8.8,60.0,3,Mobility,True
+39.0,17.5,0,1,1.0,3.0,5.1,60.0,3,Flexibility,True
+41.0,32.01,0,0,4.0,3.0,6.6,30.0,2,Weight Management,True
+20.0,25.89,3,3,5.0,5.0,6.4,20.0,3,Mobility,True
+43.0,19.31,0,1,2.0,1.0,6.0,45.0,2,Flexibility,True
+25.0,31.6,2,1,3.0,1.0,7.4,20.0,1,Strength,True
+52.0,26.19,3,2,4.0,1.0,7.7,20.0,1,Strength,True
+50.0,38.54,3,0,2.0,3.0,7.6,45.0,2,Strength,True
+61.0,17.42,3,2,2.0,5.0,5.5,90.0,3,Stress Reduction,True
+53.0,20.36,0,3,2.0,4.0,4.5,90.0,0,Mobility,True
+35.0,23.42,1,1,2.0,5.0,7.4,60.0,1,Flexibility,True
+63.0,21.26,2,0,4.0,5.0,6.2,30.0,2,General Fitness,True
+37.0,27.45,2,0,2.0,4.0,9.8,30.0,3,Flexibility,True
+33.0,19.36,2,0,2.0,4.0,9.8,60.0,1,Flexibility,True
+60.0,25.43,2,2,5.0,2.0,10.0,20.0,2,Strength,True
+35.0,33.07,1,1,3.0,5.0,5.6,45.0,0,Weight Management,True
+21.0,27.66,0,0,5.0,4.0,7.9,60.0,1,Weight Management,True
+40.0,22.92,1,2,4.0,5.0,8.3,90.0,3,Mobility,True
+55.0,26.19,1,0,5.0,5.0,8.1,20.0,2,Stress Reduction,True
+26.0,18.52,2,1,1.0,2.0,6.5,30.0,3,Flexibility,True
+39.0,22.68,3,3,5.0,1.0,8.9,30.0,0,Strength,True
+24.0,35.96,2,0,5.0,5.0,7.0,45.0,1,General Fitness,True
+50.0,21.69,2,0,1.0,3.0,7.2,20.0,3,Flexibility,True
+40.0,18.48,0,1,2.0,5.0,4.7,90.0,3,Flexibility,True
+33.0,21.99,2,2,3.0,4.0,8.0,90.0,3,Mobility,True
+28.0,28.67,1,0,3.0,2.0,6.6,30.0,1,Weight Management,True
+44.0,25.51,0,3,4.0,2.0,7.7,45.0,3,Mobility,True
+49.0,29.55,0,0,4.0,4.0,7.4,45.0,1,Weight Management,True
+62.0,26.11,3,3,2.0,2.0,7.3,20.0,3,Strength,True
+38.0,33.66,3,2,4.0,2.0,6.9,90.0,3,Strength,True
+25.0,31.15,2,0,5.0,2.0,8.2,60.0,1,Strength,True
+57.0,35.62,3,0,3.0,4.0,6.7,30.0,1,General Fitness,True
+47.0,20.33,0,0,5.0,1.0,4.8,45.0,3,Stress Reduction,True
+50.0,19.74,1,1,4.0,1.0,7.9,30.0,1,Stress Reduction,True
+22.0,18.63,3,1,5.0,1.0,5.8,30.0,1,Strength,True
+32.0,26.77,0,2,5.0,4.0,5.0,30.0,2,Stress Reduction,True
+54.0,15.77,2,1,1.0,1.0,5.5,20.0,3,Flexibility,True
+57.0,22.14,0,2,5.0,3.0,7.4,90.0,0,Stress Reduction,True
+38.0,21.29,1,1,1.0,1.0,6.9,60.0,3,Flexibility,True
+55.0,20.97,1,1,5.0,3.0,4.0,90.0,1,Stress Reduction,True
+57.0,22.03,1,1,5.0,1.0,6.4,20.0,0,Stress Reduction,True
+36.0,32.06,3,1,2.0,1.0,8.8,60.0,1,Flexibility,True
+60.0,22.02,3,3,1.0,3.0,6.3,45.0,1,General Fitness,True
+31.0,40.82,2,0,3.0,4.0,6.8,60.0,2,General Fitness,True
+29.0,22.69,2,1,2.0,1.0,8.6,90.0,2,Flexibility,True
+50.0,25.32,0,3,3.0,3.0,8.2,30.0,0,Stress Reduction,True
+47.0,25.18,0,2,1.0,5.0,8.5,20.0,1,Stress Reduction,True
+24.0,30.18,0,0,1.0,4.0,4.0,20.0,0,Flexibility,True
+57.0,25.93,3,3,3.0,4.0,9.6,45.0,1,Mobility,True
+27.0,30.79,0,0,4.0,2.0,8.0,20.0,2,Weight Management,True
+55.0,20.51,1,0,2.0,5.0,10.0,20.0,3,Flexibility,True
+18.0,30.43,3,1,2.0,1.0,5.8,20.0,0,Flexibility,True
+55.0,30.04,2,2,1.0,4.0,4.4,30.0,2,Stress Reduction,True
+54.0,16.78,2,0,2.0,3.0,7.0,20.0,1,Flexibility,True
+54.0,35.8,0,3,2.0,1.0,6.6,45.0,1,Weight Management,True
+49.0,35.81,2,0,2.0,5.0,8.0,60.0,2,Flexibility,True
+40.0,19.71,2,3,2.0,4.0,8.6,30.0,0,General Fitness,True
+51.0,21.37,1,0,2.0,2.0,6.9,20.0,3,Flexibility,True
+31.0,11.3,2,1,4.0,1.0,6.6,45.0,1,Strength,True
+54.0,19.4,3,2,2.0,4.0,7.8,20.0,0,Weight Management,True
+44.0,26.03,1,1,4.0,3.0,6.6,60.0,3,General Fitness,True
+39.0,21.76,1,2,4.0,1.0,6.5,30.0,3,Mobility,True
+41.0,19.22,1,2,4.0,5.0,8.6,45.0,2,Mobility,True
+44.0,24.92,3,2,3.0,4.0,8.9,30.0,2,Mobility,True
+19.0,21.93,0,1,5.0,3.0,8.6,30.0,0,General Fitness,True
+24.0,22.09,3,3,2.0,2.0,6.7,20.0,1,Stress Reduction,True
+29.0,30.54,3,2,5.0,2.0,4.0,45.0,1,Strength,True
+23.0,22.18,1,1,2.0,3.0,6.8,20.0,3,Flexibility,True
+38.0,24.33,2,2,1.0,1.0,5.9,60.0,1,Strength,True
+49.0,23.9,3,3,5.0,2.0,6.8,30.0,2,Strength,True
+48.0,31.36,3,3,5.0,2.0,6.0,45.0,1,Strength,True
+40.0,34.23,1,2,1.0,1.0,7.0,45.0,2,Weight Management,True
+58.0,21.29,0,3,3.0,1.0,5.4,60.0,0,Stress Reduction,True
+44.0,27.43,2,3,3.0,2.0,5.1,60.0,2,Strength,True
+21.0,20.21,0,1,2.0,2.0,8.8,45.0,0,Flexibility,True
+53.0,38.0,0,2,3.0,2.0,5.5,90.0,2,Weight Management,True
+45.0,16.23,3,0,4.0,4.0,7.0,30.0,0,General Fitness,True
+47.0,26.9,1,1,3.0,3.0,8.4,60.0,3,Stress Reduction,True
+44.0,20.13,2,3,3.0,1.0,8.4,30.0,3,Strength,True
+44.0,32.16,0,1,5.0,5.0,8.2,60.0,2,Weight Management,True
+22.0,24.42,0,3,2.0,4.0,7.5,45.0,3,General Fitness,True
+44.0,16.97,0,1,4.0,3.0,8.1,90.0,3,General Fitness,True
+55.0,20.54,1,0,2.0,1.0,9.1,30.0,0,Flexibility,True
+32.0,27.27,0,0,5.0,5.0,7.6,45.0,2,General Fitness,True
+46.0,28.93,1,2,2.0,4.0,4.2,20.0,1,Weight Management,True
+19.0,28.22,1,1,5.0,3.0,6.2,60.0,3,Weight Management,True
+34.0,23.21,2,2,4.0,1.0,8.0,20.0,3,Strength,True
+38.0,34.61,2,0,2.0,1.0,6.1,45.0,3,General Fitness,True
+64.0,28.37,1,1,4.0,2.0,9.4,20.0,1,Weight Management,True
+28.0,15.33,1,0,2.0,2.0,6.9,30.0,0,Flexibility,True
+30.0,18.56,0,1,2.0,2.0,7.1,45.0,0,Flexibility,True
+37.0,22.11,1,3,2.0,3.0,8.7,30.0,0,General Fitness,True
+64.0,32.74,3,0,4.0,1.0,6.7,30.0,3,Strength,True
+58.0,39.16,3,2,2.0,2.0,7.3,20.0,2,Strength,True
+19.0,30.14,1,0,3.0,5.0,8.3,60.0,1,Weight Management,True
+28.0,26.23,3,2,3.0,5.0,4.8,60.0,1,Stress Reduction,True
+56.0,28.83,2,3,1.0,1.0,6.6,45.0,0,Strength,True
+20.0,18.65,0,1,2.0,4.0,8.2,20.0,2,Flexibility,True
+58.0,25.23,3,0,2.0,5.0,7.1,20.0,1,Flexibility,True
+31.0,19.59,1,2,2.0,3.0,9.2,60.0,3,General Fitness,True
+61.0,20.48,2,1,5.0,2.0,4.6,90.0,0,General Fitness,True
+31.0,25.41,2,3,2.0,3.0,4.5,90.0,3,Stress Reduction,True
+38.0,25.99,1,3,3.0,2.0,8.2,45.0,0,Mobility,True
+49.0,31.57,2,2,4.0,2.0,8.3,45.0,1,Strength,True
+23.0,28.8,2,2,4.0,5.0,6.7,20.0,1,Mobility,True
+44.0,26.91,1,2,4.0,4.0,7.6,20.0,2,Mobility,True
+41.0,28.99,1,2,3.0,3.0,8.1,60.0,2,Weight Management,True
+54.0,20.18,2,1,5.0,1.0,5.8,45.0,0,Strength,True
+64.0,27.58,0,3,5.0,5.0,5.9,45.0,1,Weight Management,True
+49.0,21.61,0,1,2.0,1.0,7.3,30.0,2,Flexibility,True
+37.0,35.46,3,0,1.0,4.0,8.4,30.0,1,Flexibility,True
+37.0,32.04,1,2,2.0,2.0,5.3,90.0,0,Weight Management,True
+37.0,21.98,2,2,5.0,2.0,6.7,90.0,0,Strength,True
+56.0,27.5,2,3,5.0,1.0,6.6,60.0,2,Strength,True
+33.0,18.34,3,1,4.0,2.0,7.6,30.0,1,Strength,True
+25.0,22.52,2,1,4.0,4.0,7.0,60.0,2,General Fitness,True
+33.0,16.16,2,2,2.0,3.0,6.2,30.0,0,General Fitness,True
+19.0,31.71,3,1,3.0,1.0,8.9,45.0,2,Strength,True
+22.0,30.71,3,3,1.0,2.0,6.2,20.0,0,Strength,True
+22.0,28.24,0,1,3.0,1.0,6.6,60.0,2,Weight Management,True
+54.0,35.83,2,3,1.0,3.0,4.6,20.0,3,Stress Reduction,True
+51.0,19.63,0,1,1.0,5.0,5.9,60.0,1,Flexibility,True
+50.0,56.43,3,0,5.0,5.0,7.8,60.0,0,General Fitness,True
+39.0,30.73,0,3,5.0,5.0,7.5,20.0,0,Weight Management,True
+51.0,28.21,0,2,4.0,1.0,7.9,45.0,1,Flexibility,True
+25.0,22.75,0,2,4.0,3.0,7.8,30.0,0,Strength,True
+60.0,24.9,2,2,2.0,1.0,10.0,45.0,3,Strength,True
+41.0,27.95,0,1,3.0,3.0,5.9,20.0,3,Weight Management,True
+62.0,25.52,0,3,4.0,3.0,4.6,60.0,3,Stress Reduction,True
+25.0,30.84,2,1,3.0,4.0,5.4,45.0,3,Stress Reduction,True
+41.0,23.29,3,3,2.0,2.0,5.9,30.0,2,Strength,True
+50.0,25.89,2,1,2.0,1.0,5.5,90.0,1,Flexibility,True
+41.0,17.83,1,0,5.0,3.0,7.1,60.0,1,Stress Reduction,True
+38.0,26.4,2,0,2.0,3.0,8.9,60.0,1,Flexibility,True
+25.0,25.98,2,3,5.0,4.0,9.3,20.0,3,Mobility,True
+35.0,19.91,1,2,4.0,1.0,7.8,45.0,1,Mobility,True
+29.0,20.42,2,1,5.0,4.0,10.0,60.0,1,General Fitness,True
+32.0,39.69,0,3,3.0,3.0,6.5,90.0,2,Weight Management,True
+50.0,19.83,0,2,2.0,4.0,4.6,60.0,1,Stress Reduction,True
+47.0,23.38,2,2,1.0,5.0,8.6,20.0,1,General Fitness,True
+46.0,25.29,1,2,3.0,2.0,4.2,60.0,0,Stress Reduction,True
+35.0,28.67,0,0,2.0,4.0,5.9,20.0,0,Flexibility,True
+63.0,29.26,0,0,1.0,1.0,7.8,30.0,0,Weight Management,True
+22.0,28.92,3,2,5.0,5.0,6.8,90.0,1,Mobility,True
+34.0,34.77,1,0,5.0,3.0,6.7,90.0,3,Weight Management,True
+23.0,24.23,0,2,2.0,4.0,5.2,90.0,1,General Fitness,True
+33.0,29.89,2,0,4.0,4.0,7.0,30.0,2,General Fitness,True
+63.0,15.26,2,1,3.0,4.0,8.5,60.0,1,General Fitness,True
+35.0,17.53,1,2,3.0,2.0,7.0,60.0,1,Mobility,True
+60.0,20.95,3,2,4.0,4.0,5.8,30.0,0,Stress Reduction,True
+41.0,19.27,1,3,3.0,3.0,5.1,90.0,2,Stress Reduction,True
+50.0,35.63,2,2,5.0,4.0,5.8,90.0,2,Stress Reduction,True
+39.0,36.79,2,0,1.0,4.0,7.6,20.0,1,Flexibility,True
+30.0,30.79,2,3,4.0,3.0,7.5,60.0,2,Mobility,True
+53.0,28.54,0,0,5.0,1.0,5.8,45.0,1,Weight Management,True
+63.0,29.56,2,0,5.0,2.0,4.0,60.0,1,Strength,True
+30.0,18.73,2,3,1.0,5.0,7.6,45.0,2,General Fitness,True
+54.0,32.68,0,0,1.0,3.0,5.7,30.0,2,Flexibility,True
+30.0,25.49,0,2,4.0,4.0,8.0,20.0,0,Mobility,True
+51.0,27.21,2,1,5.0,2.0,5.9,45.0,1,Strength,True
+55.0,25.75,0,3,5.0,4.0,5.5,90.0,1,Stress Reduction,True
+39.0,23.09,3,0,5.0,3.0,7.2,90.0,3,General Fitness,True
+52.0,15.12,0,0,1.0,2.0,10.0,30.0,1,Flexibility,True
+30.0,23.25,3,1,3.0,1.0,8.1,90.0,3,Flexibility,True
+21.0,26.05,2,1,4.0,2.0,7.2,30.0,2,Strength,True
+22.0,28.82,1,3,4.0,3.0,7.5,45.0,0,Weight Management,True
+39.0,20.76,1,2,4.0,2.0,4.4,30.0,1,Stress Reduction,True
+60.0,20.34,1,0,2.0,2.0,5.3,45.0,3,Flexibility,True
+23.0,20.09,2,3,3.0,2.0,4.0,45.0,1,Strength,True
+39.0,21.39,3,1,3.0,2.0,9.6,60.0,2,Strength,True
+51.0,17.78,0,3,5.0,4.0,9.3,45.0,3,Stress Reduction,True
+27.0,14.35,2,3,2.0,3.0,7.6,45.0,2,General Fitness,True
+51.0,18.16,3,0,2.0,3.0,7.2,60.0,0,General Fitness,True
+32.0,26.26,1,2,1.0,1.0,4.7,45.0,1,Weight Management,True
+56.0,16.9,2,1,1.0,3.0,6.7,45.0,1,Flexibility,True
+45.0,19.5,0,1,5.0,5.0,9.7,20.0,1,General Fitness,True
+43.0,24.61,3,1,5.0,4.0,7.2,90.0,3,General Fitness,True
+26.0,20.78,0,2,2.0,3.0,6.2,20.0,0,General Fitness,True
+39.0,26.76,1,1,4.0,2.0,4.4,90.0,2,Stress Reduction,True
+58.0,25.78,1,0,3.0,2.0,9.1,60.0,3,Stress Reduction,True
+18.0,25.89,1,1,5.0,1.0,6.9,90.0,3,General Fitness,True
+53.0,25.78,0,0,2.0,1.0,4.4,20.0,2,Flexibility,True
+41.0,33.32,2,3,5.0,4.0,5.6,30.0,3,Stress Reduction,True
+51.0,22.15,0,2,2.0,5.0,5.1,20.0,1,Stress Reduction,True
+49.0,31.45,3,1,4.0,5.0,6.8,45.0,2,Strength,True
+38.0,29.63,0,1,2.0,4.0,7.3,90.0,2,Flexibility,True
+32.0,25.1,1,0,4.0,5.0,6.2,60.0,0,General Fitness,True
+47.0,30.17,3,1,2.0,3.0,8.2,60.0,0,Flexibility,True
+24.0,29.84,0,3,5.0,2.0,7.1,90.0,3,Weight Management,True
+45.0,23.62,0,0,4.0,2.0,8.6,20.0,0,General Fitness,True
+22.0,21.18,2,0,2.0,2.0,6.5,60.0,1,Flexibility,True
+48.0,22.7,0,3,5.0,4.0,10.0,30.0,2,Stress Reduction,True
+47.0,26.17,3,2,4.0,1.0,6.2,60.0,2,Strength,True
+21.0,29.52,1,0,3.0,5.0,5.6,60.0,2,Weight Management,True
+53.0,21.12,3,1,1.0,4.0,5.5,60.0,3,Weight Management,True
+37.0,43.41,0,2,5.0,2.0,6.7,45.0,3,Weight Management,True
+54.0,32.8,0,1,4.0,4.0,4.4,60.0,3,Weight Management,True
+19.0,22.36,3,1,4.0,1.0,7.4,45.0,2,Strength,True
+26.0,42.41,3,2,5.0,3.0,4.1,60.0,3,Stress Reduction,True
+41.0,43.34,3,2,4.0,1.0,7.2,45.0,2,Strength,True
+26.0,26.13,1,3,2.0,1.0,5.0,30.0,2,Stress Reduction,True
+33.0,33.02,1,0,2.0,1.0,6.4,30.0,3,Flexibility,True
+49.0,21.89,2,1,1.0,4.0,7.9,30.0,3,Flexibility,True
+24.0,15.06,1,0,1.0,4.0,10.0,60.0,0,Flexibility,True
+49.0,13.51,0,2,4.0,5.0,5.4,90.0,3,Flexibility,True
+22.0,29.52,1,2,5.0,5.0,6.8,20.0,2,Weight Management,True
+26.0,20.4,2,1,1.0,5.0,5.9,20.0,3,Flexibility,True
+45.0,18.29,0,2,3.0,5.0,5.7,45.0,2,Stress Reduction,True
+55.0,26.45,1,1,1.0,1.0,5.9,60.0,3,Flexibility,True
+26.0,26.54,1,0,3.0,4.0,8.2,20.0,1,General Fitness,True
+32.0,15.87,0,2,4.0,4.0,6.3,30.0,0,Mobility,True
+61.0,24.08,0,1,5.0,1.0,10.0,20.0,0,Stress Reduction,True
+64.0,38.34,1,1,5.0,1.0,7.6,20.0,1,Weight Management,True
+45.0,22.11,0,1,2.0,5.0,5.5,20.0,0,Flexibility,True
+39.0,29.46,1,3,5.0,5.0,6.4,60.0,1,Weight Management,True
+34.0,21.45,2,0,4.0,2.0,5.8,90.0,0,Strength,True
+46.0,30.88,3,1,2.0,1.0,8.2,45.0,0,Flexibility,True
+45.0,30.92,0,2,2.0,2.0,4.5,20.0,2,Weight Management,True
+31.0,27.15,1,0,1.0,1.0,5.0,90.0,3,Flexibility,True
+19.0,27.86,0,0,5.0,4.0,6.1,30.0,0,Weight Management,True
+25.0,15.57,1,2,2.0,2.0,8.0,20.0,2,General Fitness,True
+63.0,26.8,1,2,2.0,1.0,8.8,20.0,2,Stress Reduction,True
+37.0,22.98,3,2,3.0,5.0,9.1,30.0,2,Mobility,True
+40.0,21.74,1,0,1.0,5.0,7.8,60.0,0,Flexibility,True
+39.0,28.18,3,3,5.0,5.0,6.9,30.0,2,Mobility,True
+54.0,24.45,0,1,4.0,5.0,8.2,45.0,0,Stress Reduction,True
+21.0,26.61,0,0,1.0,1.0,5.3,30.0,0,Flexibility,True
+21.0,21.38,0,1,1.0,4.0,4.2,90.0,1,Flexibility,True
+30.0,22.12,1,0,1.0,4.0,7.7,60.0,3,Flexibility,True
+40.0,30.41,0,1,5.0,4.0,5.5,60.0,0,Weight Management,True
+49.0,31.71,0,1,3.0,2.0,6.9,45.0,3,Weight Management,True
+41.0,27.94,0,1,4.0,2.0,7.2,45.0,3,Weight Management,True
+38.0,20.74,3,1,1.0,5.0,7.4,90.0,3,Flexibility,True
+62.0,19.03,3,3,2.0,1.0,8.4,60.0,1,Strength,True
+25.0,29.22,0,3,3.0,4.0,8.2,90.0,0,Weight Management,True
+44.0,25.09,3,1,2.0,4.0,7.3,20.0,0,Flexibility,True
+43.0,29.03,0,3,4.0,4.0,6.3,90.0,3,Weight Management,True
+40.0,19.53,1,3,5.0,3.0,7.2,90.0,0,Mobility,True
+55.0,34.2,1,3,2.0,4.0,6.1,60.0,2,Weight Management,True
+30.0,16.49,1,0,4.0,5.0,6.7,90.0,1,General Fitness,True
+62.0,24.53,3,1,5.0,4.0,10.0,45.0,3,General Fitness,True
+33.0,22.73,2,1,5.0,1.0,7.3,30.0,2,Strength,True
+43.0,18.74,2,0,1.0,2.0,7.7,60.0,2,Flexibility,True
+42.0,24.39,2,0,1.0,2.0,5.9,60.0,3,Flexibility,True
+57.0,35.77,2,2,5.0,2.0,8.5,20.0,3,Strength,True
+38.0,22.41,0,1,5.0,2.0,8.1,30.0,1,General Fitness,True
+31.0,27.54,1,3,2.0,2.0,8.2,30.0,2,Weight Management,True
+19.0,10.91,0,2,3.0,4.0,7.3,45.0,2,Mobility,True
+35.0,22.89,2,0,3.0,1.0,8.6,20.0,3,Mobility,True
+56.0,21.52,1,3,4.0,4.0,8.9,60.0,1,Stress Reduction,True
+18.0,19.07,2,1,4.0,4.0,7.4,20.0,1,General Fitness,True
+60.0,25.89,2,2,2.0,5.0,6.8,90.0,3,General Fitness,True
+43.0,19.59,1,3,5.0,1.0,8.3,60.0,3,Mobility,True
+24.0,25.13,0,2,1.0,2.0,5.6,30.0,2,Stress Reduction,True
+32.0,21.9,3,0,1.0,5.0,5.9,30.0,0,Flexibility,True
+44.0,15.57,1,0,5.0,3.0,6.9,60.0,1,General Fitness,True
+32.0,18.69,0,1,1.0,3.0,4.4,20.0,1,Flexibility,True
+23.0,32.6,1,0,5.0,1.0,8.2,60.0,2,Weight Management,True
+49.0,11.07,3,0,2.0,4.0,5.6,45.0,2,Flexibility,True
+49.0,19.87,1,3,2.0,2.0,6.3,30.0,3,Flexibility,True
+23.0,23.39,3,0,1.0,5.0,6.7,90.0,0,Flexibility,True
+31.0,30.08,1,0,5.0,2.0,7.1,60.0,1,Weight Management,True
+29.0,38.73,3,2,2.0,1.0,6.5,20.0,2,Strength,True
+48.0,28.42,2,0,1.0,3.0,6.9,60.0,3,Mobility,True
+52.0,29.27,0,1,3.0,3.0,6.9,45.0,0,Weight Management,True
+52.0,20.74,2,3,1.0,3.0,6.3,60.0,3,General Fitness,True
+62.0,29.63,1,2,4.0,5.0,5.8,45.0,0,Weight Management,True
+54.0,20.68,0,3,1.0,2.0,8.6,90.0,0,Stress Reduction,True
+33.0,30.98,2,1,3.0,2.0,4.0,90.0,3,Strength,True
+23.0,18.08,0,2,2.0,4.0,6.7,20.0,3,General Fitness,True
+46.0,17.52,2,0,1.0,1.0,6.3,45.0,3,General Fitness,True
+61.0,23.3,3,1,1.0,5.0,7.6,30.0,2,Flexibility,True
+63.0,27.97,0,0,3.0,2.0,4.8,45.0,2,Weight Management,True
+28.0,23.35,1,3,2.0,2.0,6.3,20.0,2,General Fitness,True
+29.0,36.95,2,0,1.0,1.0,6.8,45.0,2,Flexibility,True
+19.0,21.1,0,0,1.0,2.0,8.6,20.0,2,Flexibility,True
+24.0,25.69,1,1,5.0,3.0,7.5,60.0,1,General Fitness,True
+44.0,33.51,1,1,4.0,4.0,5.2,45.0,3,Weight Management,True
+43.0,26.74,0,1,4.0,5.0,6.3,90.0,1,General Fitness,True
+35.0,26.08,3,1,5.0,4.0,8.3,90.0,2,General Fitness,True
+32.0,29.12,1,1,1.0,2.0,5.2,60.0,2,Flexibility,True
+57.0,27.83,3,3,4.0,5.0,6.9,45.0,2,Mobility,True
+39.0,47.6,2,2,4.0,1.0,7.0,60.0,2,Strength,True
+55.0,28.03,3,3,2.0,2.0,6.4,60.0,0,Strength,True
+63.0,27.76,3,3,3.0,2.0,10.0,20.0,1,Strength,True
+32.0,43.3,2,2,4.0,3.0,6.4,30.0,1,Mobility,True
+27.0,38.54,1,3,4.0,2.0,7.7,90.0,1,Weight Management,True
+62.0,31.32,1,0,2.0,5.0,5.9,30.0,3,Flexibility,True
+47.0,24.98,3,3,4.0,2.0,7.8,20.0,3,Strength,True
+31.0,28.08,1,1,4.0,2.0,8.3,90.0,2,Weight Management,True
+47.0,23.51,2,2,1.0,4.0,6.1,90.0,1,General Fitness,True
+42.0,25.74,0,0,3.0,3.0,6.9,60.0,0,General Fitness,True
+60.0,25.95,3,0,3.0,3.0,5.7,60.0,3,Stress Reduction,True
+30.0,26.11,2,3,2.0,5.0,5.3,30.0,3,Stress Reduction,True
+64.0,24.52,1,1,1.0,3.0,8.6,30.0,1,Flexibility,True
+61.0,28.95,2,0,1.0,1.0,6.2,90.0,3,Flexibility,True
+26.0,24.08,1,2,4.0,4.0,4.0,90.0,3,Stress Reduction,True
+25.0,24.69,0,0,5.0,4.0,9.6,45.0,2,General Fitness,True
+43.0,20.35,3,1,3.0,2.0,5.8,30.0,0,Strength,True
+20.0,37.72,3,2,5.0,5.0,6.6,20.0,0,Mobility,True
+32.0,25.44,3,2,5.0,2.0,9.5,20.0,3,Strength,True
+38.0,17.72,1,1,4.0,1.0,6.8,45.0,2,General Fitness,True
+63.0,24.92,1,1,3.0,1.0,6.8,45.0,0,Stress Reduction,True
+64.0,25.96,0,3,5.0,4.0,5.2,60.0,0,Stress Reduction,True
+25.0,35.71,2,0,4.0,2.0,4.5,90.0,3,Strength,True
+59.0,29.18,1,0,5.0,3.0,6.8,30.0,1,Weight Management,True
+22.0,23.68,3,0,5.0,4.0,7.5,20.0,1,General Fitness,True
+53.0,27.23,3,3,1.0,5.0,7.5,90.0,2,General Fitness,True
+57.0,31.02,0,1,4.0,3.0,6.3,60.0,1,Weight Management,True
+59.0,21.59,3,0,4.0,5.0,7.0,45.0,3,General Fitness,True
+28.0,21.56,0,0,5.0,2.0,4.2,20.0,2,Stress Reduction,True
+59.0,31.94,1,0,2.0,5.0,7.7,45.0,1,Flexibility,True
+23.0,28.36,1,3,5.0,2.0,7.2,60.0,1,Weight Management,True
+42.0,13.15,3,1,3.0,1.0,10.0,90.0,3,Strength,True
+40.0,22.06,2,0,2.0,4.0,7.0,45.0,2,Flexibility,True
+32.0,24.07,3,0,1.0,4.0,5.6,45.0,3,Flexibility,True
+19.0,18.92,2,2,2.0,5.0,6.9,30.0,1,General Fitness,True
+54.0,22.33,3,2,5.0,5.0,6.5,45.0,0,Mobility,True
+33.0,25.58,3,3,4.0,1.0,7.7,20.0,3,Strength,True
+49.0,14.04,3,0,4.0,4.0,7.0,20.0,0,General Fitness,True
+37.0,16.43,1,0,5.0,4.0,5.1,60.0,3,Stress Reduction,True
+35.0,25.46,1,0,2.0,4.0,4.5,30.0,2,Flexibility,True
+59.0,27.73,3,1,4.0,1.0,7.4,90.0,0,Strength,True
+22.0,32.52,3,2,2.0,1.0,9.1,30.0,3,Strength,True
+52.0,31.25,3,2,5.0,4.0,7.1,90.0,0,Mobility,True
+53.0,19.22,2,0,3.0,5.0,8.2,20.0,1,General Fitness,True
+35.0,18.23,3,2,5.0,1.0,8.5,20.0,1,Strength,True
+30.0,25.38,2,2,4.0,1.0,7.4,45.0,2,Strength,True
+18.0,28.42,2,0,4.0,3.0,5.8,90.0,2,Flexibility,True
+62.0,25.09,0,2,5.0,2.0,7.3,20.0,2,Stress Reduction,True
+62.0,20.19,2,1,4.0,5.0,8.8,45.0,1,General Fitness,True
+29.0,26.13,2,0,2.0,5.0,7.8,30.0,2,Flexibility,True
+19.0,25.52,3,1,3.0,3.0,8.1,60.0,0,General Fitness,True
+23.0,34.76,3,3,3.0,5.0,6.3,45.0,2,Mobility,True
+21.0,19.69,1,2,1.0,2.0,6.7,60.0,0,General Fitness,True
+57.0,18.53,1,1,3.0,5.0,6.8,30.0,0,Stress Reduction,True
+59.0,9.53,3,3,3.0,3.0,6.9,30.0,2,Mobility,True
+25.0,22.57,3,1,2.0,3.0,8.8,60.0,0,Flexibility,True
+53.0,23.51,0,1,1.0,1.0,4.0,30.0,3,Flexibility,True
+26.0,20.36,1,0,3.0,1.0,7.0,60.0,0,General Fitness,True
+35.0,26.71,3,3,3.0,1.0,6.9,20.0,0,Strength,True
+46.0,25.84,0,3,1.0,3.0,4.9,30.0,3,Stress Reduction,True
+51.0,11.25,3,0,4.0,1.0,8.0,20.0,0,Strength,True
+59.0,32.67,0,2,1.0,1.0,5.9,20.0,3,Weight Management,True
+20.0,17.94,0,3,1.0,4.0,6.5,30.0,1,General Fitness,True
+27.0,28.97,3,2,3.0,5.0,9.8,45.0,3,Mobility,True
+31.0,17.12,2,0,2.0,1.0,8.5,20.0,3,Flexibility,True
+32.0,28.96,2,3,5.0,3.0,7.9,20.0,0,Mobility,True
+64.0,20.06,3,1,1.0,5.0,7.6,90.0,1,Flexibility,True
+54.0,23.04,1,1,2.0,3.0,6.8,45.0,2,Strength,True
+33.0,22.92,2,1,4.0,1.0,10.0,60.0,3,Strength,True
+63.0,28.58,2,3,2.0,1.0,8.2,60.0,0,Strength,True
+41.0,14.97,2,2,5.0,5.0,5.9,20.0,0,Stress Reduction,True
+41.0,16.04,1,2,4.0,3.0,4.9,60.0,1,Stress Reduction,True
+38.0,26.7,2,3,5.0,1.0,7.9,90.0,0,Strength,True
+24.0,25.01,1,3,5.0,5.0,6.9,45.0,1,Mobility,True
+61.0,20.7,2,3,1.0,5.0,4.9,90.0,0,General Fitness,True
+18.0,26.6,3,3,3.0,4.0,7.6,90.0,3,Strength,True
+26.0,22.94,1,3,4.0,1.0,6.6,45.0,3,Mobility,True
+28.0,18.98,2,3,1.0,1.0,7.8,20.0,0,Strength,True
+31.0,19.76,3,2,3.0,2.0,7.7,60.0,2,Strength,True
+24.0,22.72,3,0,4.0,1.0,6.1,90.0,2,Strength,True
+18.0,39.21,3,0,4.0,3.0,7.9,45.0,2,General Fitness,True
+49.0,36.73,2,3,3.0,2.0,6.3,90.0,3,Strength,True
+63.0,21.72,1,1,5.0,4.0,6.4,45.0,2,Stress Reduction,True
+23.0,30.76,3,3,4.0,1.0,6.2,45.0,2,Strength,True
+31.0,27.02,2,3,1.0,4.0,8.7,90.0,0,Stress Reduction,True
+41.0,21.47,0,2,2.0,5.0,6.6,20.0,0,General Fitness,True
+61.0,25.46,1,3,5.0,1.0,9.1,45.0,2,Stress Reduction,True
+50.0,15.79,1,1,1.0,4.0,9.7,20.0,3,Flexibility,True
+54.0,24.84,3,1,1.0,3.0,5.9,60.0,1,Flexibility,True
+45.0,20.71,0,3,2.0,1.0,4.0,90.0,2,Stress Reduction,True
+37.0,13.03,2,3,5.0,2.0,8.6,90.0,0,Strength,True
+27.0,22.02,2,0,4.0,4.0,6.5,30.0,1,General Fitness,True
+58.0,18.18,0,3,1.0,5.0,5.7,60.0,3,Stress Reduction,True
+55.0,35.87,2,1,2.0,2.0,6.1,90.0,2,Flexibility,True
+19.0,22.84,3,3,5.0,1.0,6.4,90.0,0,Strength,True
+51.0,18.61,2,2,2.0,2.0,8.9,45.0,3,Strength,True
+21.0,24.07,2,2,3.0,5.0,7.2,20.0,3,Mobility,True
+52.0,13.76,1,0,3.0,3.0,8.9,45.0,1,Stress Reduction,True
+56.0,26.61,0,1,4.0,3.0,7.7,60.0,1,Stress Reduction,True
+24.0,23.66,0,2,4.0,1.0,6.5,60.0,2,Mobility,True
+38.0,30.72,1,3,5.0,4.0,6.4,30.0,3,Weight Management,True
+23.0,21.58,2,0,1.0,3.0,7.8,30.0,1,Flexibility,True
+44.0,32.69,0,0,3.0,3.0,8.2,60.0,0,Weight Management,True
+61.0,17.86,3,2,4.0,5.0,8.5,45.0,0,Weight Management,True
+21.0,16.67,2,1,3.0,3.0,6.6,45.0,3,General Fitness,True
+36.0,28.01,1,3,4.0,5.0,7.3,90.0,3,Weight Management,True
+63.0,31.64,3,0,4.0,3.0,7.9,20.0,3,General Fitness,True
+32.0,27.73,0,1,2.0,2.0,6.4,30.0,0,Flexibility,True
+24.0,23.28,3,0,1.0,5.0,5.3,90.0,0,Flexibility,True
+40.0,13.56,1,2,5.0,4.0,5.8,90.0,1,Stress Reduction,True
+41.0,10.74,1,3,5.0,4.0,6.6,30.0,0,Mobility,True
+49.0,31.37,1,0,5.0,2.0,8.0,90.0,1,Weight Management,True
+32.0,19.85,3,1,2.0,4.0,8.9,30.0,2,Flexibility,True
+62.0,16.1,1,3,2.0,3.0,5.0,20.0,1,Weight Management,True
+42.0,28.17,3,0,2.0,1.0,6.1,30.0,0,Flexibility,True
+31.0,19.88,1,3,1.0,2.0,6.5,45.0,1,General Fitness,True
+63.0,26.84,1,3,1.0,5.0,8.2,20.0,2,Stress Reduction,True
+61.0,22.95,2,0,2.0,3.0,6.2,20.0,2,Flexibility,True
+41.0,31.64,2,0,5.0,4.0,6.4,60.0,1,Stress Reduction,True
+19.0,25.69,1,2,2.0,1.0,4.9,60.0,1,Stress Reduction,True
+46.0,24.97,0,0,3.0,2.0,7.7,60.0,2,Stress Reduction,True
+44.0,29.43,1,2,3.0,5.0,6.8,90.0,0,Weight Management,True
+24.0,16.64,2,0,2.0,3.0,6.0,30.0,3,Flexibility,True
+47.0,39.61,0,2,5.0,5.0,6.6,90.0,3,Weight Management,True
+57.0,30.3,0,1,1.0,5.0,8.7,30.0,0,Flexibility,True
+22.0,24.56,3,2,5.0,2.0,5.5,90.0,3,Strength,True
+51.0,25.0,0,3,4.0,5.0,5.7,60.0,0,Stress Reduction,True
+24.0,32.68,1,1,2.0,4.0,8.9,30.0,1,Flexibility,True
+53.0,26.86,3,2,4.0,1.0,7.1,30.0,2,Strength,True
+37.0,16.68,1,2,3.0,1.0,8.0,45.0,1,General Fitness,True
+18.0,36.73,1,3,5.0,1.0,7.6,45.0,0,Weight Management,True
+63.0,25.74,0,0,1.0,4.0,6.9,30.0,0,Flexibility,True
+25.0,31.5,3,0,1.0,1.0,6.5,30.0,2,Flexibility,True
+46.0,17.42,2,1,3.0,2.0,8.2,90.0,0,Strength,True
+26.0,28.16,3,2,5.0,3.0,8.7,60.0,1,Mobility,True
+61.0,22.58,3,3,1.0,1.0,8.6,20.0,1,Strength,True
+52.0,37.89,1,1,4.0,2.0,5.2,60.0,3,Weight Management,True
+55.0,27.4,0,0,5.0,4.0,9.0,20.0,3,Stress Reduction,True
+38.0,31.2,1,2,3.0,5.0,6.5,45.0,3,Weight Management,True
+39.0,38.98,0,2,5.0,3.0,5.9,20.0,2,Weight Management,True
+47.0,24.17,2,1,4.0,4.0,6.7,60.0,2,General Fitness,True
+54.0,30.21,0,0,2.0,3.0,8.2,20.0,1,Flexibility,True
+57.0,19.39,3,3,5.0,3.0,7.8,30.0,0,Mobility,True
+18.0,31.62,2,3,4.0,3.0,6.6,20.0,3,Mobility,True
+49.0,22.37,1,2,1.0,5.0,8.3,20.0,1,Stress Reduction,True
+23.0,17.4,3,2,3.0,1.0,7.2,20.0,1,Strength,True
+31.0,25.47,3,1,4.0,3.0,6.1,45.0,0,Weight Management,True
+56.0,22.85,1,1,5.0,1.0,5.9,90.0,1,Stress Reduction,True
+29.0,26.65,0,0,4.0,5.0,7.6,30.0,2,General Fitness,True
+55.0,16.93,1,0,3.0,4.0,6.9,60.0,1,Stress Reduction,True
+39.0,27.15,2,1,2.0,1.0,4.9,45.0,2,Flexibility,True
+28.0,36.13,3,1,1.0,4.0,8.3,30.0,0,Flexibility,True
+33.0,30.39,1,0,1.0,3.0,6.3,20.0,0,Flexibility,True
+42.0,27.86,2,3,4.0,1.0,9.4,60.0,3,Strength,True
+53.0,20.6,1,1,5.0,5.0,4.9,20.0,1,Stress Reduction,True
+46.0,20.24,0,2,1.0,2.0,6.7,45.0,1,Stress Reduction,True
+61.0,19.56,1,1,4.0,1.0,6.0,20.0,1,Stress Reduction,True
+58.0,19.32,0,1,3.0,4.0,5.5,60.0,2,Stress Reduction,True
+53.0,28.01,1,3,1.0,2.0,6.3,90.0,2,Weight Management,True
+46.0,22.8,1,2,2.0,4.0,9.7,30.0,1,Stress Reduction,True
+31.0,18.81,1,3,2.0,1.0,7.2,30.0,3,General Fitness,True
+37.0,19.72,3,1,4.0,5.0,5.8,45.0,3,Stress Reduction,True
+23.0,16.44,1,1,2.0,3.0,4.3,45.0,0,Flexibility,True
+35.0,24.64,2,1,5.0,3.0,4.4,30.0,2,Stress Reduction,True
+61.0,36.17,2,2,2.0,5.0,6.2,30.0,3,General Fitness,True
+38.0,38.21,2,1,1.0,3.0,6.0,20.0,1,Flexibility,True
+23.0,17.26,1,1,1.0,1.0,6.7,30.0,0,Flexibility,True
+48.0,39.31,3,0,3.0,3.0,4.0,45.0,0,Stress Reduction,True
+63.0,37.8,0,2,3.0,4.0,6.9,60.0,2,Weight Management,True
+58.0,16.25,1,2,4.0,2.0,8.5,60.0,3,Stress Reduction,True
+30.0,20.43,3,2,3.0,1.0,9.4,45.0,0,Strength,True
+39.0,31.06,1,3,1.0,1.0,4.2,60.0,2,Weight Management,True
+42.0,37.61,2,3,2.0,5.0,5.8,45.0,1,Stress Reduction,True
+29.0,18.18,0,3,3.0,1.0,5.7,30.0,1,Stress Reduction,True
+30.0,28.91,2,0,2.0,3.0,7.2,30.0,2,Flexibility,True
+29.0,10.39,3,3,4.0,5.0,5.2,45.0,3,Stress Reduction,True
+64.0,28.57,2,1,5.0,2.0,9.5,30.0,0,Strength,True
+53.0,32.78,2,1,2.0,2.0,7.1,60.0,0,Flexibility,True
+57.0,20.6,3,1,3.0,4.0,6.8,20.0,1,General Fitness,True
+56.0,21.06,1,1,5.0,4.0,9.4,20.0,1,Stress Reduction,True
+63.0,27.94,1,3,2.0,1.0,7.0,45.0,2,Weight Management,True
+22.0,29.93,0,2,3.0,3.0,7.6,20.0,2,Weight Management,True
+59.0,30.94,2,3,2.0,1.0,5.9,20.0,0,Strength,True
+21.0,27.17,2,3,4.0,2.0,4.9,30.0,1,Strength,True
+40.0,34.21,3,1,4.0,2.0,6.1,20.0,2,Strength,True
+45.0,26.16,2,2,1.0,5.0,10.0,30.0,1,General Fitness,True
+34.0,31.46,0,2,1.0,5.0,7.9,45.0,2,Weight Management,True
+24.0,24.49,2,1,1.0,4.0,7.4,30.0,1,Flexibility,True
+27.0,23.17,3,2,1.0,4.0,5.5,90.0,1,Stress Reduction,True
+56.0,19.74,0,2,1.0,1.0,8.4,20.0,0,Flexibility,True
+32.0,19.77,1,3,4.0,1.0,5.0,60.0,0,Stress Reduction,True
+32.0,25.3,3,3,5.0,4.0,4.6,45.0,0,Strength,True
+61.0,30.09,1,2,3.0,3.0,6.2,60.0,2,Weight Management,True
+24.0,34.37,3,3,5.0,3.0,9.9,60.0,0,Mobility,True
+61.0,28.42,2,0,4.0,4.0,9.8,20.0,2,General Fitness,True
+61.0,29.35,2,3,5.0,2.0,6.3,60.0,3,Strength,True
+46.0,35.73,2,1,4.0,4.0,6.0,30.0,2,Stress Reduction,True
+25.0,21.78,2,1,1.0,4.0,4.5,60.0,2,Flexibility,True
+25.0,32.78,3,3,3.0,2.0,7.1,30.0,0,Strength,True
+31.0,25.35,3,1,3.0,4.0,7.2,30.0,1,Weight Management,True
+45.0,34.85,1,3,4.0,1.0,8.2,60.0,3,Weight Management,True
+25.0,24.4,3,1,4.0,2.0,8.4,90.0,1,Strength,True
+39.0,17.7,2,1,1.0,4.0,6.7,90.0,3,Flexibility,True
+23.0,26.54,2,1,4.0,5.0,7.8,60.0,2,General Fitness,True
+43.0,32.09,1,1,5.0,1.0,5.9,45.0,1,Weight Management,True
+18.0,31.51,1,3,1.0,4.0,7.8,45.0,0,Weight Management,True
+51.0,27.59,2,0,3.0,3.0,6.2,90.0,0,General Fitness,True
+20.0,22.27,1,2,5.0,4.0,7.7,30.0,1,Stress Reduction,True
+27.0,18.96,1,3,1.0,4.0,7.6,90.0,1,General Fitness,True
+26.0,27.56,3,1,1.0,1.0,7.1,60.0,2,Flexibility,True
+57.0,16.2,1,2,5.0,4.0,8.2,60.0,2,Stress Reduction,True
+20.0,19.37,2,1,1.0,2.0,4.6,45.0,1,Flexibility,True
+38.0,40.0,0,0,4.0,1.0,5.4,90.0,2,Weight Management,True
+45.0,33.41,0,2,5.0,3.0,6.6,60.0,3,Weight Management,True
+42.0,22.72,3,3,3.0,1.0,4.8,20.0,2,Weight Management,True
+49.0,29.98,0,2,3.0,4.0,6.4,60.0,3,Weight Management,True
+55.0,21.15,3,1,3.0,3.0,6.4,60.0,1,General Fitness,True
+36.0,26.03,3,0,2.0,3.0,9.0,90.0,3,Flexibility,True
+56.0,36.7,1,3,2.0,1.0,7.2,90.0,1,Weight Management,True
+32.0,24.61,3,3,3.0,4.0,8.5,90.0,0,Mobility,True
+64.0,36.29,1,3,5.0,1.0,7.5,20.0,0,Weight Management,True
+41.0,23.93,3,1,5.0,2.0,6.2,60.0,0,Strength,True
+52.0,16.62,0,2,5.0,2.0,7.2,90.0,3,Stress Reduction,True
+59.0,20.97,1,1,1.0,4.0,8.1,90.0,0,Flexibility,True
+55.0,29.62,1,0,2.0,3.0,8.8,45.0,3,Flexibility,True
+58.0,23.55,3,0,4.0,5.0,6.8,90.0,3,General Fitness,True
+43.0,18.06,0,1,3.0,5.0,4.5,90.0,1,Stress Reduction,True
+20.0,21.76,3,2,2.0,4.0,4.4,20.0,3,Stress Reduction,True
+41.0,22.63,0,0,2.0,1.0,6.5,90.0,3,Flexibility,True
+26.0,31.43,1,2,1.0,4.0,4.0,60.0,3,Weight Management,True
+59.0,23.07,2,1,2.0,2.0,9.7,45.0,1,Flexibility,True
+29.0,28.67,0,3,3.0,5.0,7.9,20.0,1,Weight Management,True
+28.0,31.16,1,1,3.0,5.0,6.0,90.0,0,Weight Management,True
+29.0,21.91,3,0,3.0,1.0,5.3,30.0,3,Strength,True
+48.0,19.86,3,1,2.0,1.0,8.5,45.0,3,Flexibility,True
+44.0,27.58,0,3,2.0,4.0,5.3,30.0,2,Mobility,True
+62.0,28.7,2,1,5.0,1.0,5.5,90.0,0,Strength,True
+37.0,33.39,2,2,3.0,5.0,5.9,45.0,3,Stress Reduction,True
+31.0,17.19,0,3,2.0,3.0,7.2,20.0,1,General Fitness,True
+20.0,26.79,2,1,4.0,3.0,7.9,20.0,2,General Fitness,True
+18.0,24.37,2,2,3.0,5.0,8.8,90.0,2,Mobility,True
+35.0,23.45,2,0,3.0,2.0,8.6,30.0,0,Strength,True
+61.0,27.56,1,1,2.0,3.0,7.0,60.0,0,Flexibility,True
+42.0,20.06,1,1,4.0,5.0,8.5,20.0,0,General Fitness,True
+59.0,22.03,2,2,1.0,1.0,6.0,90.0,3,Strength,True
+22.0,42.5,2,3,5.0,1.0,4.3,60.0,3,Strength,True
+22.0,33.98,0,1,3.0,1.0,6.0,30.0,1,Weight Management,True
+57.0,19.46,0,1,3.0,2.0,5.8,90.0,1,Stress Reduction,True
+23.0,26.81,2,3,2.0,1.0,6.1,30.0,1,Strength,True
+20.0,25.5,3,1,3.0,1.0,5.6,90.0,1,Strength,True
+36.0,20.18,0,2,4.0,5.0,6.3,45.0,2,Mobility,True
+61.0,32.96,0,2,3.0,3.0,7.9,45.0,1,Weight Management,True
+50.0,16.3,3,0,1.0,2.0,9.6,20.0,2,Flexibility,True
+22.0,35.81,2,3,3.0,3.0,4.4,30.0,1,Stress Reduction,True
+57.0,25.49,3,1,2.0,5.0,5.1,20.0,2,Flexibility,True
+57.0,26.06,3,2,1.0,3.0,5.8,90.0,3,Stress Reduction,True
+55.0,24.86,3,1,5.0,3.0,8.1,20.0,0,General Fitness,True
+60.0,25.61,0,3,2.0,5.0,6.7,20.0,0,Stress Reduction,True
+29.0,20.79,1,2,3.0,1.0,5.9,20.0,2,Stress Reduction,True
+64.0,30.36,0,0,1.0,3.0,8.1,90.0,0,Flexibility,True
+33.0,25.17,0,0,2.0,4.0,8.4,90.0,0,Flexibility,True
+55.0,19.99,3,3,2.0,3.0,7.0,60.0,3,General Fitness,True
+45.0,27.77,2,2,1.0,5.0,5.8,20.0,1,Stress Reduction,True
+54.0,36.64,0,1,5.0,5.0,7.4,45.0,2,Weight Management,True
+47.0,37.01,0,0,2.0,2.0,6.7,90.0,3,Flexibility,True
+48.0,33.49,0,0,3.0,5.0,6.6,20.0,0,Weight Management,True
+46.0,18.06,1,3,3.0,2.0,6.2,60.0,1,Stress Reduction,True
+54.0,25.39,1,3,3.0,2.0,8.4,20.0,0,Stress Reduction,True
+52.0,36.32,1,1,3.0,5.0,7.4,90.0,1,Weight Management,True
+24.0,28.89,3,0,3.0,1.0,8.6,45.0,0,Strength,True
+56.0,30.1,0,1,1.0,2.0,9.0,90.0,3,Flexibility,True
+43.0,25.9,2,0,4.0,4.0,7.7,45.0,1,General Fitness,True
+33.0,24.62,1,2,1.0,3.0,6.2,60.0,0,General Fitness,True
+42.0,26.01,1,2,3.0,5.0,8.6,90.0,0,Mobility,True
+63.0,17.03,3,3,2.0,2.0,7.7,30.0,0,Strength,True
+58.0,26.75,3,1,3.0,3.0,10.0,60.0,0,General Fitness,True
+57.0,23.04,0,0,1.0,1.0,7.5,45.0,0,Flexibility,True
+39.0,37.42,1,0,4.0,2.0,8.0,45.0,2,Weight Management,True
+54.0,16.89,0,1,3.0,1.0,7.4,60.0,3,Stress Reduction,True
+36.0,24.82,1,2,1.0,4.0,6.9,30.0,3,General Fitness,True
+50.0,36.98,2,0,1.0,2.0,6.6,20.0,3,Flexibility,True
+48.0,23.8,1,3,3.0,4.0,7.4,45.0,3,Stress Reduction,True
+29.0,26.88,1,1,4.0,2.0,7.8,90.0,1,General Fitness,True
+30.0,27.07,1,3,3.0,3.0,8.7,20.0,1,Mobility,True
+20.0,44.49,1,1,4.0,5.0,7.5,30.0,2,Weight Management,True
+24.0,26.27,1,0,4.0,5.0,6.3,60.0,1,General Fitness,True
+38.0,23.35,1,0,5.0,1.0,6.5,45.0,2,General Fitness,True
+40.0,23.27,2,2,5.0,4.0,5.0,60.0,3,Stress Reduction,True
+25.0,23.23,0,2,5.0,5.0,9.5,45.0,0,Mobility,True
+37.0,29.44,0,3,4.0,4.0,6.2,90.0,3,Weight Management,True
+46.0,38.74,2,3,3.0,1.0,8.5,90.0,3,Strength,True
+28.0,35.65,2,0,3.0,4.0,7.4,45.0,2,General Fitness,True
+33.0,30.04,1,1,4.0,4.0,7.5,45.0,1,Weight Management,True
+35.0,21.89,0,0,1.0,4.0,6.8,30.0,1,Flexibility,True
+41.0,36.67,2,0,4.0,3.0,5.8,45.0,0,Stress Reduction,True
+35.0,21.77,1,0,3.0,3.0,5.5,90.0,1,Stress Reduction,True
+52.0,21.21,2,0,3.0,4.0,9.6,45.0,2,General Fitness,True
+33.0,12.66,0,2,5.0,3.0,7.2,60.0,2,Mobility,True
+38.0,37.35,0,0,4.0,4.0,8.7,45.0,0,Weight Management,True
+35.0,30.51,2,0,5.0,4.0,9.1,60.0,2,General Fitness,True
+26.0,33.54,1,0,5.0,2.0,6.4,60.0,3,Weight Management,True
+50.0,14.94,2,2,5.0,4.0,7.6,45.0,0,Mobility,True
+29.0,39.53,2,2,2.0,4.0,7.1,90.0,0,General Fitness,True
+31.0,26.35,1,3,1.0,3.0,5.3,90.0,3,Stress Reduction,True
+55.0,25.11,0,0,2.0,4.0,6.7,20.0,2,Flexibility,True
+62.0,14.96,0,0,4.0,1.0,7.9,30.0,2,Stress Reduction,True
+49.0,32.3,3,1,5.0,2.0,6.3,90.0,3,Strength,True
+61.0,30.1,0,2,5.0,4.0,6.5,45.0,2,Weight Management,True
+58.0,25.96,2,0,4.0,5.0,6.7,30.0,2,General Fitness,True
+40.0,27.56,3,0,4.0,4.0,10.0,60.0,0,General Fitness,True
+54.0,21.41,3,1,5.0,4.0,4.2,60.0,3,Stress Reduction,True
+33.0,21.9,1,0,4.0,2.0,7.8,20.0,3,Strength,True
+39.0,22.21,0,1,1.0,4.0,6.6,20.0,1,Flexibility,True
+43.0,16.06,3,3,3.0,2.0,6.0,90.0,2,Strength,True
+63.0,27.9,2,2,2.0,1.0,6.6,60.0,2,Strength,True
+57.0,22.78,1,1,4.0,2.0,8.0,30.0,0,Stress Reduction,True
+40.0,26.52,2,1,4.0,4.0,8.1,90.0,0,General Fitness,True
+48.0,25.87,0,3,2.0,5.0,7.3,20.0,2,Stress Reduction,True
+27.0,25.84,2,2,2.0,3.0,8.6,90.0,2,General Fitness,True
+55.0,25.01,2,2,1.0,5.0,8.9,20.0,2,General Fitness,True
+43.0,21.4,1,3,2.0,4.0,8.2,60.0,1,General Fitness,True
+43.0,18.37,1,0,5.0,3.0,6.2,90.0,3,General Fitness,True
+54.0,26.82,1,0,4.0,5.0,7.7,60.0,1,Stress Reduction,True
+47.0,24.06,0,1,5.0,3.0,7.7,60.0,0,Stress Reduction,True
+21.0,31.63,0,1,5.0,3.0,5.8,30.0,0,Weight Management,True
+31.0,34.28,3,0,5.0,4.0,4.6,30.0,3,Stress Reduction,True
+26.0,16.53,1,0,1.0,4.0,4.0,30.0,2,Flexibility,True
+52.0,30.34,0,3,2.0,3.0,7.1,20.0,1,Weight Management,True
+19.0,25.07,0,2,1.0,3.0,7.4,30.0,0,General Fitness,True
+27.0,33.79,1,2,1.0,5.0,5.2,30.0,0,Weight Management,True
+46.0,34.97,3,0,2.0,1.0,8.6,60.0,0,Flexibility,True
+50.0,21.01,1,1,2.0,1.0,7.2,30.0,0,Flexibility,True
+41.0,24.33,3,2,1.0,3.0,9.0,20.0,2,General Fitness,True
+58.0,23.23,1,2,5.0,1.0,7.6,60.0,0,Stress Reduction,True
+61.0,15.73,3,2,3.0,2.0,5.4,45.0,0,Flexibility,True
+24.0,29.5,3,2,4.0,3.0,7.7,30.0,1,Mobility,True
+62.0,28.84,0,1,4.0,3.0,8.0,60.0,2,General Fitness,True
+46.0,26.26,0,3,5.0,2.0,6.2,30.0,1,Stress Reduction,True
+47.0,18.0,3,1,1.0,2.0,4.8,60.0,0,Flexibility,True
+22.0,19.77,3,0,2.0,4.0,7.2,20.0,2,Flexibility,True
+47.0,32.16,0,3,2.0,5.0,5.5,45.0,1,Weight Management,True
+52.0,33.59,2,0,3.0,4.0,8.7,45.0,0,General Fitness,True
+45.0,19.82,3,1,3.0,3.0,6.4,30.0,2,General Fitness,True
+21.0,28.37,3,0,4.0,1.0,9.6,60.0,3,Strength,True
+42.0,16.73,1,0,3.0,2.0,4.0,30.0,2,Stress Reduction,True
+61.0,33.3,3,1,2.0,3.0,7.2,60.0,0,Flexibility,True
+52.0,19.89,2,0,3.0,2.0,9.1,30.0,1,Strength,True
+24.0,33.23,3,1,5.0,4.0,5.7,45.0,2,Stress Reduction,True
+63.0,27.53,0,3,3.0,2.0,6.8,60.0,3,Weight Management,True
+63.0,34.97,2,0,3.0,5.0,6.4,90.0,3,General Fitness,True
+25.0,22.75,0,3,1.0,2.0,6.0,30.0,3,Stress Reduction,True
+55.0,27.84,1,1,1.0,3.0,7.4,45.0,3,Flexibility,True
+37.0,30.34,0,2,2.0,4.0,5.1,45.0,2,Weight Management,True
+45.0,29.24,1,1,1.0,2.0,6.8,90.0,2,Flexibility,True
+38.0,32.84,3,1,3.0,4.0,7.8,90.0,2,General Fitness,True
+54.0,22.62,2,0,5.0,3.0,6.7,60.0,2,General Fitness,True
+64.0,44.52,1,2,3.0,4.0,5.5,90.0,2,Weight Management,True
+55.0,18.28,1,3,4.0,3.0,8.5,20.0,0,Stress Reduction,True
+61.0,24.62,1,2,5.0,5.0,8.1,60.0,3,Stress Reduction,True
+62.0,19.13,2,2,4.0,4.0,5.4,90.0,0,Stress Reduction,True
+22.0,31.22,1,2,4.0,1.0,5.1,60.0,1,Weight Management,True
+29.0,22.89,0,1,4.0,3.0,5.6,45.0,1,Stress Reduction,True
+51.0,21.72,2,0,2.0,5.0,7.8,90.0,3,Flexibility,True
+45.0,20.92,3,2,3.0,2.0,7.4,60.0,0,Strength,True
+20.0,17.73,1,3,2.0,3.0,8.2,90.0,1,General Fitness,True
+22.0,24.36,0,1,4.0,4.0,6.5,20.0,1,General Fitness,True
+42.0,18.91,0,3,3.0,2.0,5.6,60.0,0,Stress Reduction,True
+46.0,14.91,3,3,5.0,3.0,8.4,45.0,0,Mobility,True
+25.0,28.06,3,0,1.0,3.0,6.2,90.0,1,Flexibility,True
+26.0,27.97,0,2,1.0,1.0,7.3,90.0,3,Weight Management,True
+24.0,34.18,0,2,4.0,1.0,4.7,90.0,1,Weight Management,True
+44.0,27.65,0,1,4.0,3.0,6.1,30.0,3,Weight Management,True
+18.0,13.58,1,2,4.0,1.0,8.5,45.0,2,Mobility,True
+44.0,17.97,3,3,2.0,5.0,5.9,20.0,3,Stress Reduction,True
+40.0,44.05,0,2,1.0,3.0,8.2,90.0,3,Weight Management,True
+39.0,17.1,3,3,2.0,4.0,4.0,30.0,2,Stress Reduction,True
+49.0,27.13,0,3,3.0,2.0,6.2,60.0,2,Stress Reduction,True
+42.0,23.19,2,3,3.0,2.0,6.7,45.0,0,Strength,True
+52.0,26.3,1,3,5.0,3.0,9.6,90.0,2,Stress Reduction,True
+53.0,26.0,3,0,5.0,4.0,5.2,90.0,0,Stress Reduction,True
+61.0,31.91,1,0,4.0,2.0,8.0,60.0,2,Weight Management,True
+55.0,27.49,1,0,1.0,2.0,8.6,60.0,2,Flexibility,True
+42.0,19.5,0,0,1.0,1.0,5.9,20.0,3,Flexibility,True
+41.0,20.77,3,2,3.0,3.0,6.4,90.0,2,Mobility,True
+29.0,24.51,1,2,4.0,4.0,7.2,20.0,1,Mobility,True
+46.0,19.55,1,1,4.0,3.0,4.8,45.0,1,Stress Reduction,True
+24.0,26.53,2,0,2.0,2.0,6.3,30.0,2,Flexibility,True
+61.0,40.13,2,2,1.0,2.0,8.9,30.0,1,Strength,True
+57.0,29.24,2,1,2.0,2.0,7.8,90.0,1,Flexibility,True
+23.0,30.91,1,3,4.0,2.0,6.8,30.0,1,Weight Management,True
+54.0,29.94,0,0,5.0,2.0,7.2,45.0,2,Weight Management,True
+23.0,17.03,0,1,5.0,5.0,7.9,30.0,0,General Fitness,True
+51.0,18.89,0,0,3.0,2.0,8.2,90.0,2,Stress Reduction,True
+22.0,37.51,2,1,1.0,2.0,6.2,60.0,1,Flexibility,True
+40.0,19.64,2,3,5.0,4.0,9.3,45.0,1,Mobility,True
+48.0,22.37,2,1,1.0,5.0,9.0,20.0,1,Flexibility,True
+52.0,18.39,3,1,2.0,3.0,8.0,20.0,0,Flexibility,True
+37.0,23.89,0,1,5.0,4.0,5.7,30.0,2,Stress Reduction,True
+61.0,17.78,3,1,3.0,1.0,5.5,45.0,2,Strength,True
+54.0,28.46,3,2,1.0,3.0,6.5,90.0,3,General Fitness,True
+27.0,21.32,2,3,3.0,1.0,7.1,20.0,1,Strength,True
+49.0,20.54,2,2,1.0,1.0,4.3,45.0,2,Strength,True
+52.0,28.01,0,2,2.0,3.0,7.7,30.0,2,Weight Management,True
+33.0,27.07,0,1,5.0,2.0,8.9,20.0,2,General Fitness,True
+52.0,19.05,0,0,2.0,1.0,7.9,60.0,2,Flexibility,True
+60.0,25.37,2,2,5.0,1.0,6.0,60.0,3,Strength,True
+56.0,27.4,1,3,3.0,4.0,5.8,90.0,3,Stress Reduction,True
+53.0,21.45,0,2,4.0,3.0,7.4,45.0,0,Stress Reduction,True
+47.0,23.92,0,0,4.0,2.0,6.8,30.0,1,Mobility,True
+30.0,29.62,0,2,3.0,5.0,7.7,90.0,2,Weight Management,True
+55.0,38.56,2,3,1.0,2.0,7.9,30.0,2,Strength,True
+35.0,22.39,2,0,5.0,5.0,8.6,60.0,1,General Fitness,True
+43.0,25.77,2,0,3.0,2.0,5.3,90.0,0,Strength,True
+32.0,23.46,0,2,4.0,1.0,7.3,20.0,2,Mobility,True
+32.0,19.93,0,1,3.0,1.0,6.5,90.0,2,General Fitness,True
+25.0,31.4,0,2,4.0,2.0,6.9,30.0,0,Strength,True
+63.0,29.27,3,2,2.0,1.0,8.3,45.0,2,Strength,True
+24.0,25.57,2,1,5.0,1.0,8.5,30.0,3,Strength,True
+22.0,31.41,1,0,2.0,2.0,9.1,20.0,2,Flexibility,True
+61.0,22.31,0,2,4.0,5.0,7.6,60.0,3,General Fitness,True
+44.0,34.39,1,1,3.0,2.0,6.8,45.0,1,Weight Management,True
+38.0,32.7,3,3,3.0,2.0,6.6,45.0,0,Strength,True
+52.0,24.06,0,1,1.0,5.0,4.4,45.0,2,Flexibility,True
+36.0,21.4,3,0,2.0,2.0,9.0,60.0,0,Flexibility,True
+24.0,32.24,1,3,1.0,5.0,6.5,90.0,0,Weight Management,True
+52.0,29.5,0,2,3.0,4.0,7.8,45.0,0,Weight Management,True
+26.0,30.38,3,2,4.0,5.0,8.0,20.0,3,Mobility,True
+43.0,26.3,2,3,3.0,3.0,5.1,30.0,3,Stress Reduction,True
+62.0,26.22,2,3,4.0,3.0,5.6,45.0,1,Stress Reduction,True
+61.0,21.16,0,3,2.0,2.0,9.3,20.0,2,Stress Reduction,True
+34.0,28.95,1,3,2.0,3.0,7.4,30.0,1,Weight Management,True
+54.0,41.73,2,1,3.0,4.0,6.1,30.0,0,General Fitness,True
+46.0,27.51,2,0,2.0,5.0,6.8,90.0,3,Flexibility,True
+40.0,27.03,0,2,5.0,1.0,8.6,45.0,3,Mobility,True
+24.0,20.22,2,3,5.0,1.0,8.4,90.0,1,Strength,True
+35.0,26.5,3,3,3.0,1.0,4.8,45.0,1,Strength,True
+48.0,34.27,3,2,4.0,4.0,9.5,45.0,3,Mobility,True
+64.0,23.55,0,2,1.0,1.0,8.4,90.0,1,Stress Reduction,True
+18.0,22.07,3,2,1.0,5.0,6.8,60.0,1,General Fitness,True
+51.0,17.02,2,0,2.0,2.0,5.2,30.0,1,Flexibility,True
+57.0,17.52,0,0,2.0,2.0,8.6,30.0,1,Flexibility,True
+62.0,14.65,0,0,2.0,5.0,7.7,60.0,2,Flexibility,True
+37.0,33.59,3,3,3.0,4.0,4.8,20.0,0,Stress Reduction,True
+23.0,37.31,0,3,4.0,3.0,6.7,20.0,1,Weight Management,True
+30.0,25.27,0,1,3.0,5.0,10.0,20.0,1,General Fitness,True
+57.0,16.96,1,1,3.0,4.0,7.0,60.0,1,Stress Reduction,True
+59.0,28.83,2,1,1.0,4.0,5.9,45.0,1,Flexibility,True
+47.0,22.28,2,0,2.0,2.0,5.5,20.0,1,Mobility,True
+23.0,28.92,2,1,5.0,5.0,9.7,60.0,1,General Fitness,True
+23.0,25.79,3,1,5.0,4.0,8.3,60.0,3,Stress Reduction,True
+40.0,23.2,3,2,1.0,5.0,9.1,60.0,2,General Fitness,True
+45.0,26.03,0,3,1.0,5.0,7.4,20.0,2,General Fitness,True
+19.0,31.26,0,0,5.0,3.0,8.9,90.0,1,Weight Management,True
+50.0,20.85,0,1,1.0,2.0,5.7,20.0,3,Flexibility,True
+43.0,20.64,1,3,3.0,5.0,7.2,45.0,0,Mobility,True
+18.0,19.61,1,3,5.0,5.0,7.4,45.0,2,Mobility,True
+22.0,13.89,3,3,4.0,1.0,9.1,30.0,0,Strength,True
+39.0,30.91,1,2,3.0,4.0,7.5,30.0,3,Weight Management,True
+51.0,15.0,0,0,2.0,4.0,6.1,20.0,1,Flexibility,True
+56.0,26.12,3,3,4.0,4.0,7.1,45.0,1,Mobility,True
+38.0,32.12,1,2,4.0,5.0,4.5,60.0,0,Weight Management,True
+31.0,28.8,3,3,5.0,2.0,4.0,30.0,3,Strength,True
+63.0,32.23,3,3,3.0,5.0,8.2,45.0,1,Mobility,True
+39.0,28.09,3,1,5.0,4.0,6.4,90.0,1,General Fitness,True
+32.0,31.98,3,0,4.0,1.0,6.6,30.0,3,Strength,True
+38.0,35.05,0,2,1.0,3.0,8.2,30.0,0,Weight Management,True
+18.0,24.84,2,1,2.0,1.0,9.1,20.0,1,Flexibility,True
+32.0,33.74,1,0,4.0,5.0,7.8,45.0,0,Weight Management,True
+42.0,21.26,2,1,1.0,4.0,9.9,30.0,0,Flexibility,True
+61.0,23.84,2,3,4.0,5.0,7.8,90.0,0,Mobility,True
+52.0,17.42,2,1,2.0,4.0,7.5,30.0,0,Flexibility,True
+54.0,32.14,1,1,2.0,2.0,7.4,60.0,3,Flexibility,True
+43.0,22.99,3,2,3.0,3.0,5.1,20.0,1,Stress Reduction,True
+23.0,27.17,2,2,5.0,5.0,8.4,30.0,3,Mobility,True
+36.0,19.12,3,1,5.0,1.0,4.0,20.0,1,Strength,True
+64.0,23.69,0,3,3.0,5.0,6.1,45.0,3,Stress Reduction,True
+20.0,26.82,3,2,1.0,3.0,7.0,20.0,0,General Fitness,True
+59.0,28.3,1,0,5.0,3.0,5.8,20.0,0,Weight Management,True
+50.0,12.31,1,1,5.0,4.0,6.3,45.0,0,Stress Reduction,True
+31.0,24.57,3,3,4.0,1.0,9.8,45.0,3,Strength,True
+54.0,14.6,1,0,4.0,1.0,8.7,30.0,2,Stress Reduction,True
+57.0,27.21,1,0,3.0,1.0,6.0,45.0,2,Stress Reduction,True
+20.0,36.66,3,2,1.0,4.0,6.3,45.0,3,General Fitness,True
+23.0,32.28,3,1,1.0,1.0,5.1,60.0,1,Flexibility,True
+49.0,15.86,1,1,1.0,4.0,8.1,45.0,2,Flexibility,True
+64.0,20.34,1,1,5.0,1.0,6.6,90.0,2,Stress Reduction,True
+19.0,30.88,0,0,1.0,4.0,4.1,30.0,2,Flexibility,True
+49.0,33.55,0,1,3.0,5.0,7.2,20.0,2,Mobility,True
+24.0,19.75,2,0,2.0,3.0,7.7,45.0,1,Flexibility,True
+48.0,27.62,1,2,1.0,2.0,8.4,20.0,0,Weight Management,True
+47.0,33.54,3,2,5.0,3.0,6.9,60.0,0,Mobility,True
+22.0,22.17,0,3,1.0,4.0,6.4,30.0,2,General Fitness,True
+49.0,30.04,2,0,5.0,4.0,10.0,30.0,2,Flexibility,True
+60.0,21.37,2,1,4.0,4.0,7.0,45.0,2,General Fitness,True
+58.0,25.01,2,1,4.0,3.0,8.1,20.0,2,General Fitness,True
+19.0,16.48,0,2,1.0,4.0,6.2,30.0,0,General Fitness,True
+29.0,19.51,1,2,5.0,2.0,8.0,90.0,1,Mobility,True
+29.0,31.73,2,3,3.0,2.0,4.8,60.0,1,Strength,True
+39.0,26.08,1,3,3.0,5.0,6.3,45.0,3,Mobility,True
+24.0,23.33,3,3,4.0,3.0,5.2,45.0,2,Stress Reduction,True
+58.0,19.78,2,0,2.0,5.0,6.1,45.0,2,Flexibility,True
+54.0,24.66,1,0,2.0,4.0,8.9,90.0,2,Flexibility,True
+55.0,28.01,0,3,2.0,3.0,6.1,90.0,1,Weight Management,True
+27.0,30.06,0,3,3.0,3.0,8.1,45.0,3,Weight Management,True
+18.0,13.47,1,1,4.0,4.0,9.3,90.0,2,Weight Management,True
+60.0,19.26,1,0,2.0,1.0,7.0,20.0,3,Flexibility,True
+31.0,25.86,3,2,2.0,3.0,8.5,30.0,2,General Fitness,True
+48.0,24.32,3,2,5.0,4.0,7.8,30.0,2,Mobility,True
+60.0,24.29,0,3,3.0,1.0,7.2,60.0,0,Stress Reduction,True
+19.0,34.03,2,2,5.0,1.0,8.1,60.0,2,Strength,True
+18.0,30.06,1,3,2.0,1.0,9.8,45.0,0,Weight Management,True
+18.0,21.36,0,3,2.0,3.0,6.0,30.0,2,General Fitness,True
+25.0,23.64,2,0,2.0,2.0,5.6,45.0,2,Flexibility,True
+20.0,30.67,2,0,3.0,3.0,5.5,30.0,2,Stress Reduction,True
+56.0,22.17,0,3,4.0,1.0,8.5,45.0,1,Stress Reduction,True
+46.0,22.76,1,0,3.0,2.0,8.7,30.0,0,Stress Reduction,True
+64.0,23.28,2,0,2.0,1.0,6.2,90.0,2,Flexibility,True
+55.0,31.69,1,3,5.0,5.0,4.0,60.0,2,Weight Management,True
+63.0,24.08,1,0,3.0,3.0,6.0,20.0,1,Stress Reduction,True
+29.0,39.77,0,0,2.0,1.0,7.8,90.0,2,Flexibility,True
+31.0,29.0,0,0,1.0,3.0,6.9,60.0,3,Flexibility,True
+57.0,21.35,3,1,3.0,5.0,7.3,30.0,2,General Fitness,True
+29.0,22.06,2,2,4.0,5.0,6.2,45.0,0,Mobility,True
+20.0,25.85,0,2,5.0,5.0,8.5,20.0,3,Mobility,True
+49.0,21.75,1,3,2.0,3.0,7.5,20.0,1,Stress Reduction,True
+55.0,26.81,0,2,1.0,2.0,7.9,45.0,2,Stress Reduction,True
+63.0,21.91,1,3,5.0,2.0,7.2,60.0,3,Stress Reduction,True
+61.0,29.3,0,0,3.0,2.0,7.8,30.0,1,Weight Management,True
+23.0,19.3,2,1,1.0,5.0,7.7,30.0,2,Flexibility,True
+54.0,17.98,2,1,1.0,1.0,5.6,90.0,0,Flexibility,True
+57.0,36.53,2,0,3.0,5.0,7.6,90.0,3,General Fitness,True
+50.0,27.61,1,3,4.0,5.0,8.2,45.0,0,Weight Management,True
+56.0,19.71,1,0,2.0,5.0,8.7,20.0,2,Flexibility,True
+57.0,30.67,0,1,2.0,4.0,7.6,60.0,1,Flexibility,True
+38.0,26.25,0,1,4.0,5.0,5.6,60.0,0,Stress Reduction,True
+19.0,27.43,1,0,5.0,1.0,5.8,90.0,1,Stress Reduction,True
+39.0,24.99,1,3,3.0,5.0,6.3,90.0,3,Mobility,True
+27.0,19.56,2,0,3.0,3.0,7.3,60.0,0,General Fitness,True
+23.0,26.9,0,0,2.0,5.0,6.8,20.0,1,Flexibility,True
+23.0,18.66,1,1,1.0,1.0,5.3,30.0,0,Flexibility,True
+50.0,24.46,3,0,1.0,5.0,5.3,60.0,0,Flexibility,True
+41.0,23.98,3,3,5.0,3.0,4.0,60.0,0,Stress Reduction,True
+43.0,42.54,3,0,1.0,1.0,4.0,45.0,2,Flexibility,True
+53.0,30.03,1,1,5.0,3.0,6.8,45.0,3,Weight Management,True
+43.0,15.77,0,1,2.0,1.0,10.0,60.0,2,Flexibility,True
+47.0,24.36,0,0,4.0,1.0,9.7,45.0,3,Stress Reduction,True
+22.0,46.11,0,0,5.0,3.0,5.5,20.0,2,Weight Management,True
+58.0,31.19,3,2,4.0,5.0,7.2,90.0,1,Mobility,True
+39.0,18.96,3,0,4.0,1.0,4.8,30.0,3,Strength,True
+25.0,30.56,3,0,2.0,2.0,5.0,30.0,0,Stress Reduction,True
+56.0,20.32,2,1,3.0,2.0,5.2,20.0,2,Strength,True
+52.0,18.17,1,1,4.0,3.0,6.7,45.0,0,Stress Reduction,True
+20.0,21.29,1,1,3.0,1.0,6.7,90.0,3,General Fitness,True
+27.0,24.07,3,3,1.0,4.0,7.4,20.0,0,General Fitness,True
+18.0,15.97,3,1,5.0,3.0,8.0,30.0,0,Strength,True
+30.0,19.03,2,2,1.0,5.0,6.5,20.0,1,General Fitness,True
+22.0,22.14,3,3,5.0,2.0,7.1,20.0,2,Strength,True
+51.0,21.68,1,0,5.0,3.0,5.4,60.0,0,Stress Reduction,True
+42.0,32.41,1,2,1.0,1.0,5.0,30.0,1,Weight Management,True
+64.0,16.91,3,1,4.0,5.0,4.8,60.0,1,Stress Reduction,True
+53.0,33.12,1,2,4.0,5.0,8.0,45.0,2,Weight Management,True
+46.0,15.66,3,0,2.0,2.0,6.5,60.0,3,Flexibility,True
+41.0,30.17,1,1,5.0,3.0,4.2,20.0,2,Weight Management,True
+20.0,14.99,1,0,1.0,5.0,6.9,30.0,2,Flexibility,True
+21.0,18.6,0,3,2.0,2.0,5.1,45.0,1,Stress Reduction,True
+46.0,27.98,2,2,5.0,2.0,9.5,20.0,3,Strength,True
+18.0,31.5,1,0,4.0,2.0,6.1,45.0,0,Weight Management,True
+19.0,27.96,1,2,1.0,4.0,8.0,45.0,0,Weight Management,True
+28.0,27.29,2,3,1.0,2.0,8.6,45.0,0,Strength,True
+59.0,22.62,0,2,2.0,1.0,5.6,45.0,1,Stress Reduction,True
+39.0,20.71,0,1,1.0,1.0,7.1,60.0,1,Flexibility,True
+51.0,24.04,3,3,1.0,5.0,7.8,60.0,3,General Fitness,True
+37.0,21.27,2,0,3.0,5.0,7.2,20.0,2,General Fitness,True
+26.0,20.49,2,0,1.0,5.0,7.5,60.0,1,Flexibility,True
+35.0,34.39,0,0,2.0,2.0,5.0,90.0,0,Flexibility,True
+22.0,17.23,2,3,2.0,3.0,7.8,90.0,2,General Fitness,True
+54.0,21.72,1,2,5.0,3.0,6.3,30.0,1,Stress Reduction,True
+26.0,15.09,2,2,5.0,3.0,7.5,60.0,3,Mobility,True
+35.0,32.75,0,2,5.0,1.0,8.4,90.0,1,Weight Management,True
+64.0,20.45,2,1,2.0,3.0,8.0,30.0,2,Flexibility,True
+45.0,27.74,2,0,3.0,1.0,7.5,90.0,3,Strength,True
+39.0,28.31,1,3,3.0,2.0,8.0,60.0,1,Weight Management,True
+43.0,31.4,0,3,5.0,2.0,8.0,60.0,1,Weight Management,True
+54.0,26.98,3,0,4.0,4.0,9.2,60.0,2,General Fitness,True
+29.0,24.49,2,0,5.0,5.0,6.9,60.0,1,General Fitness,True
+47.0,22.36,2,2,3.0,4.0,7.2,90.0,0,Flexibility,True
+59.0,22.16,3,0,5.0,3.0,8.4,90.0,1,General Fitness,True
+44.0,28.71,2,2,4.0,3.0,6.3,45.0,0,Mobility,True
+38.0,19.66,0,3,4.0,3.0,5.0,45.0,2,Stress Reduction,True
+24.0,16.21,1,1,4.0,1.0,7.7,60.0,0,General Fitness,True
+29.0,18.94,3,1,2.0,5.0,6.7,90.0,1,Flexibility,True
+62.0,13.94,1,3,4.0,5.0,5.2,30.0,3,Stress Reduction,True
+43.0,25.35,3,1,2.0,2.0,7.8,30.0,2,Flexibility,True
+32.0,29.38,0,0,4.0,1.0,9.1,60.0,2,Weight Management,True
+37.0,17.37,1,0,2.0,1.0,4.6,90.0,2,Flexibility,True
+45.0,21.25,1,3,4.0,4.0,8.5,90.0,1,Mobility,True
+43.0,33.01,2,3,3.0,1.0,4.0,20.0,2,Strength,True
+50.0,22.69,0,0,4.0,1.0,6.4,90.0,0,Stress Reduction,True
+30.0,30.61,0,3,2.0,4.0,9.8,60.0,2,Weight Management,True
+48.0,30.53,2,0,4.0,1.0,6.5,20.0,2,Strength,True
+38.0,25.24,1,0,5.0,1.0,7.1,20.0,3,General Fitness,True
+62.0,15.44,3,1,1.0,1.0,8.1,30.0,3,Flexibility,True
+25.0,24.08,3,1,2.0,4.0,4.4,90.0,0,Flexibility,True
+24.0,14.92,1,3,4.0,2.0,7.1,60.0,1,Mobility,True
+39.0,44.5,2,2,5.0,2.0,7.1,45.0,2,Strength,True
+41.0,16.13,1,0,4.0,4.0,9.8,60.0,1,General Fitness,True
+50.0,18.87,1,2,3.0,1.0,5.1,45.0,2,Stress Reduction,True
+36.0,20.39,2,3,2.0,3.0,6.4,90.0,3,General Fitness,True
+60.0,15.88,1,2,5.0,3.0,5.6,20.0,1,Stress Reduction,True
+40.0,35.73,0,0,5.0,4.0,5.4,30.0,3,Weight Management,True
+24.0,36.06,1,0,5.0,4.0,8.7,30.0,3,Weight Management,True
+23.0,20.93,3,1,2.0,4.0,7.0,90.0,3,Flexibility,True
+63.0,26.12,1,1,3.0,2.0,6.2,45.0,0,Stress Reduction,True
+24.0,11.01,1,1,2.0,1.0,6.2,60.0,1,Weight Management,True
+62.0,35.55,2,0,5.0,3.0,6.2,90.0,0,General Fitness,True
+31.0,25.07,0,0,5.0,1.0,6.3,20.0,0,General Fitness,True
+22.0,18.96,1,2,1.0,3.0,5.1,90.0,0,Stress Reduction,True
+32.0,27.23,0,3,2.0,4.0,6.6,20.0,1,General Fitness,True
+46.0,32.71,3,2,3.0,5.0,6.5,60.0,0,Mobility,True
+38.0,30.69,3,1,3.0,4.0,5.9,60.0,1,Stress Reduction,True
+54.0,20.59,3,3,3.0,5.0,7.2,90.0,3,Mobility,True
+46.0,24.22,0,2,2.0,3.0,7.4,20.0,3,Stress Reduction,True
+36.0,25.09,2,2,4.0,3.0,6.2,90.0,3,Mobility,True
+47.0,25.21,2,2,5.0,2.0,6.8,60.0,0,Strength,True
+63.0,34.71,3,3,5.0,4.0,10.0,20.0,2,Mobility,True
+37.0,31.52,0,2,3.0,5.0,10.0,45.0,2,Weight Management,True
+25.0,19.47,2,2,5.0,2.0,5.4,90.0,0,Strength,True
+37.0,15.41,0,2,4.0,1.0,5.6,45.0,3,Stress Reduction,True
+57.0,19.08,2,3,1.0,1.0,5.4,30.0,1,Strength,True
+28.0,23.87,3,3,4.0,4.0,8.6,30.0,3,Mobility,True
+62.0,30.62,0,1,2.0,4.0,6.4,45.0,0,Flexibility,True
+45.0,29.97,0,2,4.0,1.0,7.4,90.0,2,Weight Management,True
+46.0,26.69,3,0,4.0,1.0,10.0,60.0,0,Strength,True
+32.0,32.22,0,2,5.0,4.0,7.0,60.0,3,Weight Management,True
+61.0,21.7,2,3,5.0,2.0,8.1,60.0,2,Strength,True
+19.0,31.71,2,2,5.0,3.0,7.8,60.0,0,Mobility,True
+32.0,31.9,1,1,3.0,2.0,6.1,45.0,0,Weight Management,True
+37.0,27.57,3,2,3.0,4.0,8.6,60.0,1,Mobility,True
+40.0,36.6,3,1,3.0,4.0,5.7,30.0,0,Stress Reduction,True
+40.0,30.08,1,1,5.0,1.0,9.0,45.0,0,Weight Management,True
+24.0,23.03,0,0,2.0,1.0,6.1,30.0,3,Flexibility,True
+28.0,23.77,0,2,3.0,3.0,6.3,90.0,3,Mobility,True
+22.0,38.31,0,0,4.0,4.0,5.4,60.0,2,Weight Management,True
+44.0,33.31,3,1,1.0,1.0,5.6,45.0,3,Flexibility,True
+34.0,31.13,2,3,4.0,1.0,6.4,45.0,2,Strength,True
+44.0,35.33,2,3,2.0,4.0,4.0,45.0,0,Stress Reduction,True
+45.0,15.82,0,1,2.0,3.0,6.7,60.0,2,Flexibility,True
+50.0,27.5,3,3,4.0,1.0,6.2,30.0,0,Strength,True
+43.0,19.69,2,0,1.0,4.0,8.2,90.0,3,Flexibility,True
+48.0,20.83,3,3,1.0,1.0,7.6,30.0,1,Strength,True
+45.0,37.0,1,1,3.0,2.0,5.9,20.0,0,General Fitness,True
+48.0,30.91,2,3,3.0,4.0,6.3,60.0,1,Mobility,True
+46.0,24.65,2,3,1.0,2.0,6.6,60.0,2,Strength,True
+32.0,24.48,1,2,2.0,1.0,9.2,30.0,3,General Fitness,True
+29.0,15.85,2,2,2.0,5.0,5.8,60.0,2,Stress Reduction,True
+55.0,18.68,1,2,3.0,2.0,5.9,60.0,0,Stress Reduction,True
+34.0,35.36,3,0,2.0,3.0,5.3,60.0,3,Flexibility,True
+43.0,22.28,2,0,1.0,5.0,4.8,90.0,3,Flexibility,True
+27.0,21.94,2,1,3.0,5.0,7.5,90.0,1,General Fitness,True
+38.0,31.56,2,1,5.0,5.0,7.3,45.0,2,General Fitness,True
+42.0,35.03,1,2,3.0,2.0,8.9,30.0,3,Weight Management,True
+47.0,28.76,3,1,2.0,5.0,8.6,20.0,1,Flexibility,True
+42.0,23.13,0,2,3.0,1.0,10.0,45.0,0,Mobility,True
+34.0,25.91,2,0,1.0,2.0,6.9,60.0,0,Flexibility,True
+63.0,19.39,0,0,2.0,1.0,6.6,60.0,2,Flexibility,True
+42.0,18.94,1,3,3.0,3.0,5.0,20.0,3,Stress Reduction,True
+55.0,19.43,2,3,3.0,5.0,8.0,60.0,2,Mobility,True
+52.0,22.74,1,3,3.0,4.0,7.2,60.0,2,Stress Reduction,True
+44.0,17.54,3,1,5.0,5.0,8.0,60.0,1,General Fitness,True
+59.0,16.84,2,2,4.0,1.0,5.3,45.0,1,Strength,True
+24.0,27.19,1,2,1.0,4.0,7.5,20.0,0,General Fitness,True
+61.0,25.94,1,1,3.0,4.0,7.3,45.0,1,Stress Reduction,True
+57.0,28.24,2,2,3.0,3.0,7.2,60.0,2,Mobility,True
+41.0,25.23,3,2,1.0,1.0,6.0,45.0,3,Strength,True
+52.0,24.29,1,1,2.0,1.0,8.8,45.0,3,Flexibility,True
+42.0,34.07,2,1,5.0,5.0,10.0,45.0,3,General Fitness,True
+30.0,22.97,2,1,2.0,2.0,5.3,45.0,0,Flexibility,True
+55.0,24.23,0,3,3.0,4.0,8.1,30.0,3,Stress Reduction,True
+29.0,27.59,3,3,2.0,5.0,4.0,60.0,0,Stress Reduction,True
+32.0,26.24,2,3,1.0,3.0,8.0,30.0,2,General Fitness,True
+42.0,25.26,0,3,2.0,2.0,4.2,45.0,3,Stress Reduction,True
+57.0,22.92,2,1,4.0,3.0,6.2,45.0,3,General Fitness,True
+36.0,17.99,2,3,5.0,2.0,5.0,60.0,2,Strength,True
+41.0,22.64,3,0,4.0,1.0,6.7,90.0,1,Strength,True
+19.0,22.33,0,3,5.0,5.0,8.3,60.0,2,Mobility,True
+23.0,18.34,1,1,4.0,2.0,4.2,20.0,2,Stress Reduction,True
+20.0,30.14,0,1,4.0,4.0,6.5,60.0,2,Mobility,True
+21.0,34.9,2,0,3.0,4.0,6.2,30.0,1,General Fitness,True
+58.0,23.72,2,0,1.0,3.0,9.4,20.0,1,Flexibility,True
+57.0,25.33,1,1,3.0,3.0,7.6,20.0,2,Stress Reduction,True
+56.0,18.07,3,2,5.0,1.0,5.2,90.0,0,Strength,True
+20.0,22.66,2,0,3.0,3.0,6.3,45.0,3,General Fitness,True
+21.0,18.9,1,3,4.0,4.0,9.3,30.0,0,Mobility,True
+31.0,27.99,0,0,1.0,1.0,8.1,20.0,3,Flexibility,True
+44.0,20.26,1,3,2.0,2.0,5.6,60.0,0,Stress Reduction,True
+33.0,29.46,3,1,2.0,4.0,6.6,60.0,2,Flexibility,True
+40.0,23.89,1,1,2.0,5.0,6.6,30.0,1,Flexibility,True
+26.0,22.84,3,0,5.0,2.0,6.2,20.0,2,Strength,True
+52.0,14.05,2,3,3.0,5.0,4.4,30.0,1,Stress Reduction,True
+32.0,27.88,2,2,4.0,1.0,6.0,60.0,3,Strength,True
+21.0,32.48,1,0,4.0,3.0,9.1,20.0,0,Weight Management,True
+52.0,25.14,2,0,3.0,5.0,6.4,30.0,3,General Fitness,True
+60.0,36.2,0,2,5.0,3.0,6.8,20.0,2,Weight Management,True
+18.0,39.25,0,3,2.0,3.0,7.2,45.0,3,Weight Management,True
+38.0,20.41,1,0,1.0,1.0,10.0,20.0,0,General Fitness,True
+56.0,23.49,2,0,4.0,3.0,7.0,20.0,0,General Fitness,True
+51.0,31.69,2,2,4.0,3.0,8.6,20.0,1,Mobility,True
+58.0,17.72,1,0,2.0,5.0,6.1,60.0,1,Flexibility,True
+37.0,29.15,1,1,5.0,2.0,6.6,45.0,3,Weight Management,True
+35.0,31.63,2,0,1.0,2.0,7.0,90.0,3,Flexibility,True
+51.0,21.51,2,1,2.0,4.0,5.8,30.0,1,Flexibility,True
+25.0,26.6,0,2,1.0,5.0,6.7,30.0,3,General Fitness,True
+29.0,34.51,1,1,1.0,2.0,8.3,30.0,0,Flexibility,True
+46.0,21.56,2,1,4.0,4.0,5.8,90.0,2,Stress Reduction,True
+49.0,23.89,3,1,4.0,5.0,7.0,45.0,0,Strength,True
+23.0,33.4,1,2,4.0,4.0,8.1,30.0,2,Weight Management,True
+41.0,32.89,3,0,5.0,3.0,5.8,60.0,1,Stress Reduction,True
+35.0,21.65,2,0,1.0,2.0,8.6,45.0,1,Flexibility,True
+41.0,23.62,1,0,4.0,2.0,7.1,20.0,1,General Fitness,True
+63.0,26.01,2,3,1.0,1.0,6.8,60.0,1,Strength,True
+21.0,29.75,3,2,5.0,1.0,4.0,20.0,3,Strength,True
+64.0,17.23,0,0,4.0,3.0,6.4,20.0,3,Stress Reduction,True
+39.0,16.62,0,1,4.0,1.0,7.6,60.0,1,General Fitness,True
+54.0,23.78,1,1,3.0,1.0,9.6,45.0,1,Stress Reduction,True
+37.0,23.7,0,0,2.0,4.0,7.9,30.0,2,Flexibility,True
+32.0,20.03,3,3,4.0,1.0,8.7,20.0,2,Strength,True
+54.0,40.13,3,3,5.0,1.0,5.2,45.0,0,Strength,True
+50.0,23.46,2,0,1.0,3.0,6.8,60.0,2,Flexibility,True
+24.0,27.64,3,0,5.0,5.0,8.8,30.0,3,General Fitness,True
+51.0,15.65,0,1,4.0,4.0,5.7,45.0,3,Stress Reduction,True
+53.0,23.84,2,2,1.0,1.0,8.4,30.0,2,Strength,True
+36.0,26.09,1,3,5.0,1.0,8.1,90.0,1,Mobility,True
+61.0,29.67,1,1,1.0,4.0,7.4,60.0,1,Flexibility,True
+48.0,20.7,1,1,4.0,4.0,6.5,30.0,2,Strength,True
+33.0,23.7,2,0,1.0,2.0,5.5,45.0,1,Strength,True
+18.0,39.26,2,0,1.0,5.0,9.7,90.0,0,Flexibility,True
+49.0,22.13,0,0,4.0,5.0,7.9,30.0,2,Stress Reduction,True
+27.0,23.96,2,1,4.0,4.0,7.5,20.0,0,General Fitness,True
+53.0,23.18,3,2,4.0,4.0,6.4,30.0,3,Mobility,True
+42.0,22.86,0,0,2.0,4.0,7.1,60.0,1,Flexibility,True
+39.0,22.32,3,0,5.0,1.0,7.2,90.0,1,Strength,True
+25.0,19.91,2,3,1.0,4.0,7.6,30.0,0,Flexibility,True
+51.0,18.72,1,3,5.0,5.0,8.1,20.0,0,Stress Reduction,True
+25.0,23.43,2,2,2.0,2.0,5.8,20.0,3,Strength,True
+37.0,27.35,2,2,4.0,1.0,4.8,45.0,2,Strength,True
+57.0,22.25,3,2,5.0,2.0,7.1,20.0,3,Strength,True
+61.0,20.6,0,1,2.0,2.0,4.4,20.0,3,Flexibility,True
+64.0,23.71,0,0,3.0,5.0,6.5,60.0,0,Stress Reduction,True
+63.0,29.15,2,1,5.0,3.0,6.2,90.0,1,General Fitness,True
+44.0,27.28,1,2,5.0,4.0,7.7,30.0,3,Mobility,True
+27.0,28.5,0,2,2.0,5.0,10.0,45.0,1,Weight Management,True
+57.0,23.73,1,2,3.0,4.0,4.1,45.0,2,Stress Reduction,True
+55.0,15.98,2,2,2.0,4.0,10.0,60.0,2,General Fitness,True
+64.0,26.92,0,0,3.0,5.0,6.7,90.0,2,Stress Reduction,True
+48.0,25.23,3,2,2.0,4.0,7.5,90.0,3,General Fitness,True
+24.0,31.61,1,3,1.0,2.0,4.9,30.0,3,Mobility,True
+41.0,36.47,0,2,5.0,4.0,8.5,90.0,2,Weight Management,True
+39.0,30.4,0,2,4.0,2.0,7.1,20.0,2,Weight Management,True
+57.0,28.02,3,0,3.0,2.0,6.9,90.0,1,Strength,True
+36.0,31.63,0,3,1.0,4.0,4.1,20.0,0,Weight Management,True
+33.0,25.28,1,1,1.0,2.0,7.1,20.0,2,Flexibility,True
+21.0,20.69,2,1,3.0,1.0,8.3,20.0,0,Strength,True
+57.0,20.56,2,1,4.0,5.0,6.6,20.0,2,General Fitness,True
+53.0,26.98,1,0,2.0,3.0,8.8,45.0,1,Flexibility,True
+19.0,27.85,0,3,4.0,4.0,8.7,60.0,3,Weight Management,True
+38.0,18.24,2,2,2.0,5.0,6.0,60.0,3,General Fitness,True
+40.0,24.66,1,1,1.0,4.0,9.4,20.0,2,Flexibility,True
+40.0,22.96,0,3,3.0,4.0,7.1,30.0,2,Mobility,True
+61.0,13.08,0,0,1.0,4.0,7.1,20.0,1,Flexibility,True
+25.0,24.78,2,1,1.0,2.0,7.1,20.0,1,Flexibility,True
+32.0,28.81,0,2,1.0,5.0,7.1,60.0,0,Weight Management,True
+26.0,31.1,1,0,2.0,4.0,4.0,60.0,0,Flexibility,True
+29.0,33.84,0,2,3.0,1.0,6.7,30.0,2,Weight Management,True
+60.0,18.15,3,3,5.0,1.0,5.0,30.0,3,Strength,True
+62.0,24.03,2,2,2.0,5.0,9.4,90.0,0,General Fitness,True
+20.0,10.63,3,0,1.0,5.0,9.4,45.0,1,Flexibility,True
+47.0,22.18,0,2,1.0,5.0,8.3,30.0,2,Stress Reduction,True
+28.0,30.17,1,1,2.0,1.0,6.6,90.0,2,Flexibility,True
+27.0,24.85,1,2,2.0,5.0,5.5,20.0,2,Stress Reduction,True
+31.0,29.6,2,2,2.0,5.0,6.0,30.0,2,General Fitness,True
+27.0,28.37,3,0,5.0,4.0,9.9,60.0,0,General Fitness,True
+41.0,29.37,0,0,2.0,3.0,6.0,45.0,1,Flexibility,True
+64.0,22.5,3,0,4.0,3.0,4.0,20.0,1,Stress Reduction,True
+45.0,27.16,2,0,4.0,3.0,8.5,90.0,0,General Fitness,True
+51.0,22.68,3,1,1.0,1.0,9.3,30.0,1,Flexibility,True
+41.0,20.71,0,0,2.0,3.0,9.5,60.0,1,Flexibility,True
+18.0,16.44,3,3,3.0,2.0,8.6,30.0,3,Strength,True
+21.0,24.37,1,3,3.0,2.0,8.8,60.0,1,Mobility,True
+30.0,27.55,1,0,1.0,1.0,7.1,90.0,3,Flexibility,True
+29.0,36.65,0,1,4.0,3.0,4.0,60.0,2,Weight Management,True
+57.0,23.49,3,2,2.0,1.0,7.0,90.0,2,Strength,True
+57.0,20.43,3,2,2.0,5.0,7.9,45.0,3,General Fitness,True
+58.0,16.75,0,2,4.0,5.0,6.8,20.0,3,Stress Reduction,True
+47.0,27.7,1,3,5.0,5.0,6.7,45.0,0,Weight Management,True
+44.0,13.9,2,2,5.0,2.0,5.6,45.0,1,Strength,True
+48.0,25.27,2,2,5.0,1.0,5.5,60.0,2,Strength,True
+37.0,32.58,0,2,3.0,3.0,9.8,30.0,3,Weight Management,True
+49.0,34.54,1,2,1.0,4.0,9.8,60.0,0,Weight Management,True
+55.0,19.87,1,1,2.0,1.0,7.0,45.0,1,Flexibility,True
+53.0,27.24,1,2,2.0,5.0,7.4,60.0,0,Stress Reduction,True
+46.0,32.28,3,3,2.0,3.0,5.5,45.0,0,Stress Reduction,True
+20.0,22.6,0,1,2.0,5.0,8.0,30.0,3,Stress Reduction,True
+52.0,32.1,2,0,1.0,1.0,9.6,30.0,0,Flexibility,True
+35.0,23.84,3,2,1.0,3.0,4.7,90.0,3,Stress Reduction,True
+52.0,31.15,3,3,4.0,3.0,7.7,20.0,3,Mobility,True
+43.0,9.9,3,3,3.0,1.0,7.8,30.0,3,Strength,True
+59.0,36.5,0,2,1.0,4.0,7.8,45.0,0,Weight Management,True
+33.0,36.52,0,3,3.0,5.0,9.5,20.0,0,Weight Management,True
+61.0,24.51,3,1,5.0,3.0,10.0,90.0,1,General Fitness,True
+57.0,26.77,2,1,3.0,2.0,6.6,30.0,2,Strength,True
+33.0,26.44,2,1,2.0,4.0,8.0,30.0,3,Flexibility,True
+40.0,19.25,1,1,2.0,2.0,7.1,30.0,1,Flexibility,True
+42.0,27.33,2,2,2.0,2.0,6.1,20.0,0,Strength,True
+54.0,19.36,0,3,2.0,4.0,7.4,60.0,3,Stress Reduction,True
+50.0,22.32,1,1,5.0,3.0,8.0,45.0,3,Stress Reduction,True
+58.0,30.95,2,0,5.0,2.0,7.3,30.0,2,Strength,True
+35.0,29.96,0,3,2.0,3.0,5.7,90.0,2,Weight Management,True
+41.0,20.55,0,3,5.0,5.0,6.3,60.0,3,Mobility,True
+38.0,19.1,0,3,5.0,3.0,6.3,45.0,1,Mobility,True
+60.0,20.05,0,1,1.0,1.0,5.7,45.0,0,Flexibility,True
+32.0,28.86,3,2,3.0,5.0,7.5,60.0,2,Mobility,True
+45.0,21.53,2,2,4.0,4.0,7.6,20.0,1,Mobility,True
+23.0,26.72,3,3,3.0,2.0,8.5,90.0,3,Strength,True
+57.0,29.19,1,3,3.0,5.0,5.7,30.0,3,Weight Management,True
+36.0,23.93,2,3,3.0,5.0,6.1,20.0,1,Flexibility,True
+34.0,23.76,3,1,4.0,5.0,9.3,45.0,1,General Fitness,True
+45.0,24.85,1,0,2.0,2.0,6.8,90.0,1,Flexibility,True
+41.0,22.63,2,0,3.0,5.0,7.0,60.0,2,General Fitness,True
+57.0,17.28,2,3,2.0,5.0,6.7,30.0,2,General Fitness,True
+42.0,30.22,3,3,5.0,5.0,8.7,30.0,2,Mobility,True
+42.0,15.92,3,0,1.0,3.0,8.8,45.0,2,Flexibility,True
+22.0,28.18,2,1,1.0,2.0,8.7,30.0,3,Flexibility,True
+19.0,23.65,2,0,1.0,2.0,7.0,90.0,1,Flexibility,True
+36.0,21.18,3,1,2.0,5.0,5.7,30.0,0,Flexibility,True
+64.0,22.57,2,2,4.0,3.0,9.9,30.0,3,Mobility,True
+61.0,31.63,1,2,5.0,5.0,8.3,20.0,3,Weight Management,True
+47.0,23.6,2,1,3.0,3.0,6.3,60.0,2,Strength,True
+47.0,18.69,2,1,1.0,3.0,9.1,20.0,1,Flexibility,True
+36.0,23.01,0,2,2.0,1.0,6.2,90.0,1,General Fitness,True
+26.0,24.45,2,2,1.0,3.0,9.1,90.0,1,General Fitness,True
+18.0,45.83,2,0,3.0,3.0,9.2,20.0,0,General Fitness,True
+33.0,19.6,3,0,4.0,1.0,5.6,20.0,2,Strength,True
+32.0,21.82,2,1,1.0,1.0,7.9,90.0,1,Flexibility,True
+27.0,35.86,0,1,4.0,3.0,8.2,20.0,1,Weight Management,True
+30.0,16.17,3,3,2.0,2.0,10.0,45.0,2,Strength,True
+19.0,28.68,2,3,4.0,4.0,5.9,90.0,3,Stress Reduction,True
+46.0,32.21,1,2,5.0,3.0,9.1,20.0,0,Weight Management,True
+61.0,25.45,3,0,4.0,3.0,7.0,60.0,3,General Fitness,True
+50.0,15.19,1,0,4.0,1.0,5.1,30.0,2,Stress Reduction,True
+39.0,22.97,1,1,4.0,3.0,6.8,45.0,3,General Fitness,True
+37.0,30.25,3,2,1.0,3.0,7.0,90.0,1,General Fitness,True
+32.0,30.05,3,2,1.0,3.0,5.4,60.0,3,Stress Reduction,True
+24.0,23.29,2,0,2.0,2.0,7.5,30.0,2,Flexibility,True
+46.0,20.64,1,3,4.0,1.0,8.4,90.0,2,Stress Reduction,True
+44.0,20.38,3,1,4.0,5.0,7.4,45.0,2,General Fitness,True
+18.0,25.91,0,2,4.0,5.0,6.2,20.0,1,Mobility,True
+37.0,35.77,2,0,2.0,5.0,6.8,30.0,2,Flexibility,True
+31.0,28.4,2,3,5.0,2.0,7.0,30.0,3,Strength,True
+26.0,30.15,3,2,3.0,4.0,7.3,60.0,3,Mobility,True
+51.0,18.81,1,0,2.0,1.0,8.7,90.0,0,Flexibility,True
+42.0,19.87,3,1,4.0,5.0,7.4,20.0,2,General Fitness,True
+47.0,23.98,0,1,1.0,1.0,4.9,60.0,3,Flexibility,True
+51.0,16.29,3,0,3.0,3.0,6.2,90.0,2,General Fitness,True
+64.0,22.09,0,3,4.0,5.0,7.2,90.0,1,Stress Reduction,True
+55.0,23.04,2,3,4.0,4.0,8.7,60.0,1,Mobility,True
+47.0,13.66,0,3,2.0,5.0,8.9,30.0,2,Stress Reduction,True
+59.0,24.06,3,1,1.0,3.0,9.7,20.0,2,Flexibility,True
+40.0,26.8,3,2,1.0,1.0,7.2,90.0,1,Strength,True
+64.0,29.95,0,1,1.0,1.0,8.1,45.0,1,Flexibility,True
+53.0,34.27,3,1,5.0,1.0,4.8,30.0,1,Strength,True
+48.0,32.42,1,2,4.0,1.0,7.6,60.0,0,Weight Management,True
+60.0,26.33,2,1,3.0,3.0,5.4,60.0,0,Stress Reduction,True
+42.0,24.32,0,3,3.0,1.0,6.9,90.0,0,Mobility,True
+51.0,18.32,0,0,2.0,1.0,10.0,90.0,1,Mobility,True
+31.0,22.02,0,0,1.0,3.0,7.5,90.0,2,Flexibility,True
+63.0,25.71,2,3,1.0,4.0,5.7,20.0,1,Stress Reduction,True
+47.0,25.25,2,3,4.0,4.0,7.6,20.0,3,Mobility,True
+54.0,12.48,3,3,1.0,1.0,6.2,30.0,0,Weight Management,True
+39.0,21.62,0,1,1.0,5.0,5.6,60.0,1,Flexibility,True
+58.0,24.82,2,1,4.0,3.0,10.0,45.0,0,General Fitness,True
+21.0,24.71,0,0,3.0,2.0,8.6,90.0,1,General Fitness,True
+23.0,21.82,1,1,3.0,2.0,7.5,90.0,2,General Fitness,True
+41.0,43.03,0,2,2.0,5.0,6.4,90.0,1,Weight Management,True
+52.0,31.02,0,1,1.0,3.0,6.5,20.0,1,Flexibility,True
+56.0,27.04,2,1,3.0,2.0,9.3,60.0,2,Strength,True
+38.0,27.58,3,0,2.0,3.0,7.5,90.0,3,Flexibility,True
+48.0,24.31,2,1,3.0,1.0,4.0,90.0,0,Strength,True
+43.0,16.66,3,2,1.0,1.0,10.0,30.0,0,Strength,True
+63.0,34.34,2,2,2.0,2.0,7.3,60.0,0,Strength,True
+48.0,27.99,0,2,1.0,2.0,7.5,45.0,2,Weight Management,True
+37.0,33.14,1,3,3.0,2.0,8.6,20.0,3,Weight Management,True
+63.0,31.9,3,0,2.0,1.0,7.7,30.0,0,Flexibility,True
+23.0,19.36,0,1,2.0,4.0,8.1,30.0,0,Flexibility,True
+64.0,31.35,0,2,3.0,1.0,6.4,90.0,2,Weight Management,True
+25.0,25.81,3,1,3.0,2.0,5.2,20.0,3,Strength,True
+31.0,27.13,0,3,2.0,5.0,7.4,20.0,2,General Fitness,True
+56.0,15.92,3,0,4.0,1.0,9.1,45.0,3,Strength,True
+52.0,14.1,3,0,2.0,2.0,6.0,45.0,2,Flexibility,True
+63.0,29.57,2,1,2.0,3.0,5.9,45.0,0,Flexibility,True
+53.0,21.93,2,1,3.0,2.0,8.8,20.0,1,Flexibility,True
+47.0,14.32,0,3,1.0,2.0,6.3,45.0,3,Stress Reduction,True
+34.0,27.65,1,1,3.0,1.0,6.4,90.0,2,Weight Management,True
+18.0,34.11,3,1,3.0,3.0,6.4,20.0,0,General Fitness,True
+23.0,28.74,3,0,1.0,4.0,6.9,60.0,0,Flexibility,True
+31.0,24.42,1,1,3.0,3.0,4.6,20.0,2,Stress Reduction,True
+19.0,26.47,3,2,1.0,5.0,6.2,30.0,1,General Fitness,True
+41.0,28.34,3,2,4.0,4.0,7.3,90.0,2,Mobility,True
+54.0,28.97,0,2,1.0,4.0,7.3,30.0,1,Weight Management,True
+63.0,24.35,2,1,1.0,3.0,8.7,45.0,1,Flexibility,True
+41.0,22.92,2,0,2.0,4.0,9.8,30.0,2,Flexibility,True
+59.0,23.73,2,0,4.0,3.0,9.3,60.0,0,General Fitness,True
+64.0,24.11,3,0,4.0,5.0,8.4,45.0,1,General Fitness,True
+58.0,19.76,3,2,3.0,3.0,6.8,45.0,1,Mobility,True
+39.0,27.09,2,3,1.0,3.0,6.1,90.0,3,General Fitness,True
+33.0,32.52,1,3,2.0,1.0,7.0,45.0,2,Weight Management,True
+63.0,31.6,3,1,4.0,5.0,7.9,45.0,1,General Fitness,True
+29.0,27.94,3,0,1.0,3.0,8.2,90.0,1,Flexibility,True
+37.0,37.33,2,2,4.0,4.0,7.9,45.0,0,Mobility,True
+21.0,27.59,2,0,2.0,4.0,6.8,90.0,0,Flexibility,True
+55.0,33.54,0,2,1.0,1.0,8.2,60.0,1,Weight Management,True
+48.0,30.76,1,1,4.0,4.0,8.9,90.0,3,Weight Management,True
+21.0,42.55,0,3,1.0,3.0,8.3,45.0,0,Flexibility,True
+28.0,20.32,2,2,2.0,2.0,7.0,45.0,0,Strength,True
+44.0,24.31,3,2,1.0,2.0,5.7,20.0,2,Strength,True
+43.0,26.53,0,1,3.0,4.0,5.7,20.0,0,Stress Reduction,True
+55.0,26.68,3,3,1.0,1.0,6.0,20.0,3,Strength,True
+30.0,33.34,0,2,1.0,4.0,7.4,60.0,3,Weight Management,True
+61.0,16.6,0,2,3.0,5.0,7.8,30.0,3,Stress Reduction,True
+38.0,28.98,3,1,5.0,1.0,4.9,30.0,1,Strength,True
+56.0,29.61,0,1,1.0,1.0,6.2,60.0,1,Flexibility,True
+29.0,33.03,2,3,3.0,1.0,7.4,30.0,1,Strength,True
+19.0,23.15,3,1,5.0,4.0,5.7,20.0,0,Stress Reduction,True
+20.0,27.25,1,0,2.0,5.0,7.7,45.0,2,Flexibility,True
+35.0,35.63,0,1,3.0,5.0,6.5,45.0,3,Weight Management,True
+62.0,32.23,1,1,5.0,1.0,5.9,20.0,1,Weight Management,True
+20.0,26.23,0,1,4.0,3.0,7.1,30.0,0,General Fitness,True
+35.0,26.51,2,0,2.0,1.0,7.6,30.0,2,Flexibility,True
+23.0,27.47,3,0,4.0,2.0,5.7,60.0,1,Strength,True
+61.0,29.59,3,1,4.0,2.0,6.6,30.0,3,Strength,True
+49.0,21.78,3,1,3.0,4.0,7.7,20.0,3,General Fitness,True
+53.0,22.44,3,0,3.0,5.0,5.9,30.0,3,Stress Reduction,True
+51.0,22.91,3,1,5.0,5.0,4.5,45.0,1,Stress Reduction,True
+48.0,18.64,3,1,5.0,1.0,4.7,60.0,3,Strength,True
+54.0,24.7,2,0,5.0,2.0,6.4,20.0,0,Strength,True
+18.0,26.81,3,1,4.0,2.0,5.0,90.0,1,Strength,True
+58.0,32.01,1,1,2.0,2.0,6.5,30.0,1,Flexibility,True
+52.0,30.42,1,0,1.0,2.0,9.5,30.0,3,Flexibility,True
+52.0,21.66,3,3,1.0,4.0,4.9,20.0,2,Stress Reduction,True
+36.0,28.83,1,0,5.0,4.0,6.6,30.0,1,Weight Management,True
+55.0,26.76,1,2,2.0,5.0,10.0,45.0,0,Stress Reduction,True
+35.0,22.82,0,2,1.0,4.0,7.6,60.0,3,General Fitness,True
+20.0,25.5,1,3,2.0,2.0,6.4,60.0,2,General Fitness,True
+60.0,20.29,2,2,1.0,1.0,6.8,45.0,3,Strength,True
+29.0,18.26,3,2,3.0,2.0,7.6,20.0,1,Strength,True
+22.0,35.25,0,3,3.0,4.0,9.5,30.0,0,Weight Management,True
+47.0,14.8,2,3,2.0,5.0,6.2,60.0,1,General Fitness,True
+28.0,30.22,3,0,4.0,2.0,5.9,60.0,2,Strength,True
+58.0,29.32,3,3,3.0,1.0,4.9,45.0,0,Strength,True
+38.0,21.48,3,1,5.0,1.0,7.2,45.0,0,Weight Management,True
+18.0,36.29,0,0,4.0,1.0,4.9,45.0,3,Flexibility,True
+62.0,34.33,1,2,1.0,4.0,6.3,90.0,2,Weight Management,True
+42.0,22.03,3,3,2.0,3.0,5.6,45.0,1,Stress Reduction,True
+30.0,30.47,3,0,4.0,4.0,8.6,45.0,2,General Fitness,True
+49.0,20.1,2,0,3.0,1.0,6.2,30.0,2,Strength,True
+42.0,20.35,3,3,4.0,3.0,7.6,45.0,0,Stress Reduction,True
+19.0,19.14,2,2,2.0,1.0,4.6,60.0,1,Strength,True
+53.0,27.58,0,0,1.0,2.0,7.2,90.0,1,Flexibility,True
+36.0,39.76,3,3,4.0,4.0,5.2,60.0,0,Stress Reduction,True
+50.0,25.34,0,1,4.0,2.0,6.4,60.0,0,Stress Reduction,True
+60.0,17.1,1,1,4.0,4.0,10.0,60.0,1,Stress Reduction,True
+46.0,21.8,0,1,3.0,2.0,8.4,20.0,2,Stress Reduction,True
+49.0,25.19,2,2,1.0,3.0,6.8,30.0,2,General Fitness,True
+29.0,31.57,0,0,4.0,3.0,10.0,30.0,3,Weight Management,True
+29.0,26.73,2,1,4.0,2.0,5.6,60.0,1,Strength,True
+37.0,34.45,3,1,4.0,1.0,8.7,60.0,2,Strength,True
+58.0,34.31,3,0,1.0,3.0,4.7,20.0,3,Flexibility,True
+42.0,19.05,1,3,4.0,5.0,6.6,20.0,2,Mobility,True
+34.0,24.49,3,0,4.0,4.0,5.0,45.0,3,Stress Reduction,True
+54.0,25.45,1,3,5.0,4.0,7.4,90.0,0,Stress Reduction,True
+58.0,28.34,2,0,3.0,5.0,7.1,20.0,3,General Fitness,True
+60.0,10.97,2,1,4.0,1.0,6.5,90.0,2,Strength,True
+32.0,25.8,0,0,3.0,4.0,8.6,20.0,2,General Fitness,True
+51.0,21.69,0,1,4.0,2.0,6.1,30.0,0,Stress Reduction,True
+45.0,21.5,0,2,4.0,4.0,7.5,60.0,2,Mobility,True
+39.0,32.84,3,0,4.0,5.0,8.2,60.0,3,General Fitness,True
+36.0,19.37,3,2,5.0,5.0,4.8,90.0,2,Stress Reduction,True
+23.0,16.39,1,3,1.0,3.0,5.9,20.0,0,Stress Reduction,True
+30.0,21.64,3,1,4.0,5.0,7.1,20.0,1,General Fitness,True
+43.0,33.34,0,0,4.0,4.0,7.9,45.0,2,Weight Management,True
+59.0,21.37,3,2,3.0,1.0,9.1,45.0,3,Strength,True
+58.0,14.26,0,0,3.0,2.0,6.7,30.0,1,Stress Reduction,True
+26.0,17.55,0,0,4.0,5.0,6.5,60.0,3,General Fitness,True
+49.0,33.76,3,1,3.0,5.0,5.7,30.0,3,Mobility,True
+21.0,22.15,1,1,3.0,5.0,7.5,90.0,1,General Fitness,True
+49.0,24.62,1,0,5.0,2.0,6.6,20.0,0,Stress Reduction,True
+34.0,17.62,3,3,4.0,2.0,6.6,60.0,3,Strength,True
+39.0,23.42,1,2,2.0,5.0,6.9,45.0,2,General Fitness,True
+51.0,36.43,3,3,5.0,1.0,7.8,20.0,3,Strength,True
+37.0,24.85,0,1,2.0,5.0,6.2,60.0,3,Flexibility,True
+55.0,23.94,0,1,1.0,4.0,5.8,20.0,1,Flexibility,True
+43.0,34.65,1,3,5.0,4.0,7.6,45.0,0,Weight Management,True
+64.0,30.29,2,0,2.0,3.0,4.0,60.0,3,Flexibility,True
+47.0,22.89,0,1,2.0,5.0,6.1,20.0,2,Weight Management,True
+31.0,23.95,0,3,2.0,4.0,5.3,30.0,0,Stress Reduction,True
+54.0,26.54,2,1,3.0,1.0,8.8,30.0,2,Strength,True
+37.0,21.15,1,3,1.0,3.0,6.3,90.0,0,General Fitness,True
+43.0,36.44,1,1,1.0,5.0,6.2,30.0,1,Flexibility,True
+24.0,23.08,0,1,2.0,1.0,6.9,90.0,1,Flexibility,True
+23.0,11.51,0,3,2.0,4.0,6.1,45.0,1,General Fitness,True
+45.0,24.28,0,0,1.0,2.0,6.4,90.0,2,Flexibility,True
+26.0,24.35,2,3,5.0,3.0,7.1,90.0,3,Mobility,True
+64.0,21.5,0,0,3.0,5.0,6.4,30.0,1,Stress Reduction,True
+58.0,26.15,0,1,1.0,3.0,6.4,45.0,2,Flexibility,True
+50.0,23.39,3,2,1.0,1.0,5.5,60.0,3,Strength,True
+52.0,23.63,1,2,5.0,1.0,5.3,20.0,2,Stress Reduction,True
+45.0,29.37,2,3,2.0,4.0,7.1,60.0,1,General Fitness,True
+20.0,20.95,1,3,1.0,5.0,7.5,45.0,2,General Fitness,True
+36.0,15.32,3,2,4.0,2.0,4.9,20.0,1,Strength,True
+41.0,43.04,3,2,5.0,5.0,8.1,90.0,1,Mobility,True
+61.0,20.0,1,1,2.0,3.0,8.1,30.0,2,Flexibility,True
+28.0,22.04,2,3,4.0,1.0,8.5,90.0,1,Strength,True
+41.0,14.64,1,2,3.0,3.0,7.4,30.0,0,Mobility,True
+34.0,25.58,3,0,1.0,5.0,8.0,45.0,3,Flexibility,True
+24.0,27.1,1,3,4.0,2.0,10.0,30.0,2,Mobility,True
+22.0,21.19,3,1,5.0,5.0,6.5,90.0,0,General Fitness,True
+35.0,41.03,2,1,5.0,4.0,5.4,90.0,1,Stress Reduction,True
+21.0,23.25,2,1,1.0,2.0,4.7,60.0,1,Flexibility,True
+21.0,27.54,1,3,3.0,4.0,9.6,90.0,3,Weight Management,True
+34.0,13.53,3,1,4.0,3.0,9.7,60.0,3,Flexibility,True
+27.0,39.27,2,1,1.0,1.0,5.6,30.0,2,Flexibility,True
+44.0,22.43,3,0,5.0,5.0,5.9,90.0,1,Stress Reduction,True
+18.0,32.37,3,1,1.0,2.0,6.5,45.0,0,Strength,True
+32.0,30.73,0,0,2.0,3.0,8.8,30.0,0,Flexibility,True
+39.0,29.91,3,2,5.0,4.0,5.1,20.0,0,Stress Reduction,True
+63.0,20.06,3,3,3.0,1.0,4.1,60.0,3,Flexibility,True
+47.0,18.93,0,1,4.0,4.0,10.0,30.0,0,Stress Reduction,True
+59.0,20.28,3,3,3.0,2.0,7.5,60.0,2,Strength,True
+34.0,22.22,2,3,4.0,3.0,7.7,20.0,3,Mobility,True
+39.0,21.36,1,0,1.0,3.0,6.7,60.0,1,Mobility,True
+37.0,11.58,0,2,4.0,4.0,7.7,60.0,2,Mobility,True
+59.0,31.89,1,2,1.0,1.0,4.7,45.0,3,Weight Management,True
+63.0,32.01,0,1,1.0,1.0,5.7,60.0,1,Flexibility,True
+63.0,22.82,2,3,3.0,3.0,7.2,90.0,1,Mobility,True
+53.0,19.89,2,1,3.0,1.0,4.0,90.0,0,Strength,True
+41.0,30.42,2,0,1.0,2.0,6.5,45.0,1,Flexibility,True
+43.0,20.49,2,2,4.0,4.0,6.5,90.0,3,Mobility,True
+64.0,13.67,1,0,2.0,5.0,6.5,90.0,2,Flexibility,True
+31.0,22.87,2,1,5.0,4.0,6.2,20.0,0,General Fitness,True
+34.0,25.47,3,2,1.0,2.0,5.5,30.0,2,Strength,True
+60.0,22.1,0,2,2.0,5.0,4.3,60.0,2,Stress Reduction,True
+36.0,17.32,1,1,2.0,3.0,7.2,45.0,0,Flexibility,True
+29.0,25.58,3,1,3.0,1.0,6.5,20.0,3,Strength,True
+44.0,16.51,3,0,3.0,4.0,4.9,45.0,0,Stress Reduction,True
+33.0,22.42,3,1,1.0,3.0,7.1,30.0,1,Flexibility,True
+59.0,27.69,0,2,3.0,2.0,6.6,60.0,1,Weight Management,True
+60.0,29.1,1,2,5.0,4.0,6.3,45.0,2,Weight Management,True
+32.0,22.1,0,1,1.0,4.0,4.0,20.0,3,Flexibility,True
+42.0,19.54,3,0,2.0,2.0,8.0,20.0,0,Flexibility,True
+64.0,29.8,2,2,3.0,1.0,5.2,30.0,1,Strength,True
+52.0,22.44,0,2,4.0,3.0,7.1,20.0,1,Weight Management,True
+28.0,30.41,0,0,1.0,1.0,5.8,90.0,3,Flexibility,True
+45.0,23.95,2,2,2.0,4.0,6.4,30.0,3,General Fitness,True
+47.0,20.48,3,0,2.0,3.0,8.7,60.0,1,Flexibility,True
+48.0,9.72,3,1,4.0,2.0,7.8,20.0,2,Strength,True
+19.0,25.53,3,2,1.0,3.0,8.7,45.0,3,General Fitness,True
+32.0,24.07,3,2,4.0,2.0,7.5,90.0,3,Strength,True
+58.0,25.16,3,2,3.0,2.0,7.6,60.0,2,Strength,True
+29.0,27.04,3,3,2.0,2.0,4.3,30.0,2,Strength,True
+32.0,26.44,3,0,5.0,4.0,6.5,60.0,3,General Fitness,True
+33.0,18.84,1,3,5.0,5.0,6.7,45.0,0,Mobility,True
+26.0,22.37,3,1,5.0,4.0,8.8,30.0,1,General Fitness,True
+25.0,18.98,3,1,5.0,2.0,6.2,90.0,2,Strength,True
+34.0,28.89,0,3,2.0,5.0,7.4,90.0,0,Weight Management,True
+59.0,31.13,2,1,5.0,1.0,7.3,45.0,2,Strength,True
+18.0,17.68,1,0,1.0,2.0,8.7,20.0,3,Flexibility,True
+31.0,15.66,0,2,2.0,1.0,6.8,45.0,0,General Fitness,True
+20.0,26.44,0,2,3.0,5.0,8.2,45.0,3,Mobility,True
+44.0,22.26,0,2,4.0,1.0,4.4,90.0,1,Stress Reduction,True
+29.0,17.87,3,0,3.0,3.0,4.6,60.0,3,Stress Reduction,True
+55.0,36.91,3,2,3.0,1.0,4.0,30.0,2,Strength,True
+45.0,24.31,0,0,2.0,2.0,8.2,45.0,0,Flexibility,True
+54.0,33.53,2,2,3.0,4.0,8.0,20.0,2,Mobility,True
+47.0,22.56,2,2,3.0,5.0,8.3,45.0,0,Mobility,True
+38.0,26.7,2,3,3.0,1.0,6.0,45.0,0,Strength,True
+58.0,24.68,2,3,3.0,1.0,6.2,45.0,3,Strength,True
+40.0,28.75,3,0,4.0,2.0,6.8,45.0,3,Strength,True
+62.0,26.18,2,0,2.0,5.0,9.2,45.0,0,Flexibility,True
+64.0,14.03,2,2,1.0,1.0,9.5,60.0,1,Strength,True
+45.0,33.96,2,3,2.0,1.0,8.2,45.0,0,Strength,True
+49.0,33.46,1,0,3.0,3.0,7.5,20.0,1,Weight Management,True
+30.0,29.46,3,1,1.0,2.0,9.0,60.0,3,Flexibility,True
+56.0,23.55,1,1,1.0,1.0,6.6,60.0,0,Flexibility,True
+49.0,19.17,3,1,5.0,3.0,6.4,60.0,2,General Fitness,True
+60.0,20.75,2,2,2.0,4.0,6.8,60.0,3,General Fitness,True
+30.0,30.49,2,1,4.0,1.0,5.5,20.0,3,Strength,True
+55.0,26.75,3,1,1.0,4.0,6.7,90.0,1,Flexibility,True
+40.0,22.92,2,3,5.0,1.0,5.3,90.0,2,Strength,True
+26.0,21.0,2,1,2.0,4.0,8.5,20.0,1,Flexibility,True
+26.0,16.78,2,0,2.0,2.0,7.8,30.0,0,Flexibility,True
+44.0,26.1,2,3,4.0,2.0,9.1,30.0,0,Strength,True
+33.0,19.97,1,1,2.0,1.0,4.6,90.0,2,Flexibility,True
+22.0,20.5,2,3,3.0,5.0,9.9,90.0,2,Mobility,True
+38.0,36.52,3,3,4.0,3.0,4.6,30.0,2,Stress Reduction,True
+48.0,27.32,2,2,1.0,4.0,5.2,60.0,3,Stress Reduction,True
+32.0,39.46,3,0,1.0,2.0,6.1,30.0,2,Flexibility,True
+62.0,21.28,3,3,4.0,1.0,9.0,20.0,1,Strength,True
+54.0,27.49,1,2,2.0,1.0,7.3,30.0,1,Stress Reduction,True
+42.0,33.65,0,1,5.0,3.0,6.6,20.0,3,Weight Management,True
+61.0,16.69,1,3,5.0,2.0,5.8,90.0,3,Stress Reduction,True
+38.0,36.75,3,3,5.0,4.0,4.9,60.0,0,Stress Reduction,True
+24.0,20.19,3,3,5.0,4.0,8.7,20.0,3,Mobility,True
+19.0,36.17,2,0,5.0,2.0,8.2,45.0,0,Mobility,True
+62.0,25.01,3,2,2.0,3.0,9.0,30.0,3,General Fitness,True
+63.0,21.13,0,1,5.0,2.0,7.6,45.0,2,Stress Reduction,True
+52.0,17.25,2,0,2.0,4.0,4.0,90.0,2,Flexibility,True
+22.0,34.86,2,1,3.0,4.0,5.1,90.0,2,Stress Reduction,True
+31.0,28.86,2,0,1.0,4.0,7.7,90.0,2,Flexibility,True
+19.0,25.09,2,0,5.0,1.0,6.4,30.0,1,Strength,True
+20.0,43.99,1,2,3.0,2.0,6.2,20.0,3,Weight Management,True
+29.0,39.83,2,2,5.0,5.0,5.3,20.0,2,Stress Reduction,True
+44.0,30.21,2,1,2.0,2.0,8.4,20.0,2,Flexibility,True
+21.0,14.33,3,0,2.0,1.0,7.7,60.0,1,Flexibility,True
+64.0,22.31,0,3,3.0,1.0,7.8,60.0,0,Stress Reduction,True
+39.0,19.21,1,2,5.0,1.0,6.0,90.0,2,Mobility,True
+30.0,25.38,1,2,3.0,4.0,7.3,20.0,1,Mobility,True
+42.0,20.38,0,0,4.0,1.0,5.0,30.0,2,Stress Reduction,True
+55.0,18.59,1,0,2.0,3.0,6.8,60.0,1,Flexibility,True
+32.0,23.99,1,0,4.0,2.0,4.0,60.0,3,Stress Reduction,True
+20.0,13.58,1,0,4.0,1.0,4.6,45.0,2,Stress Reduction,True
+20.0,29.96,1,3,5.0,5.0,6.5,20.0,1,Weight Management,True
+58.0,14.05,2,1,1.0,4.0,10.0,45.0,2,Flexibility,True
+23.0,31.68,2,2,2.0,5.0,4.3,20.0,2,Stress Reduction,True
+47.0,26.73,1,3,1.0,5.0,5.1,45.0,2,Stress Reduction,True
+36.0,36.56,3,3,3.0,5.0,7.3,90.0,2,Mobility,True
+54.0,33.42,1,1,4.0,4.0,9.7,20.0,3,Weight Management,True
+20.0,25.61,2,1,4.0,3.0,7.3,20.0,1,General Fitness,True
+60.0,28.52,0,1,4.0,4.0,8.1,60.0,1,Weight Management,True
+50.0,15.37,0,0,4.0,3.0,6.5,20.0,1,Stress Reduction,True
+39.0,19.99,1,3,5.0,1.0,6.2,90.0,2,Mobility,True
+27.0,26.59,1,2,5.0,2.0,7.1,60.0,3,Mobility,True
+63.0,12.22,1,1,3.0,3.0,6.0,45.0,2,Stress Reduction,True
+32.0,27.97,0,2,5.0,1.0,8.1,30.0,0,Weight Management,True
+41.0,17.73,1,2,1.0,5.0,4.6,30.0,3,Stress Reduction,True
+36.0,23.18,2,0,4.0,5.0,8.3,30.0,3,General Fitness,True
+28.0,14.2,2,2,3.0,3.0,7.1,90.0,1,Weight Management,True
+37.0,28.6,0,3,5.0,3.0,6.7,60.0,0,Mobility,True
+25.0,26.54,1,2,3.0,5.0,4.5,30.0,1,Stress Reduction,True
+18.0,29.85,2,2,1.0,3.0,5.5,20.0,3,Stress Reduction,True
+31.0,22.7,2,0,4.0,4.0,8.8,45.0,2,General Fitness,True
+23.0,22.16,3,2,5.0,3.0,6.7,60.0,0,Mobility,True
+37.0,24.81,1,3,1.0,2.0,7.4,60.0,0,General Fitness,True
+58.0,16.47,2,1,1.0,4.0,5.7,30.0,3,Flexibility,True
+25.0,30.16,3,2,4.0,1.0,7.0,45.0,1,Strength,True
+18.0,29.69,1,2,3.0,2.0,4.9,20.0,2,Weight Management,True
+23.0,38.17,3,0,3.0,4.0,7.1,45.0,1,General Fitness,True
+41.0,19.17,1,1,1.0,4.0,7.6,60.0,0,Flexibility,True
+30.0,25.32,1,3,3.0,5.0,7.5,30.0,1,Mobility,True
+41.0,27.63,2,3,3.0,4.0,5.6,30.0,2,Stress Reduction,True
+19.0,33.47,2,1,5.0,1.0,6.5,45.0,1,Strength,True
+33.0,31.74,2,1,2.0,5.0,7.8,90.0,2,Flexibility,True
+37.0,29.14,0,3,2.0,3.0,6.7,60.0,1,Weight Management,True
+38.0,31.55,0,0,1.0,1.0,6.6,90.0,1,Flexibility,True
+43.0,25.06,3,1,3.0,3.0,9.9,20.0,1,General Fitness,True
+54.0,33.18,3,0,4.0,1.0,5.6,90.0,1,Strength,True
+39.0,30.76,3,0,2.0,3.0,8.6,20.0,1,Flexibility,True
+57.0,26.3,2,2,4.0,3.0,5.3,30.0,2,Stress Reduction,True
+42.0,19.92,3,1,5.0,1.0,8.0,45.0,1,Strength,True
+30.0,35.45,1,3,1.0,5.0,8.1,30.0,2,Weight Management,True
+28.0,20.44,0,3,3.0,3.0,6.2,90.0,1,Mobility,True
+33.0,28.17,0,3,4.0,5.0,5.2,90.0,1,Weight Management,True
+46.0,21.98,1,2,1.0,3.0,4.0,45.0,3,Stress Reduction,True
+29.0,33.47,1,2,1.0,3.0,6.1,45.0,3,Weight Management,True
+60.0,27.86,3,2,2.0,5.0,7.8,60.0,1,General Fitness,True
+40.0,23.78,1,3,1.0,2.0,5.4,60.0,1,Stress Reduction,True
+58.0,27.68,2,0,2.0,5.0,7.1,45.0,2,Flexibility,True
+50.0,34.33,1,2,1.0,1.0,4.8,90.0,0,Weight Management,True
+33.0,21.57,2,0,5.0,5.0,6.6,20.0,1,General Fitness,True
+28.0,26.64,2,1,3.0,4.0,5.3,30.0,2,Stress Reduction,True
+52.0,28.07,0,1,2.0,3.0,6.9,20.0,2,Flexibility,True
+33.0,21.23,1,2,4.0,2.0,6.2,20.0,0,Mobility,True
+29.0,27.62,0,3,1.0,3.0,5.2,20.0,0,Weight Management,True
+61.0,26.65,3,0,3.0,3.0,6.0,60.0,1,General Fitness,True
+40.0,26.36,2,2,4.0,5.0,5.6,90.0,0,Weight Management,True
+20.0,25.61,3,0,5.0,5.0,5.0,45.0,2,Strength,True
+41.0,21.75,3,0,2.0,3.0,8.6,45.0,3,Flexibility,True
+39.0,33.87,0,1,3.0,2.0,6.5,30.0,1,Weight Management,True
+58.0,17.36,2,2,4.0,2.0,4.0,20.0,1,Strength,True
+51.0,23.28,0,0,4.0,2.0,6.1,45.0,0,Stress Reduction,True
+26.0,23.22,3,1,1.0,1.0,8.4,20.0,0,Flexibility,True
+25.0,31.48,3,3,5.0,1.0,5.9,60.0,2,Strength,True
+46.0,21.82,2,1,2.0,4.0,9.2,45.0,1,Flexibility,True
+20.0,19.11,3,3,2.0,2.0,5.7,30.0,2,Strength,True
+32.0,21.58,3,3,1.0,3.0,7.8,20.0,2,General Fitness,True
+24.0,23.54,3,1,1.0,4.0,8.6,30.0,3,Weight Management,True
+18.0,13.54,0,2,2.0,4.0,7.7,20.0,0,General Fitness,True
+61.0,22.67,0,2,1.0,2.0,4.9,60.0,2,Weight Management,True
+22.0,17.45,3,1,4.0,4.0,5.6,45.0,3,Stress Reduction,True
+18.0,28.14,1,1,3.0,1.0,8.8,60.0,1,Weight Management,True
+61.0,19.24,1,1,2.0,3.0,5.8,45.0,0,Flexibility,True
+26.0,15.71,0,0,3.0,1.0,8.5,90.0,1,General Fitness,True
+56.0,30.05,2,0,4.0,3.0,6.4,60.0,3,General Fitness,True
+19.0,15.78,3,1,1.0,1.0,7.2,20.0,3,Flexibility,True
+25.0,27.72,3,3,2.0,5.0,4.9,20.0,1,Stress Reduction,True
+23.0,18.31,2,0,5.0,4.0,6.1,90.0,0,General Fitness,True
+51.0,30.33,2,0,1.0,2.0,5.7,30.0,1,Flexibility,True
+47.0,24.4,2,1,5.0,4.0,7.3,60.0,0,General Fitness,True
+40.0,18.61,1,2,5.0,2.0,7.1,60.0,2,Mobility,True
+29.0,17.91,2,0,2.0,3.0,7.7,60.0,3,Flexibility,True
+22.0,29.4,3,0,2.0,1.0,6.3,30.0,0,Flexibility,True
+44.0,25.35,1,0,2.0,3.0,5.6,30.0,2,Flexibility,True
+28.0,19.75,1,1,3.0,1.0,7.3,45.0,3,General Fitness,True
+45.0,31.16,2,0,2.0,1.0,5.5,20.0,2,Flexibility,True
+50.0,18.96,2,3,4.0,3.0,8.6,30.0,3,Mobility,True
+57.0,25.1,0,3,2.0,3.0,6.8,45.0,0,Stress Reduction,True
+41.0,32.51,1,1,5.0,2.0,6.5,30.0,2,Weight Management,True
+18.0,29.4,2,0,5.0,1.0,7.7,30.0,0,Strength,True
+31.0,20.39,2,0,3.0,3.0,6.9,90.0,3,General Fitness,True
+58.0,21.89,2,1,3.0,5.0,4.5,30.0,1,Stress Reduction,True
+43.0,19.17,3,1,1.0,4.0,5.4,90.0,0,Flexibility,True
+47.0,19.67,2,2,1.0,1.0,8.6,90.0,2,Strength,True
+39.0,21.77,2,1,3.0,5.0,7.1,60.0,2,General Fitness,True
+25.0,24.86,1,1,3.0,3.0,4.5,20.0,1,Stress Reduction,True
+60.0,31.99,1,1,2.0,3.0,7.5,30.0,1,Flexibility,True
+54.0,24.71,3,2,1.0,1.0,6.2,90.0,0,Strength,True
+64.0,17.0,1,2,5.0,2.0,5.7,20.0,3,Stress Reduction,True
+58.0,23.88,2,0,3.0,4.0,5.3,45.0,0,Stress Reduction,True
+31.0,27.23,0,1,3.0,2.0,8.5,45.0,3,General Fitness,True
+29.0,18.58,0,2,3.0,1.0,4.1,90.0,2,Stress Reduction,True
+29.0,35.13,0,2,3.0,1.0,5.7,90.0,2,Weight Management,True
+61.0,26.21,0,2,4.0,5.0,7.2,30.0,2,Stress Reduction,True
+44.0,24.91,2,2,4.0,5.0,9.4,45.0,3,Mobility,True
+39.0,33.85,2,2,3.0,1.0,7.8,60.0,0,Strength,True
+63.0,16.43,2,1,1.0,5.0,5.7,90.0,3,Flexibility,True
+46.0,25.47,1,2,5.0,5.0,9.3,45.0,0,Stress Reduction,True
+60.0,23.87,2,1,2.0,2.0,5.0,20.0,3,Flexibility,True
+64.0,22.21,0,1,1.0,4.0,7.4,90.0,1,Flexibility,True
+21.0,32.76,1,0,1.0,2.0,7.7,45.0,3,Flexibility,True
+34.0,17.55,0,1,4.0,2.0,5.7,20.0,0,Stress Reduction,True
+52.0,26.7,0,0,2.0,4.0,8.0,20.0,1,Flexibility,True
+56.0,29.09,0,0,1.0,2.0,6.2,30.0,2,Flexibility,True
+24.0,25.22,0,1,5.0,2.0,8.0,60.0,3,General Fitness,True
+32.0,15.36,1,2,2.0,2.0,4.2,90.0,0,Stress Reduction,True
+43.0,17.9,2,3,5.0,1.0,7.5,45.0,0,Mobility,True
+55.0,28.24,2,0,5.0,5.0,6.4,20.0,2,General Fitness,True
+23.0,26.64,1,3,1.0,4.0,8.7,90.0,0,General Fitness,True
+46.0,10.53,0,1,4.0,5.0,6.9,60.0,3,Stress Reduction,True
+31.0,25.26,0,2,4.0,3.0,8.9,45.0,0,Mobility,True
+28.0,32.13,2,2,1.0,1.0,7.8,20.0,3,Strength,True
+42.0,19.28,3,3,2.0,2.0,6.8,90.0,2,Strength,True
+37.0,37.75,1,0,3.0,2.0,8.2,20.0,3,Weight Management,True
+47.0,21.53,0,3,1.0,5.0,8.2,60.0,0,Stress Reduction,True
+32.0,22.34,1,0,4.0,2.0,7.7,45.0,1,General Fitness,True
+56.0,35.31,0,3,2.0,4.0,4.0,45.0,1,Weight Management,True
+21.0,33.21,0,2,5.0,1.0,5.5,45.0,0,Weight Management,True
+58.0,35.54,1,1,5.0,5.0,9.1,30.0,0,Weight Management,True
+19.0,35.39,3,1,4.0,4.0,5.1,45.0,1,General Fitness,True
+52.0,24.92,2,0,1.0,3.0,8.3,30.0,2,Flexibility,True
+34.0,24.83,3,3,1.0,2.0,8.1,45.0,2,Strength,True
+36.0,15.18,1,2,1.0,2.0,5.9,60.0,0,Stress Reduction,True
+18.0,27.32,1,3,3.0,2.0,4.0,60.0,0,Stress Reduction,True
+50.0,20.82,1,2,4.0,3.0,6.1,20.0,2,Stress Reduction,True
+25.0,22.9,0,3,1.0,5.0,10.0,90.0,1,General Fitness,True
+48.0,19.54,1,3,4.0,2.0,5.7,20.0,3,Stress Reduction,True
+52.0,24.29,1,1,1.0,4.0,5.8,30.0,1,Flexibility,True
+57.0,28.82,1,2,2.0,3.0,5.5,30.0,1,Weight Management,True
+51.0,7.85,0,1,3.0,4.0,8.8,30.0,0,Stress Reduction,True
+32.0,24.63,2,3,5.0,4.0,6.6,30.0,1,Mobility,True
+52.0,35.97,3,2,4.0,1.0,6.1,30.0,2,Strength,True
+56.0,25.94,3,1,3.0,1.0,9.1,45.0,1,Strength,True
+32.0,18.86,0,2,1.0,5.0,7.9,60.0,2,General Fitness,True
+23.0,31.53,0,1,2.0,1.0,5.6,90.0,0,Flexibility,True
+59.0,22.5,3,2,4.0,3.0,5.2,30.0,2,Stress Reduction,True
+24.0,26.79,3,1,1.0,4.0,8.7,30.0,1,Flexibility,True
+45.0,31.01,2,1,4.0,3.0,7.0,60.0,3,General Fitness,True
+29.0,25.77,1,3,4.0,1.0,4.7,20.0,1,Stress Reduction,True
+23.0,22.17,2,0,4.0,1.0,4.3,45.0,0,Weight Management,True
+54.0,13.02,2,3,2.0,4.0,5.3,30.0,2,Stress Reduction,True
+24.0,19.28,3,0,2.0,5.0,5.1,60.0,0,Flexibility,True
+49.0,24.86,2,0,1.0,2.0,4.0,20.0,3,Stress Reduction,True
+50.0,26.07,0,0,2.0,3.0,5.4,90.0,1,Flexibility,True
+20.0,26.22,2,0,3.0,5.0,5.6,30.0,3,Stress Reduction,True
+26.0,26.07,3,0,1.0,5.0,6.3,45.0,2,Weight Management,True
+55.0,30.79,1,3,3.0,3.0,9.5,45.0,1,Weight Management,True
+41.0,22.1,0,3,2.0,4.0,6.6,45.0,2,Stress Reduction,True
+23.0,24.51,0,2,3.0,5.0,6.7,45.0,0,Mobility,True
+64.0,27.49,3,0,2.0,4.0,7.8,30.0,0,Flexibility,True
+30.0,28.22,1,3,5.0,3.0,6.6,60.0,3,General Fitness,True
+18.0,15.01,2,2,2.0,4.0,7.6,45.0,3,General Fitness,True
+61.0,20.84,3,2,5.0,2.0,7.4,30.0,3,Strength,True
+18.0,32.89,0,3,1.0,5.0,7.2,30.0,1,Weight Management,True
+44.0,26.19,0,1,1.0,1.0,10.0,45.0,1,Flexibility,True
+64.0,24.86,3,1,1.0,2.0,8.4,90.0,1,Flexibility,True
+45.0,21.47,2,3,3.0,2.0,5.4,90.0,2,Strength,True
+45.0,35.78,0,2,5.0,2.0,7.6,30.0,2,Mobility,True
+36.0,32.97,2,2,1.0,3.0,5.8,30.0,3,Stress Reduction,True
+23.0,19.9,0,2,4.0,4.0,7.7,20.0,3,Mobility,True
+44.0,25.89,3,3,4.0,5.0,4.9,45.0,1,Stress Reduction,True
+60.0,40.28,3,1,2.0,3.0,5.3,30.0,2,Flexibility,True
+22.0,31.33,3,0,2.0,4.0,7.5,90.0,2,Flexibility,True
+59.0,31.08,1,1,5.0,3.0,8.5,45.0,3,Weight Management,True
+37.0,21.4,1,2,4.0,1.0,7.8,30.0,1,Mobility,True
+43.0,24.94,3,3,2.0,4.0,8.3,90.0,0,General Fitness,True
+25.0,27.36,2,1,5.0,1.0,7.6,90.0,1,Strength,True
+47.0,21.2,2,2,3.0,3.0,7.3,30.0,2,Mobility,True
+26.0,29.1,0,3,1.0,5.0,6.2,20.0,3,Weight Management,True
+30.0,21.68,2,3,5.0,4.0,8.2,30.0,3,Mobility,True
+51.0,32.9,2,3,5.0,3.0,8.5,30.0,0,Mobility,True
+20.0,16.95,1,3,3.0,2.0,6.9,45.0,2,Mobility,True
+39.0,26.74,3,2,4.0,5.0,6.8,90.0,0,Mobility,True
+45.0,31.58,0,1,2.0,5.0,9.4,90.0,1,Flexibility,True
+24.0,32.61,2,1,5.0,2.0,7.0,60.0,3,Strength,True
+31.0,24.4,3,2,2.0,1.0,7.1,90.0,3,Weight Management,True
+34.0,22.36,2,0,2.0,3.0,7.7,20.0,0,Mobility,True
+49.0,27.86,0,2,3.0,4.0,6.9,20.0,0,Weight Management,True
+63.0,37.11,2,2,2.0,5.0,5.8,90.0,2,Stress Reduction,True
+57.0,9.49,2,2,4.0,5.0,7.6,60.0,1,Mobility,True
+26.0,17.43,2,1,4.0,2.0,6.9,30.0,1,Strength,True
+18.0,44.05,1,2,3.0,2.0,9.8,60.0,3,Weight Management,True
+20.0,23.31,2,0,4.0,5.0,8.2,20.0,3,General Fitness,True
+45.0,20.55,1,2,3.0,2.0,6.1,60.0,3,Mobility,True
+25.0,26.93,2,3,5.0,3.0,8.1,90.0,3,Mobility,True
+28.0,21.21,2,3,2.0,2.0,7.5,45.0,3,Strength,True
+57.0,28.89,2,3,4.0,2.0,9.0,60.0,2,Strength,True
+59.0,37.58,3,1,3.0,3.0,6.2,60.0,3,General Fitness,True
+57.0,27.64,3,0,5.0,2.0,7.3,90.0,2,Strength,True
+29.0,18.79,3,2,2.0,3.0,6.9,45.0,0,General Fitness,True
+47.0,24.72,3,0,1.0,2.0,7.1,30.0,3,Flexibility,True
+46.0,23.39,3,1,5.0,1.0,5.7,30.0,3,Strength,True
+26.0,19.38,0,2,5.0,4.0,7.9,30.0,1,Mobility,True
+44.0,15.11,1,2,4.0,5.0,7.6,20.0,1,Mobility,True
+42.0,18.5,2,2,3.0,3.0,8.9,60.0,2,Mobility,True
+36.0,20.17,1,3,3.0,2.0,7.0,30.0,2,Mobility,True
+53.0,18.48,2,0,4.0,4.0,6.4,60.0,2,General Fitness,True
+49.0,23.36,0,3,4.0,3.0,8.2,20.0,1,Stress Reduction,True
+43.0,15.95,0,2,2.0,3.0,5.8,30.0,3,Stress Reduction,True
+52.0,7.97,2,1,1.0,3.0,8.6,30.0,3,Flexibility,True
+53.0,19.73,3,1,1.0,4.0,8.6,20.0,3,Flexibility,True
+44.0,20.68,1,2,2.0,1.0,8.9,90.0,2,General Fitness,True
+30.0,23.26,1,2,4.0,1.0,7.6,45.0,0,Weight Management,True
+53.0,31.09,2,1,3.0,1.0,6.3,90.0,3,Strength,True
+51.0,21.83,1,0,4.0,1.0,7.2,90.0,0,Stress Reduction,True
+64.0,33.67,0,0,3.0,5.0,7.6,20.0,0,Weight Management,True
+25.0,28.03,2,1,2.0,4.0,6.2,90.0,1,Flexibility,True
+37.0,20.91,3,1,4.0,4.0,9.0,20.0,0,General Fitness,True
+61.0,20.77,2,2,4.0,4.0,7.9,90.0,2,Mobility,True
+42.0,20.4,3,3,5.0,1.0,5.7,60.0,1,Strength,True
+62.0,22.12,2,0,5.0,2.0,9.8,90.0,0,Strength,True
+18.0,25.02,3,1,2.0,4.0,7.1,45.0,0,Flexibility,True
+19.0,18.06,0,0,4.0,3.0,5.4,20.0,0,Stress Reduction,True
+55.0,22.57,0,3,2.0,3.0,5.8,20.0,2,Stress Reduction,True
+34.0,38.87,0,2,5.0,4.0,9.2,20.0,3,Weight Management,True
+42.0,23.52,3,0,4.0,1.0,9.7,90.0,1,Strength,True
+38.0,24.95,2,1,5.0,4.0,8.5,45.0,0,General Fitness,True
+37.0,25.84,0,2,2.0,4.0,9.0,30.0,2,General Fitness,True
+62.0,26.35,3,3,1.0,3.0,8.8,20.0,3,General Fitness,True
+22.0,19.56,1,2,1.0,3.0,7.8,20.0,0,General Fitness,True
+54.0,28.56,2,1,3.0,1.0,7.5,30.0,3,Strength,True
+59.0,22.03,0,2,5.0,2.0,7.8,60.0,0,Stress Reduction,True
+48.0,18.74,0,2,4.0,2.0,8.1,90.0,1,Stress Reduction,True
+36.0,18.19,1,2,5.0,5.0,5.9,60.0,2,Stress Reduction,True
+25.0,25.08,0,0,3.0,1.0,8.1,90.0,0,General Fitness,True
+50.0,29.32,2,2,5.0,2.0,9.2,30.0,1,Strength,True
+40.0,25.35,0,0,5.0,1.0,6.7,30.0,0,General Fitness,True
+25.0,40.94,0,3,2.0,2.0,6.5,60.0,0,Weight Management,True
+34.0,29.43,2,3,5.0,1.0,7.7,20.0,3,Strength,True
+63.0,33.78,1,2,1.0,2.0,6.0,90.0,0,Weight Management,True
+30.0,30.35,2,2,3.0,4.0,5.0,60.0,0,Flexibility,True
+26.0,35.27,2,0,3.0,4.0,8.7,20.0,0,Flexibility,True
+50.0,22.38,3,3,2.0,2.0,6.3,20.0,0,Strength,True
+27.0,10.01,3,1,5.0,4.0,7.0,60.0,2,General Fitness,True
+61.0,19.06,0,1,4.0,4.0,6.1,60.0,3,Stress Reduction,True
+58.0,29.7,2,2,1.0,5.0,8.9,30.0,0,General Fitness,True
+64.0,24.36,2,3,1.0,5.0,8.3,60.0,2,General Fitness,True
+60.0,27.28,2,1,1.0,2.0,6.6,45.0,1,Flexibility,True
+29.0,30.87,3,2,2.0,3.0,5.2,60.0,0,Stress Reduction,True
+27.0,22.59,0,2,1.0,4.0,6.5,45.0,2,General Fitness,True
+34.0,27.65,1,1,2.0,2.0,7.9,45.0,0,Flexibility,True
+40.0,24.86,3,2,4.0,3.0,7.3,30.0,2,Mobility,True
+59.0,17.94,3,3,5.0,3.0,7.2,20.0,2,Mobility,True
+52.0,29.32,0,1,4.0,2.0,7.3,20.0,2,Weight Management,True
+48.0,26.23,1,3,3.0,1.0,8.1,20.0,0,Stress Reduction,True
+59.0,19.16,1,3,4.0,1.0,6.9,90.0,1,Stress Reduction,True
+48.0,23.48,0,3,5.0,4.0,7.7,45.0,2,Stress Reduction,True
+35.0,25.84,0,2,1.0,5.0,5.5,30.0,3,General Fitness,True
+37.0,20.71,2,3,5.0,4.0,10.0,90.0,0,Mobility,True
+42.0,22.43,2,2,4.0,2.0,6.6,90.0,1,Strength,True
+22.0,17.21,2,3,2.0,1.0,7.3,30.0,3,Strength,True
+52.0,20.57,1,2,3.0,4.0,7.8,30.0,1,Stress Reduction,True
+48.0,27.77,3,3,3.0,1.0,6.4,45.0,1,Strength,True
+52.0,36.52,2,3,1.0,3.0,7.0,90.0,3,General Fitness,True
+43.0,30.26,3,3,2.0,5.0,7.0,60.0,3,General Fitness,True
+54.0,26.64,1,2,2.0,1.0,5.6,45.0,2,Stress Reduction,True
+62.0,21.84,0,2,1.0,3.0,7.7,30.0,2,Stress Reduction,True
+44.0,20.66,1,3,3.0,5.0,4.5,30.0,2,Stress Reduction,True
+38.0,24.1,2,1,3.0,2.0,9.6,20.0,1,Strength,True
+22.0,27.26,1,0,2.0,5.0,8.2,60.0,3,Flexibility,True
+54.0,24.03,3,3,1.0,5.0,8.0,90.0,0,General Fitness,True
+60.0,29.5,0,2,5.0,3.0,4.4,60.0,0,Weight Management,True
+50.0,27.86,2,1,4.0,2.0,5.8,30.0,2,Strength,True
+58.0,26.52,1,2,3.0,4.0,9.1,45.0,3,Stress Reduction,True
+58.0,25.61,0,0,4.0,4.0,10.0,90.0,3,Stress Reduction,True
+55.0,13.58,2,1,2.0,3.0,8.8,45.0,2,Flexibility,True
+41.0,23.03,3,1,2.0,1.0,8.6,90.0,1,Flexibility,True
+22.0,28.25,2,1,4.0,4.0,7.8,45.0,1,Strength,True
+18.0,28.76,0,3,4.0,2.0,5.7,45.0,1,Weight Management,True
+27.0,26.03,0,2,4.0,1.0,8.5,45.0,1,Stress Reduction,True
+38.0,33.75,1,0,3.0,1.0,5.3,30.0,1,Weight Management,True
+52.0,19.8,2,1,1.0,3.0,5.2,45.0,0,Flexibility,True
+39.0,28.41,1,0,4.0,1.0,5.1,30.0,1,Weight Management,True
+19.0,27.5,1,3,4.0,2.0,8.5,60.0,3,Mobility,True
+27.0,20.13,3,1,3.0,2.0,6.9,60.0,2,Strength,True
+64.0,31.37,0,1,2.0,3.0,7.2,30.0,0,Flexibility,True
+64.0,23.21,0,1,5.0,4.0,7.0,90.0,1,Stress Reduction,True
+35.0,22.14,0,0,2.0,3.0,5.3,45.0,1,Stress Reduction,True
+55.0,33.72,3,3,2.0,3.0,6.0,90.0,1,Stress Reduction,True
+51.0,29.35,1,2,4.0,1.0,6.1,60.0,2,Weight Management,True
+61.0,22.56,0,1,3.0,1.0,4.9,90.0,3,Stress Reduction,True
+59.0,23.51,1,1,3.0,5.0,6.2,90.0,2,Stress Reduction,True
+47.0,29.6,3,2,4.0,4.0,5.4,30.0,1,Stress Reduction,True
+36.0,9.64,2,0,2.0,1.0,7.9,30.0,0,Flexibility,True
+47.0,17.19,0,3,1.0,3.0,8.0,90.0,0,Stress Reduction,True
+32.0,30.84,0,2,1.0,1.0,5.1,30.0,3,Weight Management,True
+34.0,22.52,0,0,5.0,1.0,6.6,60.0,2,General Fitness,True
+46.0,28.31,3,2,3.0,2.0,9.8,20.0,2,Strength,True
+44.0,32.65,0,3,3.0,4.0,5.5,90.0,2,Weight Management,True
+45.0,25.98,1,0,2.0,4.0,7.6,60.0,3,Flexibility,True
+36.0,19.55,1,2,4.0,4.0,7.2,45.0,3,Mobility,True
+37.0,21.66,2,2,5.0,1.0,8.6,45.0,0,Strength,True
+18.0,27.18,2,3,4.0,1.0,7.4,60.0,1,Strength,True
+46.0,27.94,3,2,3.0,3.0,6.4,30.0,0,Weight Management,True
+45.0,27.54,1,2,3.0,5.0,7.1,30.0,1,Weight Management,True
+61.0,30.59,1,3,5.0,4.0,7.1,30.0,2,Weight Management,True
+41.0,13.37,1,3,5.0,4.0,6.9,20.0,0,Mobility,True
+39.0,22.91,0,1,2.0,1.0,5.0,90.0,0,Flexibility,True
+21.0,26.22,2,2,5.0,5.0,8.9,60.0,1,Mobility,True
+27.0,23.26,2,0,5.0,5.0,8.6,45.0,2,General Fitness,True
+33.0,30.81,1,3,5.0,3.0,5.4,90.0,2,Weight Management,True
+35.0,22.31,3,3,1.0,2.0,6.5,60.0,0,Strength,True
+35.0,21.02,0,1,1.0,4.0,6.7,45.0,0,Flexibility,True
+36.0,26.12,3,2,2.0,4.0,5.3,20.0,3,Stress Reduction,True
+54.0,22.56,2,3,4.0,5.0,4.2,45.0,2,Stress Reduction,True
+24.0,27.06,0,0,1.0,1.0,6.0,20.0,3,Flexibility,True
+33.0,30.83,2,2,1.0,3.0,6.5,60.0,3,General Fitness,True
+25.0,21.24,3,3,1.0,4.0,4.8,20.0,3,Stress Reduction,True
+32.0,23.02,1,3,1.0,2.0,7.3,45.0,2,General Fitness,True
+50.0,25.76,1,0,5.0,5.0,8.7,30.0,3,Stress Reduction,True
+20.0,19.28,3,3,4.0,1.0,8.3,20.0,1,General Fitness,True
+33.0,19.58,0,3,4.0,1.0,6.8,45.0,3,Mobility,True
+19.0,14.04,0,0,2.0,4.0,4.2,30.0,1,Flexibility,True
+62.0,28.39,2,2,4.0,1.0,8.1,30.0,1,Strength,True
+52.0,27.66,3,2,4.0,3.0,7.2,90.0,2,Mobility,True
+29.0,34.13,2,3,3.0,2.0,7.6,30.0,1,Strength,True
+27.0,16.87,0,0,5.0,4.0,9.9,45.0,0,General Fitness,True
+22.0,30.67,2,3,3.0,1.0,5.8,20.0,3,Strength,True
+40.0,25.14,1,2,2.0,2.0,4.0,30.0,1,Stress Reduction,True
+53.0,24.01,3,1,4.0,5.0,5.4,30.0,3,Stress Reduction,True
+45.0,28.53,2,1,5.0,2.0,7.7,60.0,1,Strength,True
+59.0,17.88,1,3,5.0,3.0,7.0,20.0,3,Stress Reduction,True
+34.0,19.82,2,3,3.0,5.0,5.2,90.0,2,Stress Reduction,True
+31.0,28.3,2,1,3.0,4.0,4.9,20.0,3,Stress Reduction,True
+40.0,50.05,2,3,5.0,4.0,6.5,60.0,3,Mobility,True
+27.0,28.45,1,2,4.0,5.0,5.1,20.0,0,Weight Management,True
+63.0,30.46,2,0,3.0,4.0,7.8,90.0,3,General Fitness,True
+26.0,33.8,0,2,2.0,5.0,6.4,60.0,3,Weight Management,True
+40.0,29.43,1,3,5.0,3.0,6.1,90.0,2,Weight Management,True
+42.0,24.67,1,0,5.0,5.0,5.9,90.0,3,Stress Reduction,True
+20.0,25.18,2,0,1.0,4.0,7.4,90.0,3,Flexibility,True
+40.0,15.17,3,0,1.0,2.0,7.1,60.0,2,Flexibility,True
+39.0,30.85,3,2,1.0,3.0,7.3,90.0,1,General Fitness,True
+30.0,23.27,1,0,2.0,2.0,7.3,20.0,3,Flexibility,True
+24.0,9.69,2,3,1.0,2.0,6.9,60.0,0,Strength,True
+20.0,23.8,0,0,5.0,2.0,5.5,90.0,2,Stress Reduction,True
+18.0,29.16,1,0,5.0,3.0,5.9,30.0,3,Weight Management,True
+40.0,24.95,2,1,1.0,2.0,6.4,90.0,3,Flexibility,True
+22.0,21.5,2,3,5.0,4.0,10.0,45.0,1,Mobility,True
+63.0,18.99,3,3,1.0,2.0,5.0,45.0,0,Strength,True
+29.0,18.82,1,1,4.0,3.0,6.4,30.0,1,General Fitness,True
+48.0,23.25,3,2,2.0,1.0,7.1,20.0,3,Strength,True
+49.0,28.54,3,3,1.0,2.0,6.5,90.0,2,Strength,True
+41.0,19.37,2,3,3.0,2.0,8.6,60.0,0,Strength,True
+59.0,34.44,0,0,5.0,5.0,6.5,45.0,0,Weight Management,True
+23.0,19.11,1,3,5.0,3.0,6.6,90.0,1,Mobility,True
+28.0,23.56,3,3,1.0,1.0,8.2,20.0,1,Strength,True
+29.0,24.21,2,2,5.0,2.0,9.7,60.0,0,Strength,True
+24.0,16.21,3,2,2.0,4.0,9.1,45.0,1,Stress Reduction,True
+31.0,17.69,3,1,3.0,1.0,6.8,60.0,1,Strength,True
+32.0,25.21,0,3,1.0,1.0,6.9,20.0,0,General Fitness,True
+53.0,38.54,3,3,5.0,2.0,7.1,60.0,0,Strength,True
+32.0,29.77,1,2,4.0,2.0,7.2,60.0,2,Weight Management,True
+59.0,13.03,3,2,4.0,3.0,5.7,90.0,3,Stress Reduction,True
+54.0,7.94,2,1,4.0,1.0,8.4,30.0,3,Strength,True
+60.0,31.99,1,2,5.0,4.0,7.3,20.0,2,Weight Management,True
+22.0,26.05,0,0,1.0,2.0,6.9,20.0,0,Flexibility,True
+64.0,27.48,0,3,2.0,4.0,5.1,20.0,3,Stress Reduction,True
+46.0,18.57,2,2,1.0,3.0,7.1,30.0,3,General Fitness,True
+64.0,25.17,2,2,3.0,2.0,4.2,90.0,1,Strength,True
+34.0,30.59,2,0,3.0,3.0,6.1,20.0,1,General Fitness,True
+62.0,21.03,0,2,1.0,1.0,6.2,20.0,0,Stress Reduction,True
+45.0,24.5,2,0,4.0,4.0,7.4,20.0,3,General Fitness,True
+21.0,25.93,0,3,1.0,2.0,9.8,30.0,3,General Fitness,True
+37.0,24.95,0,2,4.0,2.0,7.9,60.0,0,Mobility,True
+24.0,22.46,1,1,4.0,1.0,9.2,30.0,2,General Fitness,True
+62.0,34.3,2,3,5.0,2.0,8.0,45.0,1,Weight Management,True
+32.0,24.95,2,3,1.0,2.0,8.7,30.0,2,Strength,True
+28.0,17.43,3,0,5.0,2.0,9.8,90.0,0,Strength,True
+43.0,29.4,3,0,3.0,5.0,5.9,20.0,3,Stress Reduction,True
+37.0,27.71,1,1,5.0,2.0,5.8,30.0,1,Weight Management,True
+22.0,21.13,3,0,4.0,1.0,8.0,45.0,3,Strength,True
+56.0,29.3,0,2,4.0,3.0,7.0,90.0,0,Weight Management,True
+57.0,27.41,3,2,1.0,2.0,7.3,45.0,2,Strength,True
+52.0,23.89,1,2,4.0,3.0,6.6,20.0,1,Stress Reduction,True
+46.0,26.2,3,0,3.0,4.0,6.1,45.0,3,General Fitness,True
+36.0,26.44,3,3,5.0,1.0,9.4,30.0,2,Strength,True
+43.0,25.92,2,3,4.0,3.0,5.4,30.0,2,Stress Reduction,True
+42.0,12.81,3,2,1.0,1.0,8.0,90.0,0,Strength,True
+25.0,42.55,0,0,5.0,1.0,7.8,90.0,2,Weight Management,True
+21.0,22.03,0,1,1.0,1.0,4.6,30.0,0,Flexibility,True
+29.0,25.77,2,2,2.0,1.0,5.8,45.0,1,Strength,True
+39.0,15.73,2,2,2.0,2.0,6.0,45.0,0,Strength,True
+25.0,27.23,0,0,5.0,5.0,7.8,90.0,0,General Fitness,True
+23.0,20.52,2,3,1.0,5.0,6.4,90.0,2,General Fitness,True
+58.0,30.52,0,3,5.0,1.0,6.9,30.0,0,Weight Management,True
+35.0,24.75,3,2,2.0,5.0,4.8,20.0,2,Stress Reduction,True
+45.0,29.12,0,1,4.0,4.0,10.0,20.0,3,Weight Management,True
+42.0,21.7,1,2,1.0,3.0,7.1,20.0,0,General Fitness,True
+52.0,18.19,3,0,2.0,4.0,7.7,60.0,2,Flexibility,True
+52.0,18.95,2,2,4.0,3.0,6.2,60.0,1,Mobility,True
+31.0,39.65,2,0,4.0,2.0,6.0,90.0,1,Strength,True
+57.0,10.99,2,0,5.0,3.0,9.9,20.0,2,General Fitness,True
+35.0,19.87,3,2,5.0,4.0,4.1,20.0,2,Stress Reduction,True
+57.0,12.69,1,2,3.0,4.0,7.4,20.0,2,Stress Reduction,True
+37.0,16.93,3,3,2.0,1.0,5.2,60.0,0,Strength,True
+23.0,23.22,2,2,2.0,5.0,6.4,20.0,2,Mobility,True
+53.0,15.16,3,3,5.0,2.0,6.0,60.0,1,Strength,True
+19.0,21.21,2,3,4.0,5.0,5.5,90.0,1,General Fitness,True
+54.0,12.99,0,1,5.0,2.0,7.1,20.0,3,Stress Reduction,True
+20.0,18.84,2,3,3.0,1.0,4.0,60.0,0,Strength,True
+27.0,27.46,3,1,3.0,5.0,6.5,45.0,1,General Fitness,True
+46.0,26.95,0,2,5.0,3.0,6.9,90.0,1,Stress Reduction,True
+62.0,26.55,3,0,4.0,2.0,5.0,30.0,0,Strength,True
+37.0,17.1,0,0,2.0,1.0,9.3,30.0,3,Flexibility,True
+23.0,15.41,3,2,3.0,1.0,6.1,20.0,1,Strength,True
+28.0,17.15,3,1,2.0,1.0,6.6,60.0,2,Flexibility,True
+60.0,26.86,0,2,4.0,5.0,6.1,90.0,1,Stress Reduction,True
+52.0,33.92,2,0,1.0,1.0,6.9,20.0,3,Flexibility,True
+22.0,32.12,0,1,5.0,1.0,9.0,45.0,2,Weight Management,True
+36.0,30.72,2,2,5.0,5.0,10.0,60.0,1,Mobility,True
+30.0,19.05,3,2,1.0,5.0,8.1,60.0,3,General Fitness,True
+26.0,22.39,0,3,4.0,2.0,8.6,90.0,3,Mobility,True
+57.0,23.65,0,3,1.0,4.0,9.6,60.0,2,Stress Reduction,True
+47.0,20.21,1,3,2.0,3.0,7.4,90.0,0,Stress Reduction,True
+26.0,30.87,1,0,2.0,3.0,9.4,90.0,2,Flexibility,True
+48.0,14.83,0,2,3.0,2.0,8.2,90.0,2,Stress Reduction,True
+37.0,26.23,1,0,5.0,4.0,7.2,45.0,1,General Fitness,True
+20.0,26.38,1,1,3.0,5.0,7.5,45.0,0,General Fitness,True
+39.0,17.03,0,0,2.0,4.0,4.3,45.0,2,Flexibility,True
+26.0,21.11,1,1,1.0,5.0,7.4,90.0,3,Flexibility,True
+29.0,23.0,0,0,5.0,1.0,4.7,30.0,1,Stress Reduction,True
+59.0,26.53,3,2,2.0,4.0,4.6,60.0,1,Stress Reduction,True
+51.0,19.5,3,0,3.0,5.0,7.3,60.0,0,General Fitness,True
+24.0,26.21,1,2,1.0,3.0,5.3,20.0,2,Stress Reduction,True
+58.0,31.58,3,2,2.0,5.0,7.0,45.0,3,General Fitness,True
+44.0,19.77,1,0,3.0,2.0,7.2,20.0,3,General Fitness,True
+59.0,23.13,3,0,5.0,5.0,7.3,60.0,1,General Fitness,True
+53.0,29.83,0,3,2.0,5.0,5.6,45.0,0,Weight Management,True
+33.0,18.84,1,2,3.0,4.0,8.3,30.0,1,Mobility,True
+43.0,19.38,2,1,5.0,4.0,6.9,20.0,3,General Fitness,True
+42.0,36.56,0,3,2.0,3.0,7.7,20.0,0,Weight Management,True
+51.0,23.82,3,0,2.0,2.0,5.2,60.0,0,Flexibility,True
+29.0,23.36,1,3,1.0,3.0,6.7,90.0,3,General Fitness,True
+33.0,28.24,1,0,5.0,5.0,8.6,30.0,2,Weight Management,True
+29.0,20.05,1,2,1.0,1.0,8.5,90.0,0,General Fitness,True
+31.0,23.45,3,0,2.0,2.0,5.8,45.0,0,Flexibility,True
+25.0,18.97,0,0,1.0,3.0,6.2,30.0,1,Flexibility,True
+19.0,30.17,3,1,4.0,2.0,5.5,45.0,2,Strength,True
+62.0,35.62,3,0,2.0,4.0,6.0,60.0,3,Flexibility,True
+21.0,30.09,3,1,4.0,2.0,4.9,90.0,3,Strength,True
+59.0,30.89,3,0,4.0,4.0,6.8,45.0,1,General Fitness,True
+18.0,18.04,3,0,1.0,1.0,7.9,30.0,1,Weight Management,True
+54.0,21.2,2,3,2.0,2.0,5.8,60.0,3,Strength,True
+33.0,23.82,1,3,1.0,4.0,6.9,45.0,3,General Fitness,True
+42.0,19.68,1,3,1.0,3.0,6.7,30.0,0,General Fitness,True
+31.0,20.51,3,0,3.0,4.0,8.6,45.0,2,General Fitness,True
+41.0,27.42,1,1,2.0,4.0,6.1,45.0,2,Flexibility,True
+39.0,22.23,2,1,1.0,2.0,6.1,20.0,0,Flexibility,True
+42.0,24.67,0,1,3.0,3.0,5.7,20.0,3,Stress Reduction,True
+36.0,33.18,1,1,3.0,5.0,5.3,60.0,1,Weight Management,True
+43.0,25.23,1,2,5.0,5.0,7.8,20.0,2,Mobility,True
+56.0,32.78,1,1,4.0,1.0,6.8,45.0,1,Weight Management,True
+38.0,31.06,2,1,2.0,4.0,7.1,60.0,2,Flexibility,True
+34.0,16.06,2,3,3.0,3.0,8.9,30.0,3,Mobility,True
+24.0,19.12,1,3,1.0,1.0,9.0,30.0,1,General Fitness,True
+34.0,22.13,0,1,2.0,4.0,4.5,90.0,1,Flexibility,True
+23.0,22.0,2,0,3.0,1.0,8.0,20.0,3,Mobility,True
+26.0,28.51,0,2,1.0,2.0,7.3,60.0,3,Weight Management,True
+62.0,25.28,3,1,5.0,4.0,6.3,20.0,3,General Fitness,True
+22.0,31.59,3,3,3.0,5.0,7.5,90.0,3,Mobility,True
+40.0,29.7,0,1,4.0,3.0,4.4,45.0,2,Stress Reduction,True
+57.0,20.47,1,0,2.0,5.0,9.2,20.0,3,Flexibility,True
+62.0,14.47,0,0,5.0,5.0,7.8,60.0,3,Stress Reduction,True
+24.0,30.31,1,0,2.0,3.0,5.7,20.0,0,Flexibility,True
+25.0,22.28,0,1,5.0,1.0,6.1,30.0,2,General Fitness,True
+35.0,27.76,3,1,3.0,4.0,4.4,45.0,0,Stress Reduction,True
+44.0,38.46,0,3,4.0,1.0,6.5,60.0,2,Strength,True
+63.0,31.65,2,3,2.0,5.0,6.3,45.0,1,General Fitness,True
+27.0,25.63,2,0,5.0,2.0,5.0,90.0,1,Strength,True
+25.0,19.63,0,3,1.0,4.0,8.2,45.0,3,General Fitness,True
+29.0,25.76,3,2,1.0,4.0,8.9,30.0,2,General Fitness,True
+59.0,22.92,0,1,3.0,3.0,7.0,30.0,2,Stress Reduction,True
+19.0,21.98,3,1,5.0,5.0,6.5,90.0,3,General Fitness,True
+35.0,22.33,2,1,5.0,4.0,7.7,60.0,0,Mobility,True
+23.0,26.95,2,0,5.0,5.0,7.0,20.0,2,General Fitness,True
+25.0,25.39,3,3,3.0,1.0,5.4,60.0,0,Strength,True
+61.0,30.25,1,0,5.0,3.0,6.0,45.0,0,Weight Management,True
+18.0,20.44,1,0,3.0,5.0,6.6,30.0,0,General Fitness,True
+33.0,12.87,0,1,3.0,5.0,7.4,20.0,2,General Fitness,True
+61.0,20.01,3,0,1.0,3.0,7.0,90.0,2,Flexibility,True
+46.0,30.14,1,0,4.0,1.0,7.3,20.0,3,Weight Management,True
+21.0,27.24,3,1,2.0,2.0,4.7,90.0,1,Flexibility,True
+39.0,25.28,1,1,1.0,3.0,8.0,20.0,3,Flexibility,True
+63.0,28.75,3,0,2.0,4.0,7.0,45.0,1,Flexibility,True
+36.0,30.54,3,3,4.0,5.0,10.0,20.0,0,Mobility,True
+42.0,19.2,1,3,2.0,1.0,6.4,45.0,0,General Fitness,True
+42.0,18.68,1,2,2.0,2.0,7.5,90.0,0,General Fitness,True
+49.0,28.03,3,2,2.0,2.0,10.0,45.0,1,Strength,True
+26.0,28.71,0,3,3.0,5.0,7.3,45.0,1,Weight Management,True
+57.0,25.88,0,1,4.0,1.0,6.9,20.0,3,Stress Reduction,True
+64.0,39.4,1,1,4.0,2.0,5.5,90.0,0,Weight Management,True
+24.0,32.0,2,0,1.0,2.0,9.3,30.0,1,Flexibility,True
+56.0,31.53,0,2,2.0,1.0,5.3,45.0,3,Weight Management,True
+56.0,18.01,1,0,4.0,4.0,7.6,90.0,0,Stress Reduction,True
+52.0,30.07,3,2,2.0,3.0,6.3,60.0,1,General Fitness,True
+35.0,24.67,0,3,1.0,3.0,6.7,60.0,0,General Fitness,True
+40.0,25.1,0,0,2.0,5.0,4.9,20.0,2,Flexibility,True
+57.0,30.62,1,2,4.0,3.0,9.0,45.0,3,General Fitness,True
+25.0,33.1,0,1,4.0,2.0,6.6,45.0,0,Weight Management,True
+56.0,13.37,0,1,1.0,2.0,5.2,20.0,1,General Fitness,True
+61.0,30.29,0,2,4.0,5.0,8.9,30.0,1,Weight Management,True
+50.0,21.65,0,0,1.0,3.0,6.2,90.0,3,Flexibility,True
+34.0,22.35,3,3,4.0,1.0,7.5,90.0,3,Strength,True
+44.0,19.07,0,1,3.0,4.0,8.3,90.0,0,General Fitness,True
+20.0,23.45,2,1,1.0,4.0,7.7,90.0,1,Flexibility,True
+61.0,21.57,2,3,2.0,2.0,4.0,90.0,3,Strength,True
+34.0,24.48,2,0,5.0,3.0,8.0,20.0,0,General Fitness,True
+20.0,34.43,2,1,3.0,3.0,6.8,90.0,3,General Fitness,True
+55.0,27.1,1,3,4.0,1.0,6.5,60.0,0,General Fitness,True
+48.0,25.6,3,1,4.0,1.0,6.8,90.0,2,Strength,True
+47.0,22.79,0,0,1.0,4.0,4.6,60.0,3,Flexibility,True
+20.0,25.84,0,1,5.0,4.0,7.3,20.0,2,Stress Reduction,True
+53.0,36.15,3,3,2.0,4.0,5.0,45.0,3,Stress Reduction,True
+47.0,18.66,0,3,4.0,2.0,6.6,60.0,2,Stress Reduction,True
+55.0,25.45,0,3,3.0,3.0,7.2,20.0,0,Stress Reduction,True
+56.0,20.8,0,1,3.0,5.0,8.6,45.0,2,Stress Reduction,True
+27.0,41.08,0,3,2.0,2.0,5.8,60.0,2,Weight Management,True
+27.0,41.29,0,1,5.0,4.0,9.2,45.0,1,Weight Management,True
+61.0,23.86,2,3,1.0,1.0,8.4,60.0,0,Strength,True
+42.0,13.09,2,3,5.0,1.0,6.4,20.0,2,Strength,True
+38.0,27.71,0,0,2.0,5.0,5.3,30.0,2,Flexibility,True
+31.0,15.99,3,3,5.0,1.0,4.8,90.0,3,Strength,True
+48.0,25.02,0,2,1.0,4.0,7.4,45.0,0,Stress Reduction,True
+53.0,28.52,2,2,1.0,3.0,5.9,20.0,2,Stress Reduction,True
+18.0,25.43,3,3,1.0,5.0,8.8,20.0,3,General Fitness,True
+43.0,24.42,2,0,3.0,3.0,6.0,45.0,3,Stress Reduction,True
+64.0,21.32,1,2,2.0,4.0,5.6,90.0,3,Stress Reduction,True
+31.0,31.48,0,0,3.0,5.0,7.4,20.0,0,Weight Management,True
+31.0,19.28,0,1,5.0,5.0,6.0,20.0,0,Stress Reduction,True

@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# SQLite
+*.db
+*.sqlite3
+
+# ML artifacts
+models/*.pkl
+models/*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/.env
+.npm/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TensorFlow environment
+.venv-tf/
+
+# Datasets - keep datasets out of GitHub
+data/raw/
+data/processed/yoga82/
+
+# Allow trained models needed by the application
+!models/*.joblib
+
+# Keep large training log out of Git
+models/artifacts/training.log

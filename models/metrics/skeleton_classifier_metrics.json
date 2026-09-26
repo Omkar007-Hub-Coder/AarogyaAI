@@ -1,0 +1,537 @@
+{
+  "data_source": "REAL",
+  "dataset": "yoga-82-skeletons-normalized",
+  "model_selected": "random_forest",
+  "model_comparison_on_valid": {
+    "random_forest": {
+      "val_accuracy": 0.8673,
+      "val_macro_f1": 0.8557
+    },
+    "svm_rbf": {
+      "val_accuracy": 0.7355,
+      "val_macro_f1": 0.6029
+    },
+    "hist_gradient_boosting": {
+      "val_accuracy": 0.4711,
+      "val_macro_f1": 0.4287
+    }
+  },
+  "model_config": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('clf',\n                 RandomForestClassifier(min_samples_split=4, n_estimators=200,\n                                        n_jobs=-1, random_state=42))])",
+  "n_classes": 82,
+  "n_train_samples": 10374,
+  "n_valid_samples": 2938,
+  "n_test_samples": 1566,
+  "feature_dim": 109,
+  "test_top1_accuracy": 0.8672,
+  "test_top5_accuracy": 0.9572,
+  "test_macro_precision": 0.8648,
+  "test_macro_recall": 0.859,
+  "test_macro_f1": 0.8552,
+  "classification_report": {
+    "Akarna_Dhanurasana": {
+      "precision": 0.8888888888888888,
+      "recall": 0.8888888888888888,
+      "f1-score": 0.8888888888888888,
+      "support": 9.0
+    },
+    "Bharadvajas_Twist_pose_or_Bharadvajasana_I_": {
+      "precision": 0.8888888888888888,
+      "recall": 0.8888888888888888,
+      "f1-score": 0.8888888888888888,
+      "support": 9.0
+    },
+    "Boat_Pose_or_Paripurna_Navasana_": {
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1-score": 0.9090909090909091,
+      "support": 25.0
+    },
+    "Bound_Angle_Pose_or_Baddha_Konasana_": {
+      "precision": 0.7857142857142857,
+      "recall": 0.8461538461538461,
+      "f1-score": 0.8148148148148148,
+      "support": 26.0
+    },
+    "Bow_Pose_or_Dhanurasana_": {
+      "precision": 1.0,
+      "recall": 0.9473684210526315,
+      "f1-score": 0.972972972972973,
+      "support": 19.0
+    },
+    "Bridge_Pose_or_Setu_Bandha_Sarvangasana_": {
+      "precision": 1.0,
+      "recall": 0.96,
+      "f1-score": 0.9795918367346939,
+      "support": 25.0
+    },
+    "Camel_Pose_or_Ustrasana_": {
+      "precision": 1.0,
+      "recall": 0.9090909090909091,
+      "f1-score": 0.9523809523809523,
+      "support": 33.0
+    },
+    "Cat_Cow_Pose_or_Marjaryasana_": {
+      "precision": 0.8888888888888888,
+      "recall": 0.9411764705882353,
+      "f1-score": 0.9142857142857143,
+      "support": 17.0
+    },
+    "Chair_Pose_or_Utkatasana_": {
+      "precision": 0.8620689655172413,
+      "recall": 0.9615384615384616,
+      "f1-score": 0.9090909090909091,
+      "support": 26.0
+    },
+    "Child_Pose_or_Balasana_": {
+      "precision": 0.9583333333333334,
+      "recall": 1.0,
+      "f1-score": 0.9787234042553191,
+      "support": 23.0
+    },
+    "Cobra_Pose_or_Bhujangasana_": {
+      "precision": 0.8333333333333334,
+      "recall": 0.7142857142857143,
+      "f1-score": 0.7692307692307693,
+      "support": 14.0
+    },
+    "Cockerel_Pose": {
+      "precision": 0.6666666666666666,
+      "recall": 0.46153846153846156,
+      "f1-score": 0.5454545454545454,
+      "support": 13.0
+    },
+    "Corpse_Pose_or_Savasana_": {
+      "precision": 0.8148148148148148,
+      "recall": 0.9166666666666666,
+      "f1-score": 0.8627450980392157,
+      "support": 24.0
+    },
+    "Cow_Face_Pose_or_Gomukhasana_": {
+      "precision": 0.9523809523809523,
+      "recall": 0.8695652173913043,
+      "f1-score": 0.9090909090909091,
+      "support": 23.0
+    },
+    "Crane_(Crow)_Pose_or_Bakasana_": {
+      "precision": 0.75,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.7058823529411765,
+      "support": 9.0
+    },
+    "Dolphin_Plank_Pose_or_Makara_Adho_Mukha_Svanasana_": {
+      "precision": 0.6,
+      "recall": 0.75,
+      "f1-score": 0.6666666666666666,
+      "support": 4.0
+    },
+    "Dolphin_Pose_or_Ardha_Pincha_Mayurasana_": {
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.9090909090909091,
+      "support": 6.0
+    },
+    "Downward-Facing_Dog_pose_or_Adho_Mukha_Svanasana_": {
+      "precision": 0.9130434782608695,
+      "recall": 1.0,
+      "f1-score": 0.9545454545454546,
+      "support": 21.0
+    },
+    "Eagle_Pose_or_Garudasana_": {
+      "precision": 0.7619047619047619,
+      "recall": 0.9411764705882353,
+      "f1-score": 0.8421052631578947,
+      "support": 17.0
+    },
+    "Eight-Angle_Pose_or_Astavakrasana_": {
+      "precision": 0.875,
+      "recall": 0.9333333333333333,
+      "f1-score": 0.9032258064516129,
+      "support": 15.0
+    },
+    "Extended_Puppy_Pose_or_Uttana_Shishosana_": {
+      "precision": 0.625,
+      "recall": 1.0,
+      "f1-score": 0.7692307692307693,
+      "support": 5.0
+    },
+    "Extended_Revolved_Side_Angle_Pose_or_Utthita_Parsvakonasana_": {
+      "precision": 0.896551724137931,
+      "recall": 0.9629629629629629,
+      "f1-score": 0.9285714285714286,
+      "support": 27.0
+    },
+    "Extended_Revolved_Triangle_Pose_or_Utthita_Trikonasana_": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 22.0
+    },
+    "Feathered_Peacock_Pose_or_Pincha_Mayurasana_": {
+      "precision": 0.9473684210526315,
+      "recall": 0.8181818181818182,
+      "f1-score": 0.8780487804878049,
+      "support": 22.0
+    },
+    "Firefly_Pose_or_Tittibhasana_": {
+      "precision": 0.8333333333333334,
+      "recall": 0.9090909090909091,
+      "f1-score": 0.8695652173913043,
+      "support": 22.0
+    },
+    "Fish_Pose_or_Matsyasana_": {
+      "precision": 0.8235294117647058,
+      "recall": 0.7368421052631579,
+      "f1-score": 0.7777777777777778,
+      "support": 19.0
+    },
+    "Four-Limbed_Staff_Pose_or_Chaturanga_Dandasana_": {
+      "precision": 0.7619047619047619,
+      "recall": 1.0,
+      "f1-score": 0.8648648648648649,
+      "support": 16.0
+    },
+    "Frog_Pose_or_Bhekasana": {
+      "precision": 0.9333333333333333,
+      "recall": 1.0,
+      "f1-score": 0.9655172413793104,
+      "support": 14.0
+    },
+    "Garland_Pose_or_Malasana_": {
+      "precision": 1.0,
+      "recall": 0.9130434782608695,
+      "f1-score": 0.9545454545454546,
+      "support": 23.0
+    },
+    "Gate_Pose_or_Parighasana_": {
+      "precision": 1.0,
+      "recall": 0.9090909090909091,
+      "f1-score": 0.9523809523809523,
+      "support": 11.0
+    },
+    "Half_Lord_of_the_Fishes_Pose_or_Ardha_Matsyendrasana_": {
+      "precision": 0.90625,
+      "recall": 0.9666666666666667,
+      "f1-score": 0.9354838709677419,
+      "support": 30.0
+    },
+    "Half_Moon_Pose_or_Ardha_Chandrasana_": {
+      "precision": 0.8666666666666667,
+      "recall": 0.9629629629629629,
+      "f1-score": 0.9122807017543859,
+      "support": 27.0
+    },
+    "Handstand_pose_or_Adho_Mukha_Vrksasana_": {
+      "precision": 0.75,
+      "recall": 0.9473684210526315,
+      "f1-score": 0.8372093023255814,
+      "support": 19.0
+    },
+    "Happy_Baby_Pose_or_Ananda_Balasana_": {
+      "precision": 0.8333333333333334,
+      "recall": 0.7692307692307693,
+      "f1-score": 0.8,
+      "support": 13.0
+    },
+    "Head-to-Knee_Forward_Bend_pose_or_Janu_Sirsasana_": {
+      "precision": 0.7222222222222222,
+      "recall": 0.7647058823529411,
+      "f1-score": 0.7428571428571429,
+      "support": 17.0
+    },
+    "Heron_Pose_or_Krounchasana_": {
+      "precision": 1.0,
+      "recall": 0.9285714285714286,
+      "f1-score": 0.9629629629629629,
+      "support": 14.0
+    },
+    "Intense_Side_Stretch_Pose_or_Parsvottanasana_": {
+      "precision": 0.875,
+      "recall": 0.875,
+      "f1-score": 0.875,
+      "support": 16.0
+    },
+    "Legs-Up-the-Wall_Pose_or_Viparita_Karani_": {
+      "precision": 1.0,
+      "recall": 0.7894736842105263,
+      "f1-score": 0.8823529411764706,
+      "support": 19.0
+    },
+    "Locust_Pose_or_Salabhasana_": {
+      "precision": 0.8636363636363636,
+      "recall": 0.9047619047619048,
+      "f1-score": 0.8837209302325582,
+      "support": 21.0
+    },
+    "Lord_of_the_Dance_Pose_or_Natarajasana_": {
+      "precision": 0.8648648648648649,
+      "recall": 1.0,
+      "f1-score": 0.927536231884058,
+      "support": 32.0
+    },
+    "Low_Lunge_pose_or_Anjaneyasana_": {
+      "precision": 0.75,
+      "recall": 0.9310344827586207,
+      "f1-score": 0.8307692307692308,
+      "support": 29.0
+    },
+    "Noose_Pose_or_Pasasana_": {
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1-score": 0.8571428571428571,
+      "support": 4.0
+    },
+    "Peacock_Pose_or_Mayurasana_": {
+      "precision": 0.9285714285714286,
+      "recall": 0.8666666666666667,
+      "f1-score": 0.896551724137931,
+      "support": 15.0
+    },
+    "Pigeon_Pose_or_Kapotasana_": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "Plank_Pose_or_Kumbhakasana_": {
+      "precision": 0.8888888888888888,
+      "recall": 1.0,
+      "f1-score": 0.9411764705882353,
+      "support": 8.0
+    },
+    "Plow_Pose_or_Halasana_": {
+      "precision": 1.0,
+      "recall": 0.9166666666666666,
+      "f1-score": 0.9565217391304348,
+      "support": 12.0
+    },
+    "Pose_Dedicated_to_the_Sage_Koundinya_or_Eka_Pada_Koundinyanasana_I_and_II": {
+      "precision": 0.9230769230769231,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.8888888888888888,
+      "support": 14.0
+    },
+    "Rajakapotasana": {
+      "precision": 0.96,
+      "recall": 0.9230769230769231,
+      "f1-score": 0.9411764705882353,
+      "support": 26.0
+    },
+    "Reclining_Hand-to-Big-Toe_Pose_or_Supta_Padangusthasana_": {
+      "precision": 0.7333333333333333,
+      "recall": 0.7333333333333333,
+      "f1-score": 0.7333333333333333,
+      "support": 15.0
+    },
+    "Revolved_Head-to-Knee_Pose_or_Parivrtta_Janu_Sirsasana_": {
+      "precision": 0.625,
+      "recall": 1.0,
+      "f1-score": 0.7692307692307693,
+      "support": 20.0
+    },
+    "Scale_Pose_or_Tolasana_": {
+      "precision": 0.9230769230769231,
+      "recall": 0.9230769230769231,
+      "f1-score": 0.9230769230769231,
+      "support": 13.0
+    },
+    "Scorpion_pose_or_vrischikasana": {
+      "precision": 0.6666666666666666,
+      "recall": 0.36363636363636365,
+      "f1-score": 0.47058823529411764,
+      "support": 11.0
+    },
+    "Seated_Forward_Bend_pose_or_Paschimottanasana_": {
+      "precision": 0.9,
+      "recall": 0.6428571428571429,
+      "f1-score": 0.75,
+      "support": 14.0
+    },
+    "Shoulder-Pressing_Pose_or_Bhujapidasana_": {
+      "precision": 0.7,
+      "recall": 0.7777777777777778,
+      "f1-score": 0.7368421052631579,
+      "support": 9.0
+    },
+    "Side-Reclining_Leg_Lift_pose_or_Anantasana_": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Side_Crane_(Crow)_Pose_or_Parsva_Bakasana_": {
+      "precision": 0.8,
+      "recall": 0.8888888888888888,
+      "f1-score": 0.8421052631578947,
+      "support": 18.0
+    },
+    "Side_Plank_Pose_or_Vasisthasana_": {
+      "precision": 0.875,
+      "recall": 0.9459459459459459,
+      "f1-score": 0.9090909090909091,
+      "support": 37.0
+    },
+    "Sitting pose 1 (normal)": {
+      "precision": 0.8928571428571429,
+      "recall": 0.6578947368421053,
+      "f1-score": 0.7575757575757576,
+      "support": 38.0
+    },
+    "Split pose": {
+      "precision": 0.8275862068965517,
+      "recall": 0.6486486486486487,
+      "f1-score": 0.7272727272727273,
+      "support": 37.0
+    },
+    "Staff_Pose_or_Dandasana_": {
+      "precision": 0.7777777777777778,
+      "recall": 1.0,
+      "f1-score": 0.875,
+      "support": 7.0
+    },
+    "Standing_Forward_Bend_pose_or_Uttanasana_": {
+      "precision": 0.868421052631579,
+      "recall": 0.8918918918918919,
+      "f1-score": 0.88,
+      "support": 37.0
+    },
+    "Standing_Split_pose_or_Urdhva_Prasarita_Eka_Padasana_": {
+      "precision": 0.8571428571428571,
+      "recall": 0.5,
+      "f1-score": 0.631578947368421,
+      "support": 12.0
+    },
+    "Standing_big_toe_hold_pose_or_Utthita_Padangusthasana": {
+      "precision": 0.9411764705882353,
+      "recall": 0.7619047619047619,
+      "f1-score": 0.8421052631578947,
+      "support": 21.0
+    },
+    "Supported_Headstand_pose_or_Salamba_Sirsasana_": {
+      "precision": 0.7878787878787878,
+      "recall": 0.9629629629629629,
+      "f1-score": 0.8666666666666667,
+      "support": 27.0
+    },
+    "Supported_Shoulderstand_pose_or_Salamba_Sarvangasana_": {
+      "precision": 0.9545454545454546,
+      "recall": 0.9545454545454546,
+      "f1-score": 0.9545454545454546,
+      "support": 22.0
+    },
+    "Supta_Baddha_Konasana_": {
+      "precision": 0.7666666666666667,
+      "recall": 0.7931034482758621,
+      "f1-score": 0.7796610169491526,
+      "support": 29.0
+    },
+    "Supta_Virasana_Vajrasana": {
+      "precision": 0.90625,
+      "recall": 0.90625,
+      "f1-score": 0.90625,
+      "support": 32.0
+    },
+    "Tortoise_Pose": {
+      "precision": 0.8333333333333334,
+      "recall": 0.625,
+      "f1-score": 0.7142857142857143,
+      "support": 16.0
+    },
+    "Tree_Pose_or_Vrksasana_": {
+      "precision": 0.8666666666666667,
+      "recall": 0.9629629629629629,
+      "f1-score": 0.9122807017543859,
+      "support": 27.0
+    },
+    "Upward_Bow_(Wheel)_Pose_or_Urdhva_Dhanurasana_": {
+      "precision": 1.0,
+      "recall": 0.9230769230769231,
+      "f1-score": 0.96,
+      "support": 26.0
+    },
+    "Upward_Facing_Two-Foot_Staff_Pose_or_Dwi_Pada_Viparita_Dandasana_": {
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1-score": 0.8571428571428571,
+      "support": 8.0
+    },
+    "Upward_Plank_Pose_or_Purvottanasana_": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 20.0
+    },
+    "Virasana_or_Vajrasana": {
+      "precision": 0.7857142857142857,
+      "recall": 0.9565217391304348,
+      "f1-score": 0.8627450980392157,
+      "support": 23.0
+    },
+    "Warrior_III_Pose_or_Virabhadrasana_III_": {
+      "precision": 0.9047619047619048,
+      "recall": 0.95,
+      "f1-score": 0.926829268292683,
+      "support": 20.0
+    },
+    "Warrior_II_Pose_or_Virabhadrasana_II_": {
+      "precision": 0.9666666666666667,
+      "recall": 1.0,
+      "f1-score": 0.9830508474576272,
+      "support": 29.0
+    },
+    "Warrior_I_Pose_or_Virabhadrasana_I_": {
+      "precision": 1.0,
+      "recall": 0.625,
+      "f1-score": 0.7692307692307693,
+      "support": 24.0
+    },
+    "Wide-Angle_Seated_Forward_Bend_pose_or_Upavistha_Konasana_": {
+      "precision": 0.16666666666666666,
+      "recall": 0.08695652173913043,
+      "f1-score": 0.11428571428571428,
+      "support": 23.0
+    },
+    "Wide-Legged_Forward_Bend_pose_or_Prasarita_Padottanasana_": {
+      "precision": 0.9047619047619048,
+      "recall": 0.8636363636363636,
+      "f1-score": 0.8837209302325582,
+      "support": 22.0
+    },
+    "Wild_Thing_pose_or_Camatkarasana_": {
+      "precision": 0.9,
+      "recall": 0.8181818181818182,
+      "f1-score": 0.8571428571428571,
+      "support": 22.0
+    },
+    "Wind_Relieving_pose_or_Pawanmuktasana": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 16.0
+    },
+    "Yogic_sleep_pose": {
+      "precision": 0.6666666666666666,
+      "recall": 0.75,
+      "f1-score": 0.7058823529411765,
+      "support": 8.0
+    },
+    "viparita_virabhadrasana_or_reverse_warrior_pose": {
+      "precision": 0.8888888888888888,
+      "recall": 0.9411764705882353,
+      "f1-score": 0.9142857142857143,
+      "support": 17.0
+    },
+    "accuracy": 0.8671775223499362,
+    "macro avg": {
+      "precision": 0.8648085194256417,
+      "recall": 0.8589932235229475,
+      "f1-score": 0.8551793562827322,
+      "support": 1566.0
+    },
+    "weighted avg": {
+      "precision": 0.8690768446655996,
+      "recall": 0.8671775223499362,
+      "f1-score": 0.8622544581775061,
+      "support": 1566.0
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "split_policy": "dataset_provided_splits_preserved",
+  "note": "yoga_valid is the original validation set from Yoga-82, not a re-split of train",
+  "processed_counts": {
+    "train": 11608,
+    "valid": 3348,
+    "test": 1763
+  },
+  "skipped": [
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Bound_Angle_Pose_or_Baddha_Konasana_/Bound_Angle_Pose_or_Baddha_Konasana__image_87.jpg",
+      "split": "train",
+      "cls": "Bound_Angle_Pose_or_Baddha_Konasana_",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "a0761c7004a3e80f778748bdb07d89e1"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Corpse_Pose_or_Savasana_/Corpse_Pose_or_Savasana__image_93.jpg",
+      "split": "train",
+      "cls": "Corpse_Pose_or_Savasana_",
+      "reason": "within_split_duplicate",
+      "md5": "a0761c7004a3e80f778748bdb07d89e1"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Feathered_Peacock_Pose_or_Pincha_Mayurasana_/Feathered_Peacock_Pose_or_Pincha_Mayurasana__image_139.jpg",
+      "split": "train",
+      "cls": "Feathered_Peacock_Pose_or_Pincha_Mayurasana_",
+      "reason": "within_split_duplicate",
+      "md5": "a0761c7004a3e80f778748bdb07d89e1"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Tortoise_Pose/Tortoise_Pose_image_110.jpg",
+      "split": "train",
+      "cls": "Tortoise_Pose",
+      "reason": "within_split_duplicate",
+      "md5": "a0761c7004a3e80f778748bdb07d89e1"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_valid/Half_Lord_of_the_Fishes_Pose_or_Ardha_Matsyendrasana_/Half_Lord_of_the_Fishes_Pose_or_Ardha_Matsyendrasana__image_251.jpg",
+      "split": "valid",
+      "cls": "Half_Lord_of_the_Fishes_Pose_or_Ardha_Matsyendrasana_",
+      "reason": "within_split_duplicate",
+      "md5": "a0761c7004a3e80f778748bdb07d89e1"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Cat_Cow_Pose_or_Marjaryasana_/Cat_Cow_Pose_or_Marjaryasana__image_75.jpg",
+      "split": "train",
+      "cls": "Cat_Cow_Pose_or_Marjaryasana_",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "966fd68b50040ed370767884f42b353c"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_valid/Warrior_II_Pose_or_Virabhadrasana_II_/Warrior_II_Pose_or_Virabhadrasana_II__image_320.jpg",
+      "split": "valid",
+      "cls": "Warrior_II_Pose_or_Virabhadrasana_II_",
+      "reason": "within_split_duplicate",
+      "md5": "966fd68b50040ed370767884f42b353c"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_valid/Wide-Legged_Forward_Bend_pose_or_Prasarita_Padottanasana_/Wide-Legged_Forward_Bend_pose_or_Prasarita_Padottanasana__image_250.jpg",
+      "split": "valid",
+      "cls": "Wide-Legged_Forward_Bend_pose_or_Prasarita_Padottanasana_",
+      "reason": "within_split_duplicate",
+      "md5": "966fd68b50040ed370767884f42b353c"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_test/Warrior_III_Pose_or_Virabhadrasana_III_/Warrior_III_Pose_or_Virabhadrasana_III__image_266.jpg",
+      "split": "test",
+      "cls": "Warrior_III_Pose_or_Virabhadrasana_III_",
+      "reason": "within_split_duplicate",
+      "md5": "966fd68b50040ed370767884f42b353c"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Extended_Revolved_Side_Angle_Pose_or_Utthita_Parsvakonasana_/Extended_Revolved_Side_Angle_Pose_or_Utthita_Parsvakonasana__image_207.jpg",
+      "split": "train",
+      "cls": "Extended_Revolved_Side_Angle_Pose_or_Utthita_Parsvakonasana_",
+      "reason": "within_split_duplicate",
+      "md5": "6e65cdca8e427867c918ebe16184bd48"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Fish_Pose_or_Matsyasana_/Fish_Pose_or_Matsyasana__image_75.jpg",
+      "split": "train",
+      "cls": "Fish_Pose_or_Matsyasana_",
+      "reason": "within_split_duplicate",
+      "md5": "43201d1660aff9c61dadc33d2fa8ba0b"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_10.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "ffd4ef025b5431c72d5557fd36e31da7"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_100.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "8b440f291046150ab85fc80d5588e742"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_101.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "3e24057f02ee792925b3dc2b48f5e478"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_103.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "44b3723df9b2ab2bcb71076d1f35a1e3"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_108.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "8dec3da136846777278b7e3ce8994878"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_111.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "02f4f697eef42e59315b52389e31d64c"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_113.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "fa8ad337a1d90efb84289f73e43a3a47"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_18.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "82fd8bea055129ff47b4b174ed9987fb"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_24.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "2fd28b2e04bd962732673f07a6a8f4ca"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_25.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "b394661780d1cad29012b720d86d9566"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_59.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "9bf9aae06bf34afb27e8f3897a6496f1"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_6.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "40c88d66c1d6d68b287ca1e596aa2c08"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_60.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "be2c07328596f4269e8c8cc28036fcc1"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_77.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "c450fe42303ce774a6eb41d4b2c281da"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_78.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "49f9d81aab9a08b653a149eb63c94c5c"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_84.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "9c6887f57418bbdbb8079e9752ea571b"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_85.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "e6000c3ca5eb3b244b65b0982d020620"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_87.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "9c169794de4d0b691ae7f9f992a37df8"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_89.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "3502137f7f18b4e8ac136eb70465406b"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_92.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "b3f41d5d0891c040ee9e9a87d570847a"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_97.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "62f9c42be066ae176aa4edfbb262e6fe"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Frog_Pose_or_Bhekasana/Frog_Pose_or_Bhekasana_image_99.jpg",
+      "split": "train",
+      "cls": "Frog_Pose_or_Bhekasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "3c1458c7446717e79feb9415aa9717bd"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Wild_Thing_pose_or_Camatkarasana_/Wild_Thing_pose_or_Camatkarasana__image_132.jpg",
+      "split": "train",
+      "cls": "Wild_Thing_pose_or_Camatkarasana_",
+      "reason": "within_split_duplicate",
+      "md5": "371c379e6c35cf55215d931489285f43"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Rajakapotasana/Rajakapotasana_image_60.jpg",
+      "split": "train",
+      "cls": "Rajakapotasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "7e38a78e5dc8f67ae17b6eb76a25348c"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Reclining_Hand-to-Big-Toe_Pose_or_Supta_Padangusthasana_/Reclining_Hand-to-Big-Toe_Pose_or_Supta_Padangusthasana__image_46.jpg",
+      "split": "train",
+      "cls": "Reclining_Hand-to-Big-Toe_Pose_or_Supta_Padangusthasana_",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "5fa23ea9f65e3a772b747fa0e6234308"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Reclining_Hand-to-Big-Toe_Pose_or_Supta_Padangusthasana_/Reclining_Hand-to-Big-Toe_Pose_or_Supta_Padangusthasana__image_65.jpg",
+      "split": "train",
+      "cls": "Reclining_Hand-to-Big-Toe_Pose_or_Supta_Padangusthasana_",
+      "reason": "within_split_duplicate",
+      "md5": "5fa23ea9f65e3a772b747fa0e6234308"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Virasana_or_Vajrasana/Virasana_or_Vajrasana_image_75.jpg",
+      "split": "train",
+      "cls": "Virasana_or_Vajrasana",
+      "reason": "within_split_duplicate",
+      "md5": "5fa23ea9f65e3a772b747fa0e6234308"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Supta_Virasana_Vajrasana/Supta_Virasana_Vajrasana_image_238.jpg",
+      "split": "train",
+      "cls": "Supta_Virasana_Vajrasana",
+      "reason": "within_split_duplicate",
+      "md5": "5264f9d077ba084af55a5320de8a8685"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Supta_Virasana_Vajrasana/Supta_Virasana_Vajrasana_image_188.jpg",
+      "split": "train",
+      "cls": "Supta_Virasana_Vajrasana",
+      "reason": "within_split_duplicate",
+      "md5": "e7a34509c4094a8ce0f195aba1f87d5f"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Supta_Virasana_Vajrasana/Supta_Virasana_Vajrasana_image_43.jpg",
+      "split": "train",
+      "cls": "Supta_Virasana_Vajrasana",
+      "reason": "within_split_duplicate",
+      "md5": "7712639bf507890dfffeff0ef6c96159"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Supta_Virasana_Vajrasana/Supta_Virasana_Vajrasana_image_96.jpg",
+      "split": "train",
+      "cls": "Supta_Virasana_Vajrasana",
+      "reason": "within_split_duplicate",
+      "md5": "d72b1a383c235708782780b1aff98de8"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Supta_Virasana_Vajrasana/Supta_Virasana_Vajrasana_image_72.jpg",
+      "split": "train",
+      "cls": "Supta_Virasana_Vajrasana",
+      "reason": "within_split_duplicate",
+      "md5": "ac657b9e1282c2e04f15f203697b183c"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Supta_Virasana_Vajrasana/Supta_Virasana_Vajrasana_image_55.jpg",
+      "split": "train",
+      "cls": "Supta_Virasana_Vajrasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "42705e875207f49876d588b5b44376f7"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Supta_Virasana_Vajrasana/Supta_Virasana_Vajrasana_image_57.jpg",
+      "split": "train",
+      "cls": "Supta_Virasana_Vajrasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "58156f7d69c6a6035b9530090c9f8ac1"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Supta_Virasana_Vajrasana/Supta_Virasana_Vajrasana_image_62.jpg",
+      "split": "train",
+      "cls": "Supta_Virasana_Vajrasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "c8fa7f3ed2f562a3ecfb51bdc0e8eaa5"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Supta_Virasana_Vajrasana/Supta_Virasana_Vajrasana_image_86.jpg",
+      "split": "train",
+      "cls": "Supta_Virasana_Vajrasana",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "9f6af032a113a64de14ef305361e04f1"
+    },
+    {
+      "path": "/Users/omkarpurushottamkulkarni/Desktop/IBM PROJECT/AarogyaAI/data/raw/yoga82/yoga_train/Wide-Angle_Seated_Forward_Bend_pose_or_Upavistha_Konasana_/Wide-Angle_Seated_Forward_Bend_pose_or_Upavistha_Konasana__image_19.jpg",
+      "split": "train",
+      "cls": "Wide-Angle_Seated_Forward_Bend_pose_or_Upavistha_Konasana_",
+      "reason": "cross_split_duplicate_removed_from_train",
+      "md5": "1dd977443843c749bc6fe9254220a20b"
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "source_splits_used": [
+    "yoga_train",
+    "yoga_valid",
+    "yoga_test"
+  ],
+  "split_policy": "dataset_provided_splits_preserved",
+  "image_size": [
+    224,
+    224
+  ],
+  "n_classes": 82,
+  "raw_totals": {
+    "train": 11652,
+    "valid": 3351,
+    "test": 1764
+  },
+  "processed_totals": {
+    "train": 11608,
+    "valid": 3348,
+    "test": 1763
+  },
+  "skipped_total": 48,
+  "skipped_within_split_dup": 17,
+  "skipped_cross_split_removed_from_train": 31,
+  "corrupted": [],
+  "per_class": {
+    "Akarna_Dhanurasana": {
+      "raw_train": 58,
+      "raw_valid": 17,
+      "raw_test": 9,
+      "proc_train": 58,
+      "proc_valid": 17,
+      "proc_test": 9
+    },
+    "Bharadvajas_Twist_pose_or_Bharadvajasana_I_": {
+      "raw_train": 57,
+      "raw_valid": 15,
+      "raw_test": 9,
+      "proc_train": 57,
+      "proc_valid": 15,
+      "proc_test": 9
+    },
+    "Boat_Pose_or_Paripurna_Navasana_": {
+      "raw_train": 217,
+      "raw_valid": 62,
+      "raw_test": 31,
+      "proc_train": 217,
+      "proc_valid": 62,
+      "proc_test": 31
+    },
+    "Bound_Angle_Pose_or_Baddha_Konasana_": {
+      "raw_train": 187,
+      "raw_valid": 54,
+      "raw_test": 26,
+      "proc_train": 186,
+      "proc_valid": 54,
+      "proc_test": 26
+    },
+    "Bow_Pose_or_Dhanurasana_": {
+      "raw_train": 163,
+      "raw_valid": 47,
+      "raw_test": 23,
+      "proc_train": 163,
+      "proc_valid": 47,
+      "proc_test": 23
+    },
+    "Bridge_Pose_or_Setu_Bandha_Sarvangasana_": {
+      "raw_train": 193,
+      "raw_valid": 55,
+      "raw_test": 28,
+      "proc_train": 193,
+      "proc_valid": 55,
+      "proc_test": 28
+    },
+    "Camel_Pose_or_Ustrasana_": {
+      "raw_train": 230,
+      "raw_valid": 65,
+      "raw_test": 34,
+      "proc_train": 230,
+      "proc_valid": 65,
+      "proc_test": 34
+    },
+    "Cat_Cow_Pose_or_Marjaryasana_": {
+      "raw_train": 114,
+      "raw_valid": 31,
+      "raw_test": 17,
+      "proc_train": 113,
+      "proc_valid": 31,
+      "proc_test": 17
+    },
+    "Chair_Pose_or_Utkatasana_": {
+      "raw_train": 205,
+      "raw_valid": 64,
+      "raw_test": 30,
+      "proc_train": 205,
+      "proc_valid": 64,
+      "proc_test": 30
+    },
+    "Child_Pose_or_Balasana_": {
+      "raw_train": 217,
+      "raw_valid": 62,
+      "raw_test": 32,
+      "proc_train": 217,
+      "proc_valid": 62,
+      "proc_test": 32
+    },
+    "Cobra_Pose_or_Bhujangasana_": {
+      "raw_train": 121,
+      "raw_valid": 34,
+      "raw_test": 16,
+      "proc_train": 121,
+      "proc_valid": 34,
+      "proc_test": 16
+    },
+    "Cockerel_Pose": {
+      "raw_train": 105,
+      "raw_valid": 29,
+      "raw_test": 14,
+      "proc_train": 105,
+      "proc_valid": 29,
+      "proc_test": 14
+    },
+    "Corpse_Pose_or_Savasana_": {
+      "raw_train": 189,
+      "raw_valid": 53,
+      "raw_test": 27,
+      "proc_train": 188,
+      "proc_valid": 53,
+      "proc_test": 27
+    },
+    "Cow_Face_Pose_or_Gomukhasana_": {
+      "raw_train": 173,
+      "raw_valid": 46,
+      "raw_test": 23,
+      "proc_train": 173,
+      "proc_valid": 46,
+      "proc_test": 23
+    },
+    "Crane_(Crow)_Pose_or_Bakasana_": {
+      "raw_train": 71,
+      "raw_valid": 21,
+      "raw_test": 10,
+      "proc_train": 71,
+      "proc_valid": 21,
+      "proc_test": 10
+    },
+    "Dolphin_Plank_Pose_or_Makara_Adho_Mukha_Svanasana_": {
+      "raw_train": 31,
+      "raw_valid": 9,
+      "raw_test": 5,
+      "proc_train": 31,
+      "proc_valid": 9,
+      "proc_test": 5
+    },
+    "Dolphin_Pose_or_Ardha_Pincha_Mayurasana_": {
+      "raw_train": 42,
+      "raw_valid": 13,
+      "raw_test": 7,
+      "proc_train": 42,
+      "proc_valid": 13,
+      "proc_test": 7
+    },
+    "Downward-Facing_Dog_pose_or_Adho_Mukha_Svanasana_": {
+      "raw_train": 199,
+      "raw_valid": 54,
+      "raw_test": 27,
+      "proc_train": 199,
+      "proc_valid": 54,
+      "proc_test": 27
+    },
+    "Eagle_Pose_or_Garudasana_": {
+      "raw_train": 112,
+      "raw_valid": 38,
+      "raw_test": 18,
+      "proc_train": 112,
+      "proc_valid": 38,
+      "proc_test": 18
+    },
+    "Eight-Angle_Pose_or_Astavakrasana_": {
+      "raw_train": 110,
+      "raw_valid": 27,
+      "raw_test": 15,
+      "proc_train": 110,
+      "proc_valid": 27,
+      "proc_test": 15
+    },
+    "Extended_Puppy_Pose_or_Uttana_Shishosana_": {
+      "raw_train": 47,
+      "raw_valid": 12,
+      "raw_test": 7,
+      "proc_train": 47,
+      "proc_valid": 12,
+      "proc_test": 7
+    },
+    "Extended_Revolved_Side_Angle_Pose_or_Utthita_Parsvakonasana_": {
+      "raw_train": 210,
+      "raw_valid": 57,
+      "raw_test": 28,
+      "proc_train": 209,
+      "proc_valid": 57,
+      "proc_test": 28
+    },
+    "Extended_Revolved_Triangle_Pose_or_Utthita_Trikonasana_": {
+      "raw_train": 213,
+      "raw_valid": 58,
+      "raw_test": 28,
+      "proc_train": 213,
+      "proc_valid": 58,
+      "proc_test": 28
+    },
+    "Feathered_Peacock_Pose_or_Pincha_Mayurasana_": {
+      "raw_train": 147,
+      "raw_valid": 44,
+      "raw_test": 23,
+      "proc_train": 146,
+      "proc_valid": 44,
+      "proc_test": 23
+    },
+    "Firefly_Pose_or_Tittibhasana_": {
+      "raw_train": 127,
+      "raw_valid": 35,
+      "raw_test": 24,
+      "proc_train": 127,
+      "proc_valid": 35,
+      "proc_test": 24
+    },
+    "Fish_Pose_or_Matsyasana_": {
+      "raw_train": 141,
+      "raw_valid": 48,
+      "raw_test": 26,
+      "proc_train": 140,
+      "proc_valid": 48,
+      "proc_test": 26
+    },
+    "Four-Limbed_Staff_Pose_or_Chaturanga_Dandasana_": {
+      "raw_train": 157,
+      "raw_valid": 42,
+      "raw_test": 21,
+      "proc_train": 157,
+      "proc_valid": 42,
+      "proc_test": 21
+    },
+    "Frog_Pose_or_Bhekasana": {
+      "raw_train": 103,
+      "raw_valid": 33,
+      "raw_test": 15,
+      "proc_train": 81,
+      "proc_valid": 33,
+      "proc_test": 15
+    },
+    "Garland_Pose_or_Malasana_": {
+      "raw_train": 169,
+      "raw_valid": 49,
+      "raw_test": 26,
+      "proc_train": 169,
+      "proc_valid": 49,
+      "proc_test": 26
+    },
+    "Gate_Pose_or_Parighasana_": {
+      "raw_train": 101,
+      "raw_valid": 30,
+      "raw_test": 14,
+      "proc_train": 101,
+      "proc_valid": 30,
+      "proc_test": 14
+    },
+    "Half_Lord_of_the_Fishes_Pose_or_Ardha_Matsyendrasana_": {
+      "raw_train": 207,
+      "raw_valid": 58,
+      "raw_test": 30,
+      "proc_train": 207,
+      "proc_valid": 57,
+      "proc_test": 30
+    },
+    "Half_Moon_Pose_or_Ardha_Chandrasana_": {
+      "raw_train": 192,
+      "raw_valid": 56,
+      "raw_test": 30,
+      "proc_train": 192,
+      "proc_valid": 56,
+      "proc_test": 30
+    },
+    "Handstand_pose_or_Adho_Mukha_Vrksasana_": {
+      "raw_train": 123,
+      "raw_valid": 43,
+      "raw_test": 20,
+      "proc_train": 123,
+      "proc_valid": 43,
+      "proc_test": 20
+    },
+    "Happy_Baby_Pose_or_Ananda_Balasana_": {
+      "raw_train": 102,
+      "raw_valid": 28,
+      "raw_test": 16,
+      "proc_train": 102,
+      "proc_valid": 28,
+      "proc_test": 16
+    },
+    "Head-to-Knee_Forward_Bend_pose_or_Janu_Sirsasana_": {
+      "raw_train": 129,
+      "raw_valid": 36,
+      "raw_test": 17,
+      "proc_train": 129,
+      "proc_valid": 36,
+      "proc_test": 17
+    },
+    "Heron_Pose_or_Krounchasana_": {
+      "raw_train": 94,
+      "raw_valid": 27,
+      "raw_test": 14,
+      "proc_train": 94,
+      "proc_valid": 27,
+      "proc_test": 14
+    },
+    "Intense_Side_Stretch_Pose_or_Parsvottanasana_": {
+      "raw_train": 131,
+      "raw_valid": 33,
+      "raw_test": 19,
+      "proc_train": 131,
+      "proc_valid": 33,
+      "proc_test": 19
+    },
+    "Legs-Up-the-Wall_Pose_or_Viparita_Karani_": {
+      "raw_train": 160,
+      "raw_valid": 47,
+      "raw_test": 24,
+      "proc_train": 160,
+      "proc_valid": 47,
+      "proc_test": 24
+    },
+    "Locust_Pose_or_Salabhasana_": {
+      "raw_train": 158,
+      "raw_valid": 47,
+      "raw_test": 22,
+      "proc_train": 158,
+      "proc_valid": 47,
+      "proc_test": 22
+    },
+    "Lord_of_the_Dance_Pose_or_Natarajasana_": {
+      "raw_train": 280,
+      "raw_valid": 77,
+      "raw_test": 36,
+      "proc_train": 280,
+      "proc_valid": 77,
+      "proc_test": 36
+    },
+    "Low_Lunge_pose_or_Anjaneyasana_": {
+      "raw_train": 161,
+      "raw_valid": 48,
+      "raw_test": 30,
+      "proc_train": 161,
+      "proc_valid": 48,
+      "proc_test": 30
+    },
+    "Noose_Pose_or_Pasasana_": {
+      "raw_train": 25,
+      "raw_valid": 5,
+      "raw_test": 5,
+      "proc_train": 25,
+      "proc_valid": 5,
+      "proc_test": 5
+    },
+    "Peacock_Pose_or_Mayurasana_": {
+      "raw_train": 79,
+      "raw_valid": 30,
+      "raw_test": 18,
+      "proc_train": 79,
+      "proc_valid": 30,
+      "proc_test": 18
+    },
+    "Pigeon_Pose_or_Kapotasana_": {
+      "raw_train": 37,
+      "raw_valid": 11,
+      "raw_test": 6,
+      "proc_train": 37,
+      "proc_valid": 11,
+      "proc_test": 6
+    },
+    "Plank_Pose_or_Kumbhakasana_": {
+      "raw_train": 48,
+      "raw_valid": 13,
+      "raw_test": 8,
+      "proc_train": 48,
+      "proc_valid": 13,
+      "proc_test": 8
+    },
+    "Plow_Pose_or_Halasana_": {
+      "raw_train": 101,
+      "raw_valid": 30,
+      "raw_test": 15,
+      "proc_train": 101,
+      "proc_valid": 30,
+      "proc_test": 15
+    },
+    "Pose_Dedicated_to_the_Sage_Koundinya_or_Eka_Pada_Koundinyanasana_I_and_II": {
+      "raw_train": 93,
+      "raw_valid": 28,
+      "raw_test": 14,
+      "proc_train": 93,
+      "proc_valid": 28,
+      "proc_test": 14
+    },
+    "Rajakapotasana": {
+      "raw_train": 192,
+      "raw_valid": 54,
+      "raw_test": 28,
+      "proc_train": 191,
+      "proc_valid": 54,
+      "proc_test": 28
+    },
+    "Reclining_Hand-to-Big-Toe_Pose_or_Supta_Padangusthasana_": {
+      "raw_train": 103,
+      "raw_valid": 29,
+      "raw_test": 15,
+      "proc_train": 101,
+      "proc_valid": 29,
+      "proc_test": 15
+    },
+    "Revolved_Head-to-Knee_Pose_or_Parivrtta_Janu_Sirsasana_": {
+      "raw_train": 156,
+      "raw_valid": 42,
+      "raw_test": 23,
+      "proc_train": 156,
+      "proc_valid": 42,
+      "proc_test": 23
+    },
+    "Scale_Pose_or_Tolasana_": {
+      "raw_train": 88,
+      "raw_valid": 25,
+      "raw_test": 13,
+      "proc_train": 88,
+      "proc_valid": 25,
+      "proc_test": 13
+    },
+    "Scorpion_pose_or_vrischikasana": {
+      "raw_train": 163,
+      "raw_valid": 46,
+      "raw_test": 12,
+      "proc_train": 163,
+      "proc_valid": 46,
+      "proc_test": 12
+    },
+    "Seated_Forward_Bend_pose_or_Paschimottanasana_": {
+      "raw_train": 127,
+      "raw_valid": 36,
+      "raw_test": 18,
+      "proc_train": 127,
+      "proc_valid": 36,
+      "proc_test": 18
+    },
+    "Shoulder-Pressing_Pose_or_Bhujapidasana_": {
+      "raw_train": 70,
+      "raw_valid": 17,
+      "raw_test": 10,
+      "proc_train": 70,
+      "proc_valid": 17,
+      "proc_test": 10
+    },
+    "Side-Reclining_Leg_Lift_pose_or_Anantasana_": {
+      "raw_train": 46,
+      "raw_valid": 12,
+      "raw_test": 7,
+      "proc_train": 46,
+      "proc_valid": 12,
+      "proc_test": 7
+    },
+    "Side_Crane_(Crow)_Pose_or_Parsva_Bakasana_": {
+      "raw_train": 134,
+      "raw_valid": 32,
+      "raw_test": 18,
+      "proc_train": 134,
+      "proc_valid": 32,
+      "proc_test": 18
+    },
+    "Side_Plank_Pose_or_Vasisthasana_": {
+      "raw_train": 209,
+      "raw_valid": 59,
+      "raw_test": 37,
+      "proc_train": 209,
+      "proc_valid": 59,
+      "proc_test": 37
+    },
+    "Sitting pose 1 (normal)": {
+      "raw_train": 350,
+      "raw_valid": 99,
+      "raw_test": 50,
+      "proc_train": 350,
+      "proc_valid": 99,
+      "proc_test": 50
+    },
+    "Split pose": {
+      "raw_train": 199,
+      "raw_valid": 71,
+      "raw_test": 38,
+      "proc_train": 199,
+      "proc_valid": 71,
+      "proc_test": 38
+    },
+    "Staff_Pose_or_Dandasana_": {
+      "raw_train": 56,
+      "raw_valid": 17,
+      "raw_test": 9,
+      "proc_train": 56,
+      "proc_valid": 17,
+      "proc_test": 9
+    },
+    "Standing_Forward_Bend_pose_or_Uttanasana_": {
+      "raw_train": 274,
+      "raw_valid": 79,
+      "raw_test": 44,
+      "proc_train": 274,
+      "proc_valid": 79,
+      "proc_test": 44
+    },
+    "Standing_Split_pose_or_Urdhva_Prasarita_Eka_Padasana_": {
+      "raw_train": 92,
+      "raw_valid": 29,
+      "raw_test": 14,
+      "proc_train": 92,
+      "proc_valid": 29,
+      "proc_test": 14
+    },
+    "Standing_big_toe_hold_pose_or_Utthita_Padangusthasana": {
+      "raw_train": 109,
+      "raw_valid": 47,
+      "raw_test": 24,
+      "proc_train": 109,
+      "proc_valid": 47,
+      "proc_test": 24
+    },
+    "Supported_Headstand_pose_or_Salamba_Sirsasana_": {
+      "raw_train": 219,
+      "raw_valid": 63,
+      "raw_test": 31,
+      "proc_train": 219,
+      "proc_valid": 63,
+      "proc_test": 31
+    },
+    "Supported_Shoulderstand_pose_or_Salamba_Sarvangasana_": {
+      "raw_train": 193,
+      "raw_valid": 51,
+      "raw_test": 24,
+      "proc_train": 193,
+      "proc_valid": 51,
+      "proc_test": 24
+    },
+    "Supta_Baddha_Konasana_": {
+      "raw_train": 219,
+      "raw_valid": 58,
+      "raw_test": 30,
+      "proc_train": 219,
+      "proc_valid": 58,
+      "proc_test": 30
+    },
+    "Supta_Virasana_Vajrasana": {
+      "raw_train": 226,
+      "raw_valid": 65,
+      "raw_test": 34,
+      "proc_train": 217,
+      "proc_valid": 65,
+      "proc_test": 34
+    },
+    "Tortoise_Pose": {
+      "raw_train": 119,
+      "raw_valid": 30,
+      "raw_test": 18,
+      "proc_train": 118,
+      "proc_valid": 30,
+      "proc_test": 18
+    },
+    "Tree_Pose_or_Vrksasana_": {
+      "raw_train": 161,
+      "raw_valid": 66,
+      "raw_test": 32,
+      "proc_train": 161,
+      "proc_valid": 66,
+      "proc_test": 32
+    },
+    "Upward_Bow_(Wheel)_Pose_or_Urdhva_Dhanurasana_": {
+      "raw_train": 217,
+      "raw_valid": 64,
+      "raw_test": 35,
+      "proc_train": 217,
+      "proc_valid": 64,
+      "proc_test": 35
+    },
+    "Upward_Facing_Two-Foot_Staff_Pose_or_Dwi_Pada_Viparita_Dandasana_": {
+      "raw_train": 36,
+      "raw_valid": 22,
+      "raw_test": 12,
+      "proc_train": 36,
+      "proc_valid": 22,
+      "proc_test": 12
+    },
+    "Upward_Plank_Pose_or_Purvottanasana_": {
+      "raw_train": 153,
+      "raw_valid": 42,
+      "raw_test": 21,
+      "proc_train": 153,
+      "proc_valid": 42,
+      "proc_test": 21
+    },
+    "Virasana_or_Vajrasana": {
+      "raw_train": 243,
+      "raw_valid": 67,
+      "raw_test": 32,
+      "proc_train": 242,
+      "proc_valid": 67,
+      "proc_test": 32
+    },
+    "Warrior_III_Pose_or_Virabhadrasana_III_": {
+      "raw_train": 144,
+      "raw_valid": 23,
+      "raw_test": 23,
+      "proc_train": 144,
+      "proc_valid": 23,
+      "proc_test": 22
+    },
+    "Warrior_II_Pose_or_Virabhadrasana_II_": {
+      "raw_train": 186,
+      "raw_valid": 51,
+      "raw_test": 32,
+      "proc_train": 186,
+      "proc_valid": 50,
+      "proc_test": 32
+    },
+    "Warrior_I_Pose_or_Virabhadrasana_I_": {
+      "raw_train": 110,
+      "raw_valid": 43,
+      "raw_test": 24,
+      "proc_train": 110,
+      "proc_valid": 43,
+      "proc_test": 24
+    },
+    "Wide-Angle_Seated_Forward_Bend_pose_or_Upavistha_Konasana_": {
+      "raw_train": 133,
+      "raw_valid": 39,
+      "raw_test": 23,
+      "proc_train": 132,
+      "proc_valid": 39,
+      "proc_test": 23
+    },
+    "Wide-Legged_Forward_Bend_pose_or_Prasarita_Padottanasana_": {
+      "raw_train": 188,
+      "raw_valid": 51,
+      "raw_test": 28,
+      "proc_train": 188,
+      "proc_valid": 50,
+      "proc_test": 28
+    },
+    "Wild_Thing_pose_or_Camatkarasana_": {
+      "raw_train": 123,
+      "raw_valid": 37,
+      "raw_test": 22,
+      "proc_train": 122,
+      "proc_valid": 37,
+      "proc_test": 22
+    },
+    "Wind_Relieving_pose_or_Pawanmuktasana": {
+      "raw_train": 121,
+      "raw_valid": 30,
+      "raw_test": 17,
+      "proc_train": 121,
+      "proc_valid": 30,
+      "proc_test": 17
+    },
+    "Yogic_sleep_pose": {
+      "raw_train": 56,
+      "raw_valid": 17,
+      "raw_test": 9,
+      "proc_train": 56,
+      "proc_valid": 17,
+      "proc_test": 9
+    },
+    "viparita_virabhadrasana_or_reverse_warrior_pose": {
+      "raw_train": 108,
+      "raw_valid": 17,
+      "raw_test": 20,
+      "proc_train": 108,
+      "proc_valid": 17,
+      "proc_test": 20
+    }
+  }
+}

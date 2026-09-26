@@ -1,0 +1,23 @@
+{
+  "model_name": "random_forest",
+  "classes": [
+    "Flexibility",
+    "General Fitness",
+    "Mobility",
+    "Strength",
+    "Stress Reduction",
+    "Weight Management"
+  ],
+  "features": [
+    "age",
+    "bmi",
+    "activity_level",
+    "yoga_experience",
+    "flexibility_score",
+    "strength_score",
+    "sleep_hours",
+    "session_duration_min",
+    "fitness_experience"
+  ],
+  "data_source": "SYNTHETIC"
+}
