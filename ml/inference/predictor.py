@@ -86,11 +86,65 @@ def classify_yoga_image(image_path: str, top_k: int = 5) -> dict[str, Any]:
             "Complete EfficientNetB0 training first."
         )
 
+    # Deployment mode: if the local TensorFlow environment is unavailable,
+    # run TensorFlow directly in the backend process.
     if not _TF_PYTHON.exists():
-        raise FileNotFoundError(
-            f"TF Python interpreter not found: {_TF_PYTHON}\n"
-            "Create the .venv-tf environment with TensorFlow 2.15 first."
-        )
+        try:
+            import tensorflow as tf
+            import numpy as np
+            from ml.preprocessing.image_utils import preprocess_for_model
+
+            meta_path = MODELS_DIR / "yoga_classifier_meta.json"
+
+            if not meta_path.exists():
+                raise FileNotFoundError(
+                    f"Yoga classifier metadata not found: {meta_path}"
+                )
+
+            with open(meta_path, "r") as f:
+                meta = json.load(f)
+
+            class_names = meta["class_names"]
+
+            model = tf.keras.models.load_model(str(model_path))
+
+            arr = preprocess_for_model(image_path)
+
+            if arr is None:
+                raise RuntimeError(
+                    f"Could not load image: {image_path}"
+                )
+
+            batch = arr[np.newaxis, ...]
+            probs = model.predict(batch, verbose=0)[0]
+
+            top_indices = np.argsort(probs)[::-1][:top_k]
+
+            result = {
+                "predicted_pose": class_names[int(top_indices[0])],
+                "confidence": float(probs[top_indices[0]]),
+                "top_k": [
+                    {
+                        "pose": class_names[int(i)],
+                        "confidence": float(probs[i]),
+                    }
+                    for i in top_indices
+                ],
+            }
+
+            logger.info(
+                "Yoga image classified directly with TensorFlow: %s (conf=%.3f)",
+                result["predicted_pose"],
+                result["confidence"],
+            )
+
+            return result
+
+        except Exception as exc:
+            logger.exception("Direct TensorFlow image inference failed.")
+            raise RuntimeError(
+                f"Yoga image inference failed: {exc}"
+            ) from exc
 
     if not _INFER_SCRIPT.exists():
         raise FileNotFoundError(f"Inference script not found: {_INFER_SCRIPT}")
