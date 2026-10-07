@@ -262,7 +262,6 @@ export default function ProfileForm() {
               <option value="none">No preference</option>
               <option value="vegetarian">Vegetarian</option>
               <option value="vegan">Vegan</option>
-              <option value="non-vegetarian">Non-Vegetarian</option>
             </select>
           </div>
 
