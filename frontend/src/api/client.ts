@@ -62,7 +62,7 @@ export async function getModelStatus(): Promise<ModelStatus> {
 export async function recognizePoseFromImage(file: File): Promise<PoseRecognitionResult> {
   const formData = new FormData()
   formData.append('file', file)
-  const res = await axios.post<PoseRecognitionResult>('/api/v1/ml/predict/image', formData, {
+  const res = await api.post<PoseRecognitionResult>('/ml/predict/image', formData, {
     headers: { 'Content-Type': 'multipart/form-data' },
   })
   return res.data
