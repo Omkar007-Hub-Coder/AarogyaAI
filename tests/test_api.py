@@ -111,3 +111,42 @@ def test_invalid_profile_gender():
     bad = {**VALID_PROFILE, "gender": "robot"}
     res = client.post("/api/v1/profile", json=bad)
     assert res.status_code == 422
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# POST /ml/predict/skeleton
+# ─────────────────────────────────────────────────────────────────────────────
+
+import numpy as _np
+
+
+def _fake_landmarks(seed: int = 0) -> list[list[float]]:
+    """Return 33 deterministic [x, y, z] landmark rows."""
+    rng = _np.random.default_rng(seed)
+    return rng.uniform(-1.0, 1.0, (33, 3)).tolist()
+
+
+def test_predict_skeleton_valid():
+    """Valid 33×3 landmark input returns a pose classification."""
+    payload = {"landmarks": _fake_landmarks(), "top_k": 5}
+    res = client.post("/api/v1/ml/predict/skeleton", json=payload)
+    assert res.status_code == 200, res.text
+    data = res.json()
+    assert "predicted_pose" in data
+    assert "confidence" in data
+    assert isinstance(data["top_k"], list)
+    assert len(data["top_k"]) <= 5
+
+
+def test_predict_skeleton_wrong_shape():
+    """Sending only 10 landmarks must return 422 Unprocessable Entity."""
+    payload = {"landmarks": [[0.1, 0.2, 0.3]] * 10}
+    res = client.post("/api/v1/ml/predict/skeleton", json=payload)
+    assert res.status_code == 422
+
+
+def test_model_status_includes_skeleton():
+    """GET /ml/status must report the skeleton classifier key."""
+    res = client.get("/api/v1/ml/status")
+    assert res.status_code == 200
+    assert "skeleton_classifier" in res.json()

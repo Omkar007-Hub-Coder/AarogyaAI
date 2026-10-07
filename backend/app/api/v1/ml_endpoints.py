@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parents[4]
 sys.path.insert(0, str(ROOT))
 
 from ml.inference.predictor import (
+    classify_skeleton,
     get_yoga_recommendations,
     predict_goal,
     predict_pose_difficulty,
@@ -54,6 +55,20 @@ class UserMLProfile(BaseModel):
 
 class RecommendationRequest(UserMLProfile):
     top_n: int = Field(10, ge=1, le=50)
+
+
+class SkeletonInput(BaseModel):
+    """
+    33 BlazePose landmarks as a flat list of 99 floats (x0,y0,z0, x1,y1,z1, …)
+    or a nested list of 33 × [x, y, z] rows.
+    """
+    landmarks: list[list[float]] = Field(
+        ...,
+        description="33 landmarks, each [x, y, z]. Shape must be (33, 3).",
+        min_length=33,
+        max_length=33,
+    )
+    top_k: int = Field(5, ge=1, le=82)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -105,6 +120,41 @@ def predict_difficulty_endpoint(req: UserMLProfile) -> dict[str, Any]:
         return result
     except FileNotFoundError as e:
         raise HTTPException(status_code=503, detail=str(e))
+
+
+@router.post("/predict/skeleton", tags=["ml"])
+def predict_from_skeleton(req: SkeletonInput) -> dict[str, Any]:
+    """
+    Classify a yoga pose from 33 BlazePose landmarks.
+
+    Uses the RandomForest skeleton classifier trained on the real
+    Yoga-82 BlazePose dataset (REAL ML — test Top-1 = 86.72 %).
+
+    **Input**: 33 landmarks, each ``[x, y, z]`` (hip-centred, torso-scaled
+    coordinates as produced by MediaPipe BlazePose).
+
+    **Output**: predicted pose name, confidence, and top-k alternatives.
+
+    This is a research/educational tool — NOT a medical assessment.
+    """
+    landmarks = req.landmarks
+    if len(landmarks) != 33 or any(len(pt) < 3 for pt in landmarks):
+        raise HTTPException(
+            status_code=422,
+            detail="landmarks must be a list of 33 points, each with at least [x, y, z].",
+        )
+    import numpy as np
+    arr = np.array(landmarks, dtype=np.float32)   # (33, 3)
+    try:
+        result = classify_skeleton(arr, top_k=req.top_k)
+        return result
+    except FileNotFoundError as exc:
+        raise HTTPException(status_code=503, detail=str(exc))
+    except Exception as exc:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Skeleton inference failed: {type(exc).__name__}: {exc}",
+        )
 
 
 @router.post("/predict/image", tags=["ml"])
