@@ -11,8 +11,10 @@ import type {
   PoseRecognitionResult,
 } from '../types'
 
+const BASE = (import.meta.env.VITE_API_BASE_URL ?? '').replace(/\/$/, '')
+
 const api = axios.create({
-  baseURL: '/api/v1',
+  baseURL: `${BASE}/api/v1`,
   headers: { 'Content-Type': 'application/json' },
 })
 
